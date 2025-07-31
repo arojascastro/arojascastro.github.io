@@ -5,10 +5,36 @@ nocite: |
   @*
 ---
 
+Below is a selection of my publications, grouped by type.
+
 ## Journal Articles
-::: {#articles}
-:::
-## Book Chapters
-::: {#chapters}
+
+::: {{#articles}}
+```{{bibliography}}
+type = "article"
+```
 :::
 
+## Book Chapters
+
+::: {{#chapters}}
+```{{bibliography}}
+type = "incollection"
+```
+:::
+
+## Books
+
+::: {{#books}}
+```{{bibliography}}
+type = "book"
+```
+:::
+
+## Conference Papers
+
+::: {{#conferences}}
+```{{bibliography}}
+type = "inproceedings"
+```
+:::
