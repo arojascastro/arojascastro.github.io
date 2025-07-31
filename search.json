@@ -7,25 +7,32 @@
     "text": "Digital Scholarly Editing (UNIR, MA in Digital Humanities)\n\nSupervision of MA dissertations in Digital Humanities\n\nYou can add syllabi or course descriptions here."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Home",
+    "objectID": "projects/hallernet.html",
+    "href": "projects/hallernet.html",
+    "title": "HallerNet",
     "section": "",
-    "text": "Dr. Antonio Rojas Castro\nI am a Digital Humanities Research Associate at the Freie Universität Berlin and the University of Tübingen. I specialize in digital editions and computational literary studies. My current project focuses on network analysis and the role of character typologies such as the gracioso in Golden Age theater in Spain, using computational methods and corpus analysis.\nYou can found more information about my work at:\n\nORCID: https://orcid.org/0000-0002-8916-4997\n\nGitHub: https://github.com/arojascastro\n\nZotero: https://www.zotero.org/antoniorojascastro"
+    "text": "Brief 2–3 sentence summary of your role and contributions to HallerNet. Replace this placeholder with specifics."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "projects/soledades.html",
+    "href": "projects/soledades.html",
+    "title": "Digital Critical Edition of Soledades",
     "section": "",
-    "text": "Hello!\nI hold a PhD in Humanities from the Universitat Pompeu Fabra (Barcelona, Spain), where I wrote a dissertation on digital editing. During my PhD (2011–2015), I manually collated twenty witnesses of Luis de Góngora’s Soledades and encoded a critical text, which I published online using Edition Visualization Technology (EVT).\nFrom 2016 to 2019, I worked at the Cologne Center for eHumanities (CCeH) at the University of Cologne (Germany), focusing on the modeling, processing, and curation of letters and bibliographic references related to Albrecht von Haller—now published online as part of HallerNet.\nSince 2019 to 2025, I worked as a Digital Humanities researcher at the Berlin-Brandenburg Academy of Sciences and Humanities for the Proyecto Humboldt Digital. In this role, I developed the Dossier Digital: Alexander von Humboldt and Cuba.\nI am currently working as Research Associate at the Universität Tübingen, where I am developing my reserach on Calderón de la Barca’s theater using CalDraCor. Additonally, I am part of the team behind DraCor at the Freie Universität Berlin that aims to connect the platform with open science infrastructures and improve its impact.\nI also serve as a Part-Time Lecturer at the Universidad Internacional de La Rioja (UNIR), where I teach a course on digital scholarly editing and supervise MA dissertations in the Digital Humanities program.\nBeyond research and teaching, I am committed to building a diverse and open academic community. I have volunteered in several organizations, including:\n\nthe European Association for Digital Humanities (2015–2018),\nThe Programming Historian en español (2016–2020), and\nthe Asociación de Humanidades Digitales Hispánicas (2021–2023).\n\nIn my free time I like doing sport, drawing, reading books, and discovering new places."
+    "text": "A scholarly TEI‑encoded critical edition of Soledades developed during my PhD, including text curation, variant handling, and editorial/annotation pipelines.\n\n\n{% include figure.liquid loading=\"eager\" path=\"assets/img/soledades-page.png\" title=\"Soledades edition sample\" class=\"img-fluid rounded z-depth-1\" %}"
   },
   {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "Curriculum Vitae",
+    "objectID": "projects/golden-age-mythological-poems.html",
+    "href": "projects/golden-age-mythological-poems.html",
+    "title": "Golden Age Mythological Poems",
     "section": "",
-    "text": "Download my latest CV: cv.pdf"
+    "text": "A long‑running project for curating and analyzing Spanish Golden Age mythological poems, combining editorial models with computational exploration (stylometry, mapping, topic modelling).\n\n\n{% include figure.liquid path=\"assets/img/mythology-sample.png\" title=\"Corpus view\" class=\"img-fluid rounded z-depth-1\" %}"
+  },
+  {
+    "objectID": "projects/proyecto-humboldt-digital.html",
+    "href": "projects/proyecto-humboldt-digital.html",
+    "title": "Proyecto Humboldt Digital (BBAW)",
+    "section": "",
+    "text": "Work on Humboldt Digital at BBAW, including editorial tasks, data curation, and supporting infrastructure for digital scholarship."
   },
   {
     "objectID": "publications.html",
@@ -35,10 +42,66 @@
     "text": "References\n\nAlvite-Díez, María-Luisa, and Antonio Rojas-Castro. 2022. “Ediciones Digitales Académicas: Concepto, Estándares de Calidad y Software de Publicación.” El Profesional de La Información 31 (2): e310216. https://doi.org/10.3145/epi.2022.mar.16.\n\n\nIsasi, Jennifer, and Antonio Rojas Castro. 2021. “¿Sin Equivalencia? Una Reflexión Sobre La Traducción Al Español de Recursos Educativos Abiertos.” Hispania 104 (4): 613–24. https://doi.org/https://doi.org/10.1353/hpn.2021.0130.\n\n\nKeith, Allison, Antonio Rojas Castro, and Sebastian Padó. 2024. “Computational Analysis of Gender Depiction in the Comedias of Calderón de La Barca.” arXiv. https://doi.org/10.48550/arXiv.2411.03895.\n\n\nKrafkt, Tobias, Antonio Rojas Castro, and Grisel Terrón Quintero, eds. 2024. Archivos Abiertos: El Patrimonio Documental Cubano y La Transformación Digital. De Gruyter. https://doi.org/10.1515/9783111187846.\n\n\nRojas Castro, Antonio. 2013a. “Las Humanidades Digitales: Principios, Valores y Prácticas.” Janus 2 (September): 74–99. http://www.janusdigital.es/articulo.htm?id=24.\n\n\n———. 2013b. “El Mapa y El Territorio. Una Aproximación Histórico-Bibliográfica a La Emergencia de Las Humanidades Digitales En España.” Caracteres 2 (2): 10–53. http://revistacaracteres.net/revista/vol2n2noviembre2013/el-mapa-y-el-territorio/.\n\n\n———. 2015. “De Los Datos Al Metamedio.” Ínsula 822 (June): 15–17.\n\n\n———. 2017. “La Edición Crítica Digital y La Codificación TEI. Preliminares Para Una Nueva Edición de Las Soledades de Luis de Góngora.” Revista de Humanidades Digitales 1: 4–19. https://doi.org/https://doi.org/10.5944/rhd.vol.1.2017.16379.\n\n\n———. 2018. “La Edición Académica Digital. De Las Teorías Del Texto a La Visualización de La Información.” In Humanidades Digitales: Edición, Literatura y Arte, 47–80. México D.F.: Bonilla Artigas. https://hcommons.org/deposits/item/hc:21883/.\n\n\n———. 2021. “Contra La Retórica FAIR.” Romanistik-Blog. https://blog.fid-romanistik.de/2021/04/28/contra-la-retorica-fair/.\n\n\n———. 2022a. “Roopika Risam, «New Digital Worlds. Postcolonial Digital Humanities in Theory, Praxis, and Pedagogy».” Anuario Lope de Vega Texto Literatura Cultura 28 (January): 588–92. https://doi.org/10.5565/rev/anuariolopedevega.433.\n\n\n———. 2022b. “La Publicación de Ediciones Digitales Académicas y El Caso de Las \"Soledades\" de Luis de Góngora.” Historias Fingidas Special Volume (1): 195–217. https://doi.org/10.13136/2284-2667/1149.\n\n\n———. 2023a. “Los Principios FAIR y El Proyecto Humboldt Digital. Una Confrontación.” In Humanidades Digitales y Patrimonio Cultural. Proyectos y Tendencias, edited by Anna Peirats and José Antonio Calvo, 161–83. Valencia: Tirant Lo Blanch.\n\n\n———. 2023b. “Multilingual Interfaces for All? Localisation Strategies in Proyecto Humboldt Digital.” In Multilingual Digital Humanities, 1st ed., 183–96. London: Routledge. https://doi.org/10.4324/9781003393696-16.\n\n\n———. 2024. “Big Data y Humanidades Digitales.” In Arte-Factos Para Los Estudios Literarios, edited by Nattie Golubov, 120–41. México D.F.: Universidad Autónoma de México.\n\n\n———. 2025. “Mapping Early Modern Hispanic Mythological Poems with Recogito.” In Digital Humanities in Medieval and Early Modern Spanish Texts, edited by Roberto J. González Zalacain and Gael Vaamonde, 101st–117th ed. Oxon & New York: Routledge.\n\n\nRojas Castro, Antonio, Tobias Kraft, and Grisel Terrón. 2023. “Política de Digitalización de Proyecto Humboldt Digital (ProHD).” https://zenodo.org/record/7564856.\n\n\nRojas Castro, Antonio, Cèlia Nadal Pasqual, and Amanda Pedraza. 2017. “El Diseño de CABIGO (Catálogo Bibliográfico Sobre Góngora).” In Serenísima Palabra. Actas Del X Congreso de La Asociación Internacional Siglo de Oro (Venecia, 14-18 de Julio de 2014). 5th Series. Venezia: Università Ca’ Foscari Venezia, Italia. https://doi.org/10.14277/6969-163-8/RIB-5-23.\n\n\nRojas Castro, Antonio, and Grisel Quintero Terrón. 2024. “Nuevos Retos En Torno a La Edición Digital En La Oficina Del Historiador: Hacia Una Transcripción Automatizada de Documentos Históricos.” In Archivos Abiertos: El Patrimonio Documental Cubano y La Transformación Digital, edited by Tobias Kraft, Antonio Rojas Castro, and Grisel Terrón Quintero, 101–20. De Gruyter. https://doi.org/10.1515/9783111187846-004.\n\n\nRojas Castro, Antonio, Grisel Terrón Quintero, Alaina Solernou Ferrer, and Tobias Kraft. 2023. “Cómo Crear Ediciones Digitales Académicas Entre La Habana y Berlín. El Caso de Proyecto Humboldt Digital (ProHD).” Journal of the Text Encoding Initiative, no. 16 (May). https://journals.openedition.org/jtei/4560."
   },
   {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Download my latest CV: cv.pdf"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Hello!\nI hold a PhD in Humanities from the Universitat Pompeu Fabra (Barcelona, Spain), where I wrote a dissertation on digital editing. During my PhD (2011–2015), I manually collated twenty witnesses of Luis de Góngora’s Soledades and encoded a critical text, which I published online using Edition Visualization Technology (EVT).\nFrom 2016 to 2019, I worked at the Cologne Center for eHumanities (CCeH) at the University of Cologne (Germany), focusing on the modeling, processing, and curation of letters and bibliographic references related to Albrecht von Haller—now published online as part of HallerNet.\nSince 2019 to 2025, I worked as a Digital Humanities researcher at the Berlin-Brandenburg Academy of Sciences and Humanities for the Proyecto Humboldt Digital. In this role, I developed the Dossier Digital: Alexander von Humboldt and Cuba.\nI am currently working as Research Associate at the Universität Tübingen, where I am developing my reserach on Calderón de la Barca’s theater using CalDraCor. Additonally, I am part of the team behind DraCor at the Freie Universität Berlin that aims to connect the platform with open science infrastructures and improve its impact.\nI also serve as a Part-Time Lecturer at the Universidad Internacional de La Rioja (UNIR), where I teach a course on digital scholarly editing and supervise MA dissertations in the Digital Humanities program.\nBeyond research and teaching, I am committed to building a diverse and open academic community. I have volunteered in several organizations, including:\n\nthe European Association for Digital Humanities (2015–2018),\nThe Programming Historian en español (2016–2020), and\nthe Asociación de Humanidades Digitales Hispánicas (2021–2023).\n\nIn my free time I like doing sport, drawing, reading books, and discovering new places."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Dr. Antonio Rojas Castro\nI am a Digital Humanities Research Associate at the Freie Universität Berlin and the University of Tübingen. I specialize in digital editions and computational literary studies. My current project focuses on network analysis and the role of character typologies such as the gracioso in Golden Age theater in Spain, using computational methods and corpus analysis.\nYou can found more information about my work at:\n\nORCID: https://orcid.org/0000-0002-8916-4997\n\nGitHub: https://github.com/arojascastro\n\nZotero: https://www.zotero.org/antoniorojascastro"
+  },
+  {
+    "objectID": "projects/early-modern-epic-poems.html",
+    "href": "projects/early-modern-epic-poems.html",
+    "title": "Early Modern Epic Poems",
+    "section": "",
+    "text": "An ongoing project on early modern Iberian epic poems, focusing on natural language processing, mapping, stylometry and network‑based analysis alongside editorial workflows.\n\n\n{% include figure.liquid path=\"assets/img/epic-network.png\" title=\"Network example\" class=\"img-fluid rounded z-depth-1\" %}"
+  },
+  {
     "objectID": "projects/index.html",
     "href": "projects/index.html",
     "title": "Projects",
     "section": "",
-    "text": "Here are selected projects. Create individual pages in projects/.\n\nCalDraCor — Network analysis of Calderón’s plays\nDigital Editions — TEI-based editorial workflows\nOpen Science in DH — Community practices and tools"
+    "text": "Here is a selection of my main digital research projects:"
+  },
+  {
+    "objectID": "projects/index.html#my-projects-pi",
+    "href": "projects/index.html#my-projects-pi",
+    "title": "Projects",
+    "section": "My Projects (PI)",
+    "text": "My Projects (PI)\n\nEarly Modern Epic Poems\nNatural language processing and editorial study of Iberian epic poetry.\nGolden Age Mythological Poems\nLong-running analysis and edition of Spanish mythological poetry using stylometry and mapping.\nDigital Critical Edition of Soledades\nTEI-encoded critical edition of Luis de Góngora’s Soledades (PhD project, 2011–2015)."
+  },
+  {
+    "objectID": "projects/index.html#collaborative-projects",
+    "href": "projects/index.html#collaborative-projects",
+    "title": "Projects",
+    "section": "Collaborative Projects",
+    "text": "Collaborative Projects\n\nDraCor (Drama Corpora Project)\nAPI-based workflows and character-level metrics for early modern drama corpora.\nTracing Regularities in Calderón\nComputational approaches to character roles and structures in Calderón’s plays.\nProyecto Humboldt Digital (BBAW)\nDigital editions and data curation at the Berlin-Brandenburg Academy of Sciences and Humanities.\nHallerNet\nCollaborative infrastructure for Albrecht von Haller’s letters and bibliography."
+  },
+  {
+    "objectID": "projects/tracing-regularities-in-calderon.html",
+    "href": "projects/tracing-regularities-in-calderon.html",
+    "title": "Tracing Regularities in Calderón",
+    "section": "",
+    "text": "Short summary of your work on the project (2–3 sentences). Replace this placeholder with specifics (e.g., tasks, datasets, analyses)."
+  },
+  {
+    "objectID": "projects/dracor.html",
+    "href": "projects/dracor.html",
+    "title": "DraCor",
+    "section": "",
+    "text": "Contributions to DraCor (Drama Corpora Project) with an emphasis on API‑driven workflows and character network metrics for research and teaching."
   }
 ]
