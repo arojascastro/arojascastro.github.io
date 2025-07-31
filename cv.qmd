@@ -5,7 +5,9 @@ format:
     toc: true
 ---
 
-Download my latest CV: [cv.pdf](cv/cv.pdf)
+## Download
+
+- [Download CV (PDF)](cv/cv.pdf)
 
 # Education
 
