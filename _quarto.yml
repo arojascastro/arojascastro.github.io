@@ -26,7 +26,7 @@ website:
         href: https://orcid.org/0000-0002-8916-4997
       - icon: graduation-cap
         href: https://scholar.google.com/citations?user=vVidxOUAAAAJ&hl=en
-      - icon: library
+      - icon: book
         href: https://www.zotero.org/antoniorojascastro
   page-footer:
     left: "© {{< meta year >}} Antonio Rojas Castro"
@@ -40,5 +40,9 @@ format:
     toc: true
     smooth-scroll: true
     code-copy: true
+    include-in-header:
+      text: |
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css" rel="stylesheet">
+
 execute:
   freeze: auto
