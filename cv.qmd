@@ -81,7 +81,7 @@ title: "Curriculum Vitae"
 
 ---
 
-## Download
+# Download
 
 - [Download CV (PDF)](cv/cv.pdf)
 
