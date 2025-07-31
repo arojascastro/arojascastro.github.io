@@ -2,10 +2,6 @@
 title: "Curriculum Vitae"
 ---
 
-## Download
-
-- [Download CV (PDF)](cv/cv.pdf)
-
 # Education
 
 - **2011-2015**: PhD in Humanities 
@@ -82,4 +78,8 @@ title: "Curriculum Vitae"
 
 - Interested in collaborative infrastructure, open research, and multilingual DH
 - ORCID: [0000-0002-8916-4997](https://orcid.org/0000-0002-8916-4997)
+
+## Download
+
+- [Download CV (PDF)](cv/cv.pdf)
 
