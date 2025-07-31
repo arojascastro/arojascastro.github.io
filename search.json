@@ -28,11 +28,39 @@
     "text": "Download my latest CV: cv.pdf"
   },
   {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Below is a selection of my publications, grouped by type."
+  },
+  {
+    "objectID": "publications.html#journal-articles",
+    "href": "publications.html#journal-articles",
+    "title": "Publications",
+    "section": "Journal Articles",
+    "text": "Journal Articles\n\n```{bibliography}\ntype = \"article\"\n```"
+  },
+  {
     "objectID": "publications.html#book-chapters",
     "href": "publications.html#book-chapters",
     "title": "Publications",
     "section": "Book Chapters",
-    "text": "Book Chapters"
+    "text": "Book Chapters\n\n```{bibliography}\ntype = \"incollection\"\n```"
+  },
+  {
+    "objectID": "publications.html#books",
+    "href": "publications.html#books",
+    "title": "Publications",
+    "section": "Books",
+    "text": "Books\n\n```{bibliography}\ntype = \"book\"\n```"
+  },
+  {
+    "objectID": "publications.html#conference-papers",
+    "href": "publications.html#conference-papers",
+    "title": "Publications",
+    "section": "Conference Papers",
+    "text": "Conference Papers\n\n```{bibliography}\ntype = \"inproceedings\"\n```"
   },
   {
     "objectID": "projects/index.html",
