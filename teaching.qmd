@@ -1,9 +1,64 @@
-
 ---
 title: "Teaching"
 ---
 
-- **Digital Scholarly Editing** (UNIR, MA in Digital Humanities)  
-- Supervision of MA dissertations in Digital Humanities
+I am currently a **Part-Time Lecturer at [Universidad Internacional de La Rioja (UNIR)](https://www.unir.net/)** (remote).  
+Since 2020, I have been teaching in the **Master’s Degree in Digital Humanities**, focusing on **Digital Scholarly Editions**, and supervising numerous Master’s theses.
 
-You can add syllabi or course descriptions here.
+---
+
+## Current Teaching (2020–present)
+
+### Digital Scholarly Editing  
+*Master’s Degree in Digital Humanities, UNIR*
+
+- Integrates theory and practice: conception, transcription, encoding, transformation, and publication.
+- Hands-on experience with **TEI/XML**, **XSLT**, and publication workflows.
+
+### Master’s Thesis Supervision
+
+- Supervision of students in the **Master’s Degree in Digital Humanities** (2023–2024)
+
+---
+
+## Recent Teaching (2019–2023)
+
+- **Theories of Digital Humanities** (2022–2023)  
+  *Master’s Degree in Digital Humanities, UNIR*  
+  → Explored theoretical frameworks, critical debates, and ethics in DH.
+
+- **Linguistic Applications in Digital Technology** (2020–2021)  
+  *Master’s Degree in Digital Humanities, UNIR*  
+  → Focused on computational linguistics and digital text analysis.
+
+- **Master’s Thesis Supervision** (2020–2022)  
+  *Master’s Degree in Digital Humanities, UNIR*
+
+- **Master’s Thesis Supervision** (2019–2020)  
+  *Master’s Degree in Rhetoric and Public Speaking, UNIR*
+
+---
+
+## Workshops & Training (selected)
+
+- **2–6 May 2022** – _On the trail of Alexander Von Humboldt: digital tools for preservation, research and dissemination of cultural heritage_  
+  *Università di Verona* (6‑hour workshop)
+
+- **Jan 2019** – _Atélier TEI_  
+  *Université Paris Sorbonne* (1‑week workshop)
+
+- **Nov 2017** – _Edición digital y análisis cuantitativo de textos poéticos del Siglo de Oro_  
+  *Università di Verona* (1‑week workshop)
+
+- **Apr 2017** – _Introduction to the Text Encoding Initiative and Web Publication_  
+  *NYU Abu Dhabi* (1‑day workshop)
+
+- **2015** – _Introduction to Literary Studies (TA)_  
+  *Degree in Humanities, Universitat Pompeu Fabra*
+
+- **2014** – _Scholarly Writing (TA)_  
+  *Degree in Humanities, Universitat Pompeu Fabra*
+
+---
+
+_If you’re a student looking for supervision or want to attend a future workshop, feel free to contact me._
