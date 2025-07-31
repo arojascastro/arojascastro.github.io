@@ -28,11 +28,11 @@
     "text": "A long‑running project for curating and analyzing Spanish Golden Age mythological poems, combining editorial models with computational exploration (stylometry, mapping, topic modelling).\n\n\n{% include figure.liquid path=\"assets/img/mythology-sample.png\" title=\"Corpus view\" class=\"img-fluid rounded z-depth-1\" %}"
   },
   {
-    "objectID": "projects/proyecto-humboldt-digital.html",
-    "href": "projects/proyecto-humboldt-digital.html",
-    "title": "Proyecto Humboldt Digital (BBAW)",
+    "objectID": "projects/early-modern-epic-poems.html",
+    "href": "projects/early-modern-epic-poems.html",
+    "title": "Early Modern Epic Poems",
     "section": "",
-    "text": "Work on Humboldt Digital at BBAW, including editorial tasks, data curation, and supporting infrastructure for digital scholarship."
+    "text": "An ongoing project on early modern Iberian epic poems, focusing on natural language processing, mapping, stylometry and network‑based analysis alongside editorial workflows.\n\n\n{% include figure.liquid path=\"assets/img/epic-network.png\" title=\"Network example\" class=\"img-fluid rounded z-depth-1\" %}"
   },
   {
     "objectID": "publications.html",
@@ -63,11 +63,11 @@
     "text": "Dr. Antonio Rojas Castro\nI am a Digital Humanities Research Associate at the Freie Universität Berlin and the University of Tübingen. I specialize in digital editions and computational literary studies. My current project focuses on network analysis and the role of character typologies such as the gracioso in Golden Age theater in Spain, using computational methods and corpus analysis.\nYou can found more information about my work at:\n\nORCID: https://orcid.org/0000-0002-8916-4997\n\nGitHub: https://github.com/arojascastro\n\nZotero: https://www.zotero.org/antoniorojascastro"
   },
   {
-    "objectID": "projects/early-modern-epic-poems.html",
-    "href": "projects/early-modern-epic-poems.html",
-    "title": "Early Modern Epic Poems",
+    "objectID": "projects/proyecto-humboldt-digital.html",
+    "href": "projects/proyecto-humboldt-digital.html",
+    "title": "Proyecto Humboldt Digital (BBAW)",
     "section": "",
-    "text": "An ongoing project on early modern Iberian epic poems, focusing on natural language processing, mapping, stylometry and network‑based analysis alongside editorial workflows.\n\n\n{% include figure.liquid path=\"assets/img/epic-network.png\" title=\"Network example\" class=\"img-fluid rounded z-depth-1\" %}"
+    "text": "Work on Humboldt Digital at BBAW, including editorial tasks, data curation, and supporting infrastructure for digital scholarship."
   },
   {
     "objectID": "projects/index.html",
