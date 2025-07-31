@@ -1,10 +1,34 @@
-
 ---
 title: "Projects"
 ---
 
-Here are selected projects. Create individual pages in `projects/`.
+Here is a selection of my main digital research projects:
 
-- **CalDraCor** — Network analysis of Calderón's plays
-- **Digital Editions** — TEI-based editorial workflows
-- **Open Science in DH** — Community practices and tools
+## My Projects (PI)
+
+- [Early Modern Epic Poems](early-modern-epics.qmd)  
+  Natural language processing and editorial study of Iberian epic poetry.
+
+- [Golden Age Mythological Poems](golden-age-poems.qmd)  
+  Long-running analysis and edition of Spanish mythological poetry using stylometry and mapping.
+
+- [Digital Critical Edition of *Soledades*](soledades.qmd)  
+  TEI-encoded critical edition of Luis de Góngora’s *Soledades* (PhD project, 2011–2015).
+
+
+## Collaborative Projects
+
+- [DraCor (Drama Corpora Project)](dracor.qmd)  
+  API-based workflows and character-level metrics for early modern drama corpora.
+
+- [Tracing Regularities in Calderón](tracing-calderon.qmd)  
+  Computational approaches to character roles and structures in Calderón’s plays.
+
+- [Proyecto Humboldt Digital (BBAW)](proyecto-humboldt.qmd)  
+  Digital editions and data curation at the Berlin-Brandenburg Academy of Sciences and Humanities.
+
+- [HallerNet](hallernet.qmd)  
+  Collaborative infrastructure for Albrecht von Haller’s letters and bibliography.
+
+
+

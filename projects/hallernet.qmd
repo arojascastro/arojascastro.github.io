@@ -1,0 +1,16 @@
+---
+layout: page
+title: HallerNet
+description: Collaborative research infrastructure and/or editions (update with a short specific synopsis).
+img: /assets/img/hallernet.png
+importance: 1
+category: work
+project_type: Associate/Contributor
+related_publications: false
+years: [add years]
+role: Research Associate / Contributor
+link: https://orcid.org/0000-0002-8916-4997
+tags: [Collaboration, Digital humanities]
+---
+
+Brief 2–3 sentence summary of your role and contributions to HallerNet. Replace this placeholder with specifics.
