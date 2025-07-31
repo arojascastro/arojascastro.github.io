@@ -32,28 +32,7 @@
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Below is a selection of my publications, grouped by type."
-  },
-  {
-    "objectID": "publications.html#journal-articles",
-    "href": "publications.html#journal-articles",
-    "title": "Publications",
-    "section": "Journal Articles",
-    "text": "Journal Articles\n{{#articles}} {{bibliography}} type = “article”"
-  },
-  {
-    "objectID": "publications.html#book-chapters",
-    "href": "publications.html#book-chapters",
-    "title": "Publications",
-    "section": "Book Chapters",
-    "text": "Book Chapters\n{{#chapters}}\n```{bibliography}\ntype = \"incollection\"\n\n\n## Books\n\n::: {{#books}}\n```{{bibliography}}\ntype = \"book\"\n```\n:::"
-  },
-  {
-    "objectID": "publications.html#conference-papers",
-    "href": "publications.html#conference-papers",
-    "title": "Publications",
-    "section": "Conference Papers",
-    "text": "Conference Papers\n\n```{bibliography}\ntype = \"inproceedings\"\n```"
+    "text": "References\n\nAlvite-Díez, María-Luisa, and Antonio Rojas-Castro. 2022. “Ediciones Digitales Académicas: Concepto, Estándares de Calidad y Software de Publicación.” El Profesional de La Información 31 (2): e310216. https://doi.org/10.3145/epi.2022.mar.16.\n\n\nIsasi, Jennifer, and Antonio Rojas Castro. 2021. “¿Sin Equivalencia? Una Reflexión Sobre La Traducción Al Español de Recursos Educativos Abiertos.” Hispania 104 (4): 613–24. https://doi.org/https://doi.org/10.1353/hpn.2021.0130.\n\n\nKeith, Allison, Antonio Rojas Castro, and Sebastian Padó. 2024. “Computational Analysis of Gender Depiction in the Comedias of Calderón de La Barca.” arXiv. https://doi.org/10.48550/arXiv.2411.03895.\n\n\nKrafkt, Tobias, Antonio Rojas Castro, and Grisel Terrón Quintero, eds. 2024. Archivos Abiertos: El Patrimonio Documental Cubano y La Transformación Digital. De Gruyter. https://doi.org/10.1515/9783111187846.\n\n\nRojas Castro, Antonio. 2013a. “Las Humanidades Digitales: Principios, Valores y Prácticas.” Janus 2 (September): 74–99. http://www.janusdigital.es/articulo.htm?id=24.\n\n\n———. 2013b. “El Mapa y El Territorio. Una Aproximación Histórico-Bibliográfica a La Emergencia de Las Humanidades Digitales En España.” Caracteres 2 (2): 10–53. http://revistacaracteres.net/revista/vol2n2noviembre2013/el-mapa-y-el-territorio/.\n\n\n———. 2015. “De Los Datos Al Metamedio.” Ínsula 822 (June): 15–17.\n\n\n———. 2017. “La Edición Crítica Digital y La Codificación TEI. Preliminares Para Una Nueva Edición de Las Soledades de Luis de Góngora.” Revista de Humanidades Digitales 1: 4–19. https://doi.org/https://doi.org/10.5944/rhd.vol.1.2017.16379.\n\n\n———. 2018. “La Edición Académica Digital. De Las Teorías Del Texto a La Visualización de La Información.” In Humanidades Digitales: Edición, Literatura y Arte, 47–80. México D.F.: Bonilla Artigas. https://hcommons.org/deposits/item/hc:21883/.\n\n\n———. 2021. “Contra La Retórica FAIR.” Romanistik-Blog. https://blog.fid-romanistik.de/2021/04/28/contra-la-retorica-fair/.\n\n\n———. 2022a. “Roopika Risam, «New Digital Worlds. Postcolonial Digital Humanities in Theory, Praxis, and Pedagogy».” Anuario Lope de Vega Texto Literatura Cultura 28 (January): 588–92. https://doi.org/10.5565/rev/anuariolopedevega.433.\n\n\n———. 2022b. “La Publicación de Ediciones Digitales Académicas y El Caso de Las \"Soledades\" de Luis de Góngora.” Historias Fingidas Special Volume (1): 195–217. https://doi.org/10.13136/2284-2667/1149.\n\n\n———. 2023a. “Los Principios FAIR y El Proyecto Humboldt Digital. Una Confrontación.” In Humanidades Digitales y Patrimonio Cultural. Proyectos y Tendencias, edited by Anna Peirats and José Antonio Calvo, 161–83. Valencia: Tirant Lo Blanch.\n\n\n———. 2023b. “Multilingual Interfaces for All? Localisation Strategies in Proyecto Humboldt Digital.” In Multilingual Digital Humanities, 1st ed., 183–96. London: Routledge. https://doi.org/10.4324/9781003393696-16.\n\n\n———. 2024. “Big Data y Humanidades Digitales.” In Arte-Factos Para Los Estudios Literarios, edited by Nattie Golubov, 120–41. México D.F.: Universidad Autónoma de México.\n\n\n———. 2025. “Mapping Early Modern Hispanic Mythological Poems with Recogito.” In Digital Humanities in Medieval and Early Modern Spanish Texts, edited by Roberto J. González Zalacain and Gael Vaamonde, 101st–117th ed. Oxon & New York: Routledge.\n\n\nRojas Castro, Antonio, Tobias Kraft, and Grisel Terrón. 2023. “Política de Digitalización de Proyecto Humboldt Digital (ProHD).” https://zenodo.org/record/7564856.\n\n\nRojas Castro, Antonio, Cèlia Nadal Pasqual, and Amanda Pedraza. 2017. “El Diseño de CABIGO (Catálogo Bibliográfico Sobre Góngora).” In Serenísima Palabra. Actas Del X Congreso de La Asociación Internacional Siglo de Oro (Venecia, 14-18 de Julio de 2014). 5th Series. Venezia: Università Ca’ Foscari Venezia, Italia. https://doi.org/10.14277/6969-163-8/RIB-5-23.\n\n\nRojas Castro, Antonio, and Grisel Quintero Terrón. 2024. “Nuevos Retos En Torno a La Edición Digital En La Oficina Del Historiador: Hacia Una Transcripción Automatizada de Documentos Históricos.” In Archivos Abiertos: El Patrimonio Documental Cubano y La Transformación Digital, edited by Tobias Kraft, Antonio Rojas Castro, and Grisel Terrón Quintero, 101–20. De Gruyter. https://doi.org/10.1515/9783111187846-004.\n\n\nRojas Castro, Antonio, Grisel Terrón Quintero, Alaina Solernou Ferrer, and Tobias Kraft. 2023. “Cómo Crear Ediciones Digitales Académicas Entre La Habana y Berlín. El Caso de Proyecto Humboldt Digital (ProHD).” Journal of the Text Encoding Initiative, no. 16 (May). https://journals.openedition.org/jtei/4560."
   },
   {
     "objectID": "projects/index.html",
