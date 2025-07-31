@@ -32,7 +32,7 @@ website:
     left: "© {{< meta year >}} Antonio Rojas Castro"
     right:
       - icon: envelope
-        href: antonio.rojas.castro@fu-berlin.de
+        href: mailto:antonio.rojas.castro@fu-berlin.de
         aria-label: email
 format:
   html:
