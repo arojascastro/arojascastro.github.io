@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Digital Scholarly Editing (UNIR, MA in Digital Humanities)\n\nSupervision of MA dissertations in Digital Humanities\n\nYou can add syllabi or course descriptions here."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Dr. Antonio Rojas Castro\nDigital Humanities Research Associate at the Freie Universität Berlin and the University of Tübingen.\nI specialize in digital scholarly editions, website development, and computational literary studies.\nMy current project analyzes network structures and the role of character typologies such as the gracioso in Golden Age Spanish theater, using corpus-based and computational methods.\n\nORCID: https://orcid.org/0000-0002-8916-4997\n\nGitHub: https://github.com/arojascastro\n\nZotero: https://www.zotero.org/antoniorojascastro\n\nThis site is built with [Quarto](https://quarto.org/) and deployed via GitHub Actions to GitHub Pages — no local installs required."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I am a Digital Humanities scholar working across digital editions, computational literary analysis, and open science. I teach at UNIR (MA in Digital Humanities) and supervise MA dissertations on digital scholarly editing.\nPreviously, I volunteered with: - European Association for Digital Humanities (2015–2018) - Programming Historian en español (2016–2020) - Asociación de Humanidades Digitales Hispánicas (2021–2023)"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Download my latest CV: cv.pdf\nYou can also maintain a Markdown CV here and export to PDF if you prefer."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Below is a selected list. Add your BibTeX entries to bibliography/references.bib and they will appear here."
+  },
+  {
+    "objectID": "publications.html#example-citation",
+    "href": "publications.html#example-citation",
+    "title": "Publications",
+    "section": "Example citation",
+    "text": "Example citation\n(rojascastro2020example?)\nReplace with your own entries exported from Zotero as BibTeX or CSL JSON."
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Here are selected projects. Create individual pages in projects/.\n\nCalDraCor — Network analysis of Calderón’s plays\nDigital Editions — TEI-based editorial workflows\nOpen Science in DH — Community practices and tools"
+  }
+]
