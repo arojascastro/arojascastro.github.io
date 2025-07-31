@@ -19,3 +19,8 @@ You can found more information about my work at:
 - Zotero: <https://www.zotero.org/antoniorojascastro>
 
 
+<script>
+  document.getElementById("year").textContent = new Date().getFullYear();
+</script>
+
+

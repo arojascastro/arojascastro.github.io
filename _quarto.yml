@@ -23,7 +23,7 @@ website:
       - icon: github
         href: https://github.com/arojascastro
   page-footer:
-    left: "© {{< meta year >}} Antonio Rojas Castro"
+    left: "<span id='year'></span> © Antonio Rojas Castro"
     right:
       - icon: envelope
         href: mailto:antonio.rojas.castro@fu-berlin.de
