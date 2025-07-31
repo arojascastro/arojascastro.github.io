@@ -4,6 +4,8 @@ title: "Home"
 page-layout: article
 ---
 
+![](images/antonio.jpg){width=200px}
+
 # Dr. Antonio Rojas Castro
 
 I am a Digital Humanities Research Associate at the **Freie Universität Berlin** and the **University of Tübingen**. I specialize in digital editions and computational literary studies. My current project focuses on network analysis and the role of character typologies such as the _gracioso_ in Golden Age theater in Spain, using computational methods and corpus analysis.
