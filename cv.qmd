@@ -5,4 +5,3 @@ title: "Curriculum Vitae"
 
 Download my latest CV: [cv.pdf](cv/cv.pdf)
 
-You can also maintain a Markdown CV here and export to PDF if you prefer.
