@@ -5,3 +5,10 @@ nocite: |
   @*
 ---
 
+## Journal Articles
+::: {#articles}
+:::
+## Book Chapters
+::: {#chapters}
+:::
+
