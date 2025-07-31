@@ -8,43 +8,51 @@ title: "Curriculum Vitae"
 
 # Education
 
-- 2011-2015: **PhD in Humanities**  
+- **2011-2015**: PhD in Humanities 
   Universitat Pompeu Fabra, Barcelona, Spain  
   Dissertation on digital scholarly editing
 
-- 2009-2011: **MA in Comparative Literature**  
+- **2009-2011**: MA in Comparative Literature  
   Universitat Pompeu Fabra, Barcelona, Spain
 
-- 2004-2009: **BA in Humanities**  
+- **2004-2009**: BA in Humanities
   Universitat Pompeu Fabra, Barcelona, Spain
 
 ---
 
 # Employment
 
-- 2025-Present: **Digital Humanities Research Associate**  
+- **2025-Present**: Digital Humanities Research Associate 
   Freie Universität Berlin
 
-- 2023-Present: **Digital Humanities Research Associate**  
+- **2023-Present**: Digital Humanities Research Associate  
   Universität Tübingen
 
-- 2019-2023: **Digital Humanities Research Associate**  
+- **2019-2023**: Digital Humanities Research Associate
   BBAW – Berlin-Brandenburg Academy of Sciences and Humanities
 
-- 2016-2019: **Digital Humanities Research Associate**  
+- **2016-2019**: **Research Associate**  
   Cologne Center for eHumanities, Universität zu Köln
 
 ---
 
 # Teaching
 
-- **Part-Time Lecturer**, UNIR (2020–present)  
+- 2020-Present: **Part-Time Lecturer**, UNIR 
   - Digital Scholarly Editing (MA in Digital Humanities)  
   - Master’s Thesis Supervision  
   - Theories of Digital Humanities, Linguistic Applications
 
 - Guest lectures and workshops at:  
   NYU Abu Dhabi, Université Paris Sorbonne, Università di Verona
+
+---
+
+# Skills
+
+- **Languages:** Spanish (native), English (fluent), German (advanced), French (reading)
+- **Technical:** TEI/XML, XSLT, Git, Python, Pandoc, Quarto, Jupyter, Markdown, LaTeX
+- **Tools:** EVT, Oxygen, VS Code, GitHub, Gephi, Voyant, Zotero
 
 ---
 
@@ -55,7 +63,7 @@ title: "Curriculum Vitae"
 # Service
 
 - 2025-Present: Text+
-- 2021–2023; Editorial Board, Asociación de Humanidades Digitales Hispánicas
+- 2021–2023: Editorial Board, Asociación de Humanidades Digitales Hispánicas
 - 2016–2020: Editorial Board, *Programming Historian en español* 
 - 2015–2018: European Association for Digital Humanities, Communication Fellow
 
@@ -67,14 +75,6 @@ title: "Curriculum Vitae"
   - _Digital Scholarship in the Humanities_  
   - _Revista de Humanidades Digitales_  
   - _Programming Historian_
-
----
-
-# Skills
-
-- **Languages:** Spanish (native), English (fluent), German (advanced), French (reading)
-- **Technical:** TEI/XML, XSLT, Git, Python, Pandoc, Quarto, Jupyter, Markdown, LaTeX
-- **Tools:** EVT, Oxygen, VS Code, GitHub, Gephi, Voyant, Zotero
 
 ---
 
