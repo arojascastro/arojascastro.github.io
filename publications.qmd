@@ -9,19 +9,17 @@ Below is a selection of my publications, grouped by type.
 
 ## Journal Articles
 
-::: {{#articles}}
-```{{bibliography}}
+{{#articles}}
+  {{bibliography}}
 type = "article"
-```
-:::
+
 
 ## Book Chapters
 
-::: {{#chapters}}
+{{#chapters}}
 ```{{bibliography}}
 type = "incollection"
-```
-:::
+
 
 ## Books
 
