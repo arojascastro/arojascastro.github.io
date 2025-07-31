@@ -4,7 +4,9 @@ title: "Home"
 page-layout: article
 ---
 
-![](images/antonio.jpg){width=200px}
+<div align="center">
+  <img src="images/antonio.jpg" alt="Antonio Rojas Castro" width="200">
+</div>
 
 # Dr. Antonio Rojas Castro
 
