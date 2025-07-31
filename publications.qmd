@@ -1,15 +1,7 @@
-
 ---
 title: "Publications"
 bibliography: bibliography/references.bib
+nocite: |
+  @*
 ---
 
-Below is a selected list. Add your BibTeX entries to `bibliography/references.bib` and they will appear here.
-
-::: {#pubs}
-:::
-
-## Example citation
-
-[@rojascastro2020example]  
-_Replace with your own entries exported from Zotero as BibTeX or CSL JSON._
