@@ -1,22 +1,24 @@
 ---
-layout: page
-title: Digital Critical Edition of *Soledades*
-description: Scholarly TEI‑encoded critical edition of Luis de Góngora’s *Soledades* (PhD project).
-img: /assets/img/soledades.png
-importance: 1
-category: work
-project_type: PI
-related_publications: true
-years: 2011–2015
-role: Principal Investigator (PhD project)
+title: "Digital Critical Edition of *Soledades*"
+description: "TEI-based critical edition of Luis de Góngora’s *Soledades* (PhD project)."
+image: images/soledades-page.png
+categories: ["Digital Editions", "Golden Age"]
+project-type: "PhD Project"
+year: 2011–2015
+role: Principal Investigator
 link: https://orcid.org/0000-0002-8916-4997
-tags: [Golden Agen, Digital edition, Poetry, TEI]
+format:
+  html:
+    toc: true
 ---
 
-A scholarly TEI‑encoded critical edition of _Soledades_ developed during my PhD, including text curation, variant handling, and editorial/annotation pipelines.
+# Digital Critical Edition of *Soledades*
 
-<div class="row">
-  <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/soledades-page.png" title="Soledades edition sample" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
+This project is a scholarly TEI-encoded critical edition of Luis de Góngora’s *Soledades*, developed during my doctoral research. It involved:
+
+- Manual collation of 20 witnesses
+- TEI/XML encoding of a critical text
+- Annotation, normalization, and variant handling
+- Digital publication using Edition Visualization Technology (EVT)
+
+![Sample page of the edition](images/soledades-page.png){width=500px style="display:block; margin-left:auto; margin-right:auto;"}

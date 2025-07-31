@@ -1,0 +1,21 @@
+---
+title: "Proyecto Humboldt Digital"
+description: "Digital editions and infrastructure for Alexander von Humboldt’s legacy at BBAW."
+image: images/humboldt.png
+categories: ["Digital Editions", "Infrastructure"]
+project-type: "Research Assistant"
+role: Digital Humanities Researcher
+year: 2017–2020
+link: https://www.bbaw.de/en/
+format:
+  html:
+    toc: true
+---
+
+# Proyecto Humboldt Digital
+
+As part of the Humboldt Digital project at the Berlin-Brandenburg Academy of Sciences and Humanities, I worked on:
+
+- Editorial curation of digital editions
+- Data modeling and infrastructure setup
+- Development of the *Dossier Digital: Alexander von Humboldt and Cuba*

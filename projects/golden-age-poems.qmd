@@ -1,0 +1,21 @@
+---
+title: "Golden Age Mythological Poems"
+description: "Digital corpus and stylometric study of Spanish Golden Age mythological poetry."
+image: images/mythology-sample.png
+categories: ["Golden Age", "Stylometry"]
+project-type: "Principal Investigator"
+role: Project Lead
+year: 2016–ongoing
+link: https://orcid.org/0000-0002-8916-4997
+format:
+  html:
+    toc: true
+---
+
+# Golden Age Mythological Poems
+
+A long-term research project focused on:
+
+- Curating a digital corpus of mythological poems
+- Stylometric and topic modeling analysis
+- Integration of mapping and metadata visualization tools

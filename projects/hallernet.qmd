@@ -1,16 +1,16 @@
 ---
-layout: page
-title: HallerNet
-description: Collaborative research infrastructure and/or editions (update with a short specific synopsis).
-img: /assets/img/hallernet.png
-importance: 1
-category: work
-project_type: Associate/Contributor
-related_publications: false
-years: [add years]
-role: Research Associate / Contributor
+title: "HallerNet"
+description: "Digital infrastructure and editorial support for the correspondence of Albrecht von Haller."
+image: images/hallernet.png
+categories: ["Digital Humanities", "Infrastructure"]
+project-type: "Research Contributor"
+role: Research Associate
 link: https://orcid.org/0000-0002-8916-4997
-tags: [Collaboration, Digital humanities]
+format:
+  html:
+    toc: true
 ---
 
-Brief 2–3 sentence summary of your role and contributions to HallerNet. Replace this placeholder with specifics.
+# HallerNet
+
+At the Cologne Center for eHumanities (CCeH), I contributed to the modeling, processing, and curation of Albrecht von Haller’s letters and bibliographic records. The project supports a digital infrastructure for collaborative research and edition.

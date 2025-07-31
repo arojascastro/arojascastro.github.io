@@ -1,0 +1,20 @@
+---
+title: "Tracing Regularities in Calderón"
+description: "Computational analysis of character patterns in Golden Age Spanish drama."
+image: images/calderon.png
+categories: ["Calderón", "Early Modern Drama"]
+project-type: "Research Associate"
+role: Analyst / Contributor
+link: https://orcid.org/0000-0002-8916-4997
+format:
+  html:
+    toc: true
+---
+
+# Tracing Regularities in Calderón
+
+This project applies computational methods to study patterns of character roles and interactions in the works of Calderón de la Barca. Key methods include:
+
+- Network analysis
+- Scene segmentation
+- Character typology modeling

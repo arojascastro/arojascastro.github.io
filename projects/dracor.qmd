@@ -1,16 +1,20 @@
 ---
-layout: page
-title: DraCor
-description: Contributions to the Drama Corpora Project (API usage and character‑level metrics).
-img: /assets/img/dracor.png
-importance: 4
-category: work
-project_type: Associate/Contributor
-related_publications: true
-years: 2020–present
-role: Contributor
+title: "DraCor (Drama Corpora Project)"
+description: "Network analysis and API contributions to the DraCor infrastructure."
+image: images/dracor.png
+categories: ["Corpora", "Network Analysis"]
+project-type: "Contributor"
+role: API Developer / Analyst
 link: https://dracor.org/
-tags: [API, Network analysis, Corpora]
+format:
+  html:
+    toc: true
 ---
 
-Contributions to DraCor (Drama Corpora Project) with an emphasis on API‑driven workflows and character network metrics for research and teaching.
+# DraCor (Drama Corpora Project)
+
+I have contributed to DraCor through API-driven workflows and network analysis methods. My focus includes:
+
+- Character-level network metrics
+- Visualization of dramatic co-occurrence
+- Integration with teaching and research pipelines

@@ -1,0 +1,22 @@
+---
+title: "Early Modern Epic Poems"
+description: "Computational and editorial analysis of Iberian epic poetry (2025–ongoing)."
+image: images/epic-network.png
+categories: ["Golden Age", "Epic", "NLP"]
+project-type: "Principal Investigator"
+role: Project Lead
+year: 2025–ongoing
+link: https://orcid.org/0000-0002-8916-4997
+format:
+  html:
+    toc: true
+---
+
+# Early Modern Epic Poems
+
+This ongoing project explores early modern Iberian epic poetry using:
+
+- Natural Language Processing
+- Network-based analysis
+- Digital editorial workflows
+- Visualization and geographic mapping
