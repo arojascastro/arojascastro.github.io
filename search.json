@@ -28,32 +28,32 @@
     "text": "Workshops & Training (selected)\n\n2–6 May 2022 – On the trail of Alexander Von Humboldt: digital tools for preservation, research and dissemination of cultural heritage\nUniversità di Verona (6‑hour workshop)\nJan 2019 – Atélier TEI\nUniversité Paris Sorbonne (1‑week workshop)\nNov 2017 – Edición digital y análisis cuantitativo de textos poéticos del Siglo de Oro\nUniversità di Verona (1‑week workshop)\nApr 2017 – Introduction to the Text Encoding Initiative and Web Publication\nNYU Abu Dhabi (1‑day workshop)\n2015 – Introduction to Literary Studies (TA)\nDegree in Humanities, Universitat Pompeu Fabra\n2014 – Scholarly Writing (TA)\nDegree in Humanities, Universitat Pompeu Fabra\n\n\nIf you’re a student looking for supervision or want to attend a future workshop, feel free to contact me."
   },
   {
+    "objectID": "projects/proyecto-humboldt.html",
+    "href": "projects/proyecto-humboldt.html",
+    "title": "Proyecto Humboldt Digital",
+    "section": "",
+    "text": "Proyecto Humboldt Digital\nAs part of the Humboldt Digital project at the Berlin-Brandenburg Academy of Sciences and Humanities, I worked on:\n\nEditorial curation of digital editions\nData modeling and infrastructure setup\nDevelopment of the Dossier Digital: Alexander von Humboldt and Cuba"
+  },
+  {
     "objectID": "projects/hallernet.html",
     "href": "projects/hallernet.html",
     "title": "HallerNet",
     "section": "",
-    "text": "Brief 2–3 sentence summary of your role and contributions to HallerNet. Replace this placeholder with specifics."
+    "text": "HallerNet\nAt the Cologne Center for eHumanities (CCeH), I contributed to the modeling, processing, and curation of Albrecht von Haller’s letters and bibliographic records. The project supports a digital infrastructure for collaborative research and edition."
   },
   {
-    "objectID": "projects/soledades.html",
-    "href": "projects/soledades.html",
-    "title": "Digital Critical Edition of Soledades",
-    "section": "",
-    "text": "A scholarly TEI‑encoded critical edition of Soledades developed during my PhD, including text curation, variant handling, and editorial/annotation pipelines.\n\n\n{% include figure.liquid loading=\"eager\" path=\"assets/img/soledades-page.png\" title=\"Soledades edition sample\" class=\"img-fluid rounded z-depth-1\" %}"
-  },
-  {
-    "objectID": "projects/golden-age-mythological-poems.html",
-    "href": "projects/golden-age-mythological-poems.html",
+    "objectID": "projects/golden-age-poems.html",
+    "href": "projects/golden-age-poems.html",
     "title": "Golden Age Mythological Poems",
     "section": "",
-    "text": "A long‑running project for curating and analyzing Spanish Golden Age mythological poems, combining editorial models with computational exploration (stylometry, mapping, topic modelling).\n\n\n{% include figure.liquid path=\"assets/img/mythology-sample.png\" title=\"Corpus view\" class=\"img-fluid rounded z-depth-1\" %}"
+    "text": "Golden Age Mythological Poems\nA long-term research project focused on:\n\nCurating a digital corpus of mythological poems\nStylometric and topic modeling analysis\nIntegration of mapping and metadata visualization tools"
   },
   {
-    "objectID": "projects/early-modern-epic-poems.html",
-    "href": "projects/early-modern-epic-poems.html",
+    "objectID": "projects/early-modern-epics.html",
+    "href": "projects/early-modern-epics.html",
     "title": "Early Modern Epic Poems",
     "section": "",
-    "text": "An ongoing project on early modern Iberian epic poems, focusing on natural language processing, mapping, stylometry and network‑based analysis alongside editorial workflows.\n\n\n{% include figure.liquid path=\"assets/img/epic-network.png\" title=\"Network example\" class=\"img-fluid rounded z-depth-1\" %}"
+    "text": "Early Modern Epic Poems\nThis ongoing project explores early modern Iberian epic poetry using:\n\nNatural Language Processing\nNetwork-based analysis\nDigital editorial workflows\nVisualization and geographic mapping"
   },
   {
     "objectID": "publications.html",
@@ -84,13 +84,6 @@
     "text": "Dr. Antonio Rojas Castro\nI am a Digital Humanities Research Associate at the Freie Universität Berlin and the University of Tübingen. I specialize in digital editions and computational literary studies. My current project focuses on network analysis and the role of character typologies such as the gracioso in Golden Age theater in Spain, using computational methods and corpus analysis.\nYou can found more information about my work at:\n\nORCID: https://orcid.org/0000-0002-8916-4997\n\nGitHub: https://github.com/arojascastro\n\nZotero: https://www.zotero.org/antoniorojascastro"
   },
   {
-    "objectID": "projects/proyecto-humboldt-digital.html",
-    "href": "projects/proyecto-humboldt-digital.html",
-    "title": "Proyecto Humboldt Digital (BBAW)",
-    "section": "",
-    "text": "Work on Humboldt Digital at BBAW, including editorial tasks, data curation, and supporting infrastructure for digital scholarship."
-  },
-  {
     "objectID": "projects/index.html",
     "href": "projects/index.html",
     "title": "Projects",
@@ -112,17 +105,24 @@
     "text": "Collaborative Projects\n\nDraCor (Drama Corpora Project)\nAPI-based workflows and character-level metrics for early modern drama corpora.\nTracing Regularities in Pedro Calderón de la Barca’s Dramatic OEuvre with a Computational Approach\nComputational approaches to character roles and structures in Calderón’s plays.\nProyecto Humboldt Digital\nDigital editions and data curation at the Berlin-Brandenburg Academy of Sciences and Humanities.\nHallerNet\nCollaborative infrastructure for Albrecht von Haller’s letters and bibliography."
   },
   {
-    "objectID": "projects/tracing-regularities-in-calderon.html",
-    "href": "projects/tracing-regularities-in-calderon.html",
+    "objectID": "projects/soledades.html",
+    "href": "projects/soledades.html",
+    "title": "Digital Critical Edition of Soledades",
+    "section": "",
+    "text": "Digital Critical Edition of Soledades\nThis project is a scholarly TEI-encoded critical edition of Luis de Góngora’s Soledades, developed during my doctoral research. It involved:\n\nManual collation of 20 witnesses\nTEI/XML encoding of a critical text\nAnnotation, normalization, and variant handling\nDigital publication using Edition Visualization Technology (EVT)\n\n\n\n\nSample page of the edition"
+  },
+  {
+    "objectID": "projects/tracing-calderon.html",
+    "href": "projects/tracing-calderon.html",
     "title": "Tracing Regularities in Calderón",
     "section": "",
-    "text": "Short summary of your work on the project (2–3 sentences). Replace this placeholder with specifics (e.g., tasks, datasets, analyses)."
+    "text": "Tracing Regularities in Calderón\nThis project applies computational methods to study patterns of character roles and interactions in the works of Calderón de la Barca. Key methods include:\n\nNetwork analysis\nScene segmentation\nCharacter typology modeling"
   },
   {
     "objectID": "projects/dracor.html",
     "href": "projects/dracor.html",
-    "title": "DraCor",
+    "title": "DraCor (Drama Corpora Project)",
     "section": "",
-    "text": "Contributions to DraCor (Drama Corpora Project) with an emphasis on API‑driven workflows and character network metrics for research and teaching."
+    "text": "DraCor (Drama Corpora Project)\nI have contributed to DraCor through API-driven workflows and network analysis methods. My focus includes:\n\nCharacter-level network metrics\nVisualization of dramatic co-occurrence\nIntegration with teaching and research pipelines"
   }
 ]
