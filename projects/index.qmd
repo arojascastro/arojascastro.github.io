@@ -6,7 +6,7 @@ Here is a selection of my main digital research projects:
 
 ## My Projects (PI)
 
-- [Early Modern Epic Poems](early-modern-epics.qmd)  
+- [Early Modern Epic Poems](early-modern-epics.md)  
   Natural language processing and editorial study of Iberian epic poetry.
 
 - [Golden Age Mythological Poems](golden-age-poems.qmd)  
@@ -21,10 +21,10 @@ Here is a selection of my main digital research projects:
 - [DraCor (Drama Corpora Project)](dracor.qmd)  
   API-based workflows and character-level metrics for early modern drama corpora.
 
-- [Tracing Regularities in Calderón](tracing-calderon.qmd)  
+- [Tracing Regularities in Pedro Calderón de la Barca's Dramatic OEuvre with a Computational Approach](tracing-calderon.qmd)  
   Computational approaches to character roles and structures in Calderón’s plays.
 
-- [Proyecto Humboldt Digital (BBAW)](proyecto-humboldt.qmd)  
+- [Proyecto Humboldt Digital](proyecto-humboldt.qmd)  
   Digital editions and data curation at the Berlin-Brandenburg Academy of Sciences and Humanities.
 
 - [HallerNet](hallernet.qmd)  
