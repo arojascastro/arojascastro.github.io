@@ -25,7 +25,7 @@ website:
       - icon: orcid
         href: https://orcid.org/0000-0002-8916-4997
       - icon: graduation-cap
-        href: https://scholar.google.com/
+        href: https://scholar.google.com/citations?user=vVidxOUAAAAJ&hl=en
       - icon: library
         href: https://www.zotero.org/antoniorojascastro
   page-footer:
@@ -36,7 +36,7 @@ website:
         aria-label: email
 format:
   html:
-    theme: cosmo
+    theme: flatly
     toc: true
     smooth-scroll: true
     code-copy: true
