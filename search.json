@@ -39,21 +39,14 @@
     "href": "publications.html#journal-articles",
     "title": "Publications",
     "section": "Journal Articles",
-    "text": "Journal Articles\n\n```{bibliography}\ntype = \"article\"\n```"
+    "text": "Journal Articles\n{{#articles}} {{bibliography}} type = “article”"
   },
   {
     "objectID": "publications.html#book-chapters",
     "href": "publications.html#book-chapters",
     "title": "Publications",
     "section": "Book Chapters",
-    "text": "Book Chapters\n\n```{bibliography}\ntype = \"incollection\"\n```"
-  },
-  {
-    "objectID": "publications.html#books",
-    "href": "publications.html#books",
-    "title": "Publications",
-    "section": "Books",
-    "text": "Books\n\n```{bibliography}\ntype = \"book\"\n```"
+    "text": "Book Chapters\n{{#chapters}}\n```{bibliography}\ntype = \"incollection\"\n\n\n## Books\n\n::: {{#books}}\n```{{bibliography}}\ntype = \"book\"\n```\n:::"
   },
   {
     "objectID": "publications.html#conference-papers",
