@@ -1,0 +1,10 @@
+
+---
+title: "Projects"
+---
+
+Here are selected projects. Create individual pages in `projects/`.
+
+- **CalDraCor** — Network analysis of Calderón's plays
+- **Digital Editions** — TEI-based editorial workflows
+- **Open Science in DH** — Community practices and tools

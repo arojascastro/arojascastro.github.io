@@ -1,0 +1,9 @@
+
+---
+title: "Teaching"
+---
+
+- **Digital Scholarly Editing** (UNIR, MA in Digital Humanities)  
+- Supervision of MA dissertations in Digital Humanities
+
+You can add syllabi or course descriptions here.

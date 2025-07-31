@@ -1,0 +1,44 @@
+
+project:
+  type: website
+
+website:
+  title: "Antonio Rojas Castro"
+  site-url: https://arojascastro.github.io
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: publications.qmd
+        text: Publications
+      - href: projects/index.qmd
+        text: Projects
+      - href: teaching.qmd
+        text: Teaching
+      - href: cv.qmd
+        text: CV
+    right:
+      - icon: github
+        href: https://github.com/arojascastro
+      - icon: orcid
+        href: https://orcid.org/0000-0002-8916-4997
+      - icon: graduation-cap
+        href: https://scholar.google.com/
+      - icon: library
+        href: https://www.zotero.org/antoniorojascastro
+  page-footer:
+    left: "© {{< meta year >}} Antonio Rojas Castro"
+    right:
+      - icon: envelope
+        href: mailto:antonio@example.com
+        aria-label: email
+format:
+  html:
+    theme: cosmo
+    toc: true
+    smooth-scroll: true
+    code-copy: true
+execute:
+  freeze: auto
