@@ -10,7 +10,7 @@ page-layout: article
 
 # Dr. Antonio Rojas Castro
 
-I am a Digital Humanities Research Associate at the **Freie Universität Berlin** and the **University of Tübingen**. I specialize in digital editions and computational literary studies. My current project focuses on network analysis and the role of character typologies such as the _gracioso_ in Golden Age theater in Spain, using computational methods and corpus analysis.
+I am a Digital Humanities Research Associate at the **Freie Universität Berlin** and the **University of Tübingen**. I specialize in digital editions and computational literary studies. My current project focuses on network analysis and the role of characters in Golden Age theater in Spain, using computational methods and corpus analysis.
 
 You can found more information about my work at:
 
