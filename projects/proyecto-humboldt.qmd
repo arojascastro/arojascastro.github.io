@@ -1,21 +1,24 @@
 ---
 title: "Proyecto Humboldt Digital"
-description: "Digital editions and infrastructure for Alexander von Humboldt’s legacy at BBAW."
+description: "A Transnational Digital Humanities Collaboration between Havana and Berlin"
 image: images/humboldt.png
 categories: ["Digital Editions", "Infrastructure"]
 project-type: "Research Assistant"
 role: Digital Humanities Researcher
-year: 2017–2020
+year: 2019–2024
 link: https://www.bbaw.de/en/
 format:
   html:
     toc: true
 ---
 
-# Proyecto Humboldt Digital
+# Proyecto Humboldt Digital (ProHD)
 
-As part of the Humboldt Digital project at the Berlin-Brandenburg Academy of Sciences and Humanities, I worked on:
+**Status:** Completed (2019–2023)  
+**Lead Institutions:** Oficina del Historiador de La Habana (OHCH) & Berlin-Brandenburg Academy of Sciences and Humanities (BBAW)
 
-- Editorial curation of digital editions
-- Data modeling and infrastructure setup
-- Development of the *Dossier Digital: Alexander von Humboldt and Cuba*
+**Proyecto Humboldt Digital (ProHD)** was a four-year international cooperation between the OHCH in Cuba and the BBAW in Germany. Funded by the German Foreign Office, the Fritz Thyssen Foundation, and the Gerda Henkel Foundation, the project aimed to preserve and publish documents related to Alexander von Humboldt’s visits to Cuba (1800–1801, 1804).
+
+Through a shared editorial workflow, the project identified, digitized, described, encoded, and published 28 historical documents in open-access digital editions using TEI XML and open-source tools like ediarum and TEI Publisher. All outputs were made available in Spanish, German, and English.
+
+ProHD strengthened editorial and digital capacities at OHCH and contributed to international knowledge transfer and cultural preservation across national and linguistic boundaries.
