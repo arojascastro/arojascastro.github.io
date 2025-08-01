@@ -116,7 +116,14 @@
     "href": "projects/tracing-calderon.html",
     "title": "Tracing Regularities in Calderón",
     "section": "",
-    "text": "Tracing Regularities in Calderón\nThis project applies computational methods to study patterns of character roles and interactions in the works of Calderón de la Barca. Key methods include:\n\nNetwork analysis\nScene segmentation\nCharacter typology modeling"
+    "text": "Status: Ongoing (2023–2026)\nLead Institutions: University of Tübingen & University of Stuttgart\nThis interdisciplinary research project investigates recurring patterns across the dramatic works of Pedro Calderón de la Barca (1600–1681) using computational methods. Drawing on a corpus of 194 digitally encoded plays (110 comedias nuevas and 84 autos sacramentales), the project combines literary scholarship and computational linguistics to trace regularities at multiple structural levels.\nWe pursue three main objectives: (1) lexical-semantic classification of genres and character types, (2) network analysis of character constellations and interactions, and (3) analysis of dramatic structure and temporal dynamics. Our approach integrates qualitative and quantitative methods and aims to contribute both to Calderonian scholarship and to scalable models for drama analysis in the Digital Humanities.\nThe project is a collaboration between the Institute of Romance Studies at the University of Tübingen and the Institute for Natural Language Processing at the University of Stuttgart, supported by leading Calderón editors and the DraCor infrastructure."
+  },
+  {
+    "objectID": "projects/tracing-calderon.html#tracing-regularities-in-pedro-calderón-de-la-barcas-dramatic-œuvre",
+    "href": "projects/tracing-calderon.html#tracing-regularities-in-pedro-calderón-de-la-barcas-dramatic-œuvre",
+    "title": "Tracing Regularities in Calderón",
+    "section": "",
+    "text": "Status: Ongoing (2023–2026)\nLead Institutions: University of Tübingen & University of Stuttgart\nThis interdisciplinary research project investigates recurring patterns across the dramatic works of Pedro Calderón de la Barca (1600–1681) using computational methods. Drawing on a corpus of 194 digitally encoded plays (110 comedias nuevas and 84 autos sacramentales), the project combines literary scholarship and computational linguistics to trace regularities at multiple structural levels.\nWe pursue three main objectives: (1) lexical-semantic classification of genres and character types, (2) network analysis of character constellations and interactions, and (3) analysis of dramatic structure and temporal dynamics. Our approach integrates qualitative and quantitative methods and aims to contribute both to Calderonian scholarship and to scalable models for drama analysis in the Digital Humanities.\nThe project is a collaboration between the Institute of Romance Studies at the University of Tübingen and the Institute for Natural Language Processing at the University of Stuttgart, supported by leading Calderón editors and the DraCor infrastructure."
   },
   {
     "objectID": "projects/dracor.html",
