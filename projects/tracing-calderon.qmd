@@ -11,7 +11,7 @@ format:
     toc: true
 ---
 
-## Tracing Regularities in Pedro Calderón de la Barca’s Dramatic Œuvre
+# Tracing Regularities in Pedro Calderón de la Barca’s Dramatic Œuvre
 
 **Status:** Ongoing (2023–2026)  
 **Lead Institutions:** University of Tübingen & University of Stuttgart
