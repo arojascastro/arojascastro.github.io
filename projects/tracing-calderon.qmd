@@ -16,7 +16,7 @@ format:
 **Status:** Ongoing (2023–2026)  
 **Lead Institutions:** University of Tübingen & University of Stuttgart
 
-This interdisciplinary research project investigates recurring patterns across the dramatic works of Pedro Calderón de la Barca (1600–1681) using computational methods. Drawing on a corpus of 194 digitally encoded plays (110 comedias nuevas and 84 autos sacramentales), the project combines literary scholarship and computational linguistics to trace regularities at multiple structural levels.
+This interdisciplinary research project investigates recurring patterns across the dramatic works of Pedro Calderón de la Barca (1600–1681) using computational methods. Drawing on a corpus of 205 encoded plays (comedias nuevas and autos sacramentales), the project combines literary scholarship and computational linguistics to trace regularities at multiple structural levels.
 
 We pursue three main objectives: (1) lexical-semantic classification of genres and character types, (2) network analysis of character constellations and interactions, and (3) analysis of dramatic structure and temporal dynamics. Our approach integrates qualitative and quantitative methods and aims to contribute both to Calderonian scholarship and to scalable models for drama analysis in the Digital Humanities.
 
