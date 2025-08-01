@@ -2,19 +2,22 @@
 title: "Tracing Regularities in Calderón"
 description: "Computational analysis of character patterns in Golden Age Spanish drama."
 image: images/calderon.png
-categories: ["Calderón", "Early Modern Drama"]
+categories: ["Calderón", "Early Modern Drama", "theater"]
 project-type: "Research Associate"
-role: Analyst / Contributor
-link: https://orcid.org/0000-0002-8916-4997
+role: Digital Humanities Researcher 
+link: https://arojascastro.github.io/projects/tracing-calderon.html
 format:
   html:
     toc: true
 ---
 
-# Tracing Regularities in Calderón
+## Tracing Regularities in Pedro Calderón de la Barca’s Dramatic Œuvre
 
-This project applies computational methods to study patterns of character roles and interactions in the works of Calderón de la Barca. Key methods include:
+**Status:** Ongoing (2023–2026)  
+**Lead Institutions:** University of Tübingen & University of Stuttgart
 
-- Network analysis
-- Scene segmentation
-- Character typology modeling
+This interdisciplinary research project investigates recurring patterns across the dramatic works of Pedro Calderón de la Barca (1600–1681) using computational methods. Drawing on a corpus of 194 digitally encoded plays (110 comedias nuevas and 84 autos sacramentales), the project combines literary scholarship and computational linguistics to trace regularities at multiple structural levels.
+
+We pursue three main objectives: (1) lexical-semantic classification of genres and character types, (2) network analysis of character constellations and interactions, and (3) analysis of dramatic structure and temporal dynamics. Our approach integrates qualitative and quantitative methods and aims to contribute both to Calderonian scholarship and to scalable models for drama analysis in the Digital Humanities.
+
+The project is a collaboration between the Institute of Romance Studies at the University of Tübingen and the Institute for Natural Language Processing at the University of Stuttgart, supported by leading Calderón editors and the DraCor infrastructure.
