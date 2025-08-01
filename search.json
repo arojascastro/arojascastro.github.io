@@ -32,7 +32,7 @@
     "href": "projects/proyecto-humboldt.html",
     "title": "Proyecto Humboldt Digital",
     "section": "",
-    "text": "Proyecto Humboldt Digital\nAs part of the Humboldt Digital project at the Berlin-Brandenburg Academy of Sciences and Humanities, I worked on:\n\nEditorial curation of digital editions\nData modeling and infrastructure setup\nDevelopment of the Dossier Digital: Alexander von Humboldt and Cuba"
+    "text": "Proyecto Humboldt Digital (ProHD)\nStatus: Completed (2019–2023)\nLead Institutions: Oficina del Historiador de La Habana (OHCH) & Berlin-Brandenburg Academy of Sciences and Humanities (BBAW)\nProyecto Humboldt Digital (ProHD) was a four-year international cooperation between the OHCH in Cuba and the BBAW in Germany. Funded by the German Foreign Office, the Fritz Thyssen Foundation, and the Gerda Henkel Foundation, the project aimed to preserve and publish documents related to Alexander von Humboldt’s visits to Cuba (1800–1801, 1804).\nThrough a shared editorial workflow, the project identified, digitized, described, encoded, and published 28 historical documents in open-access digital editions using TEI XML and open-source tools like ediarum and TEI Publisher. All outputs were made available in Spanish, German, and English.\nProHD strengthened editorial and digital capacities at OHCH and contributed to international knowledge transfer and cultural preservation across national and linguistic boundaries."
   },
   {
     "objectID": "projects/hallernet.html",
