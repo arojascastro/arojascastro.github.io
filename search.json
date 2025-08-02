@@ -4,21 +4,21 @@
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "I am currently a Part-Time Lecturer at Universidad Internacional de La Rioja (UNIR) (remote).\nSince 2020, I have been teaching in the Master’s Degree in Digital Humanities, focusing on Digital Scholarly Editions, and supervising numerous Master’s theses."
+    "text": "I am currently a Part-Time Lecturer at Universidad Internacional de La Rioja (UNIR) (remote). Since 2020, I have been teaching in the Master’s Degree in Digital Humanities, focusing on Digital Scholarly Editions, and supervising numerous Master’s theses."
   },
   {
     "objectID": "teaching.html#current-teaching-2020present",
     "href": "teaching.html#current-teaching-2020present",
     "title": "Teaching",
     "section": "Current Teaching (2020–present)",
-    "text": "Current Teaching (2020–present)\n\nDigital Scholarly Editing\nMaster’s Degree in Digital Humanities, UNIR\n\nIntegrates theory and practice: conception, transcription, encoding, transformation, and publication.\nHands-on experience with TEI/XML, XSLT, and publication workflows.\n\n\n\nMaster’s Thesis Supervision\n\nSupervision of students in the Master’s Degree in Digital Humanities (2023–2024)"
+    "text": "Current Teaching (2020–present)\n\nDigital Scholarly Editing\nMaster’s Degree in Digital Humanities, UNIR\n\nIntegrates theory and practice: conception, transcription, encoding, transformation, and publication.\nHands-on experience with TEI/XML, XSLT, and publication workflows (TEI Publisher).\n\n\n\nMaster’s Thesis Supervision\n\nSupervision of students in the Master’s Degree in Digital Humanities (2023–2024)"
   },
   {
     "objectID": "teaching.html#recent-teaching-20192023",
     "href": "teaching.html#recent-teaching-20192023",
     "title": "Teaching",
     "section": "Recent Teaching (2019–2023)",
-    "text": "Recent Teaching (2019–2023)\n\nTheories of Digital Humanities (2022–2023)\nMaster’s Degree in Digital Humanities, UNIR\n→ Explored theoretical frameworks, critical debates, and ethics in DH.\nLinguistic Applications in Digital Technology (2020–2021)\nMaster’s Degree in Digital Humanities, UNIR\n→ Focused on computational linguistics and digital text analysis.\nMaster’s Thesis Supervision (2020–2022)\nMaster’s Degree in Digital Humanities, UNIR\nMaster’s Thesis Supervision (2019–2020)\nMaster’s Degree in Rhetoric and Public Speaking, UNIR"
+    "text": "Recent Teaching (2019–2023)\n\nTheories of Digital Humanities (2022–2023)\nMaster’s Degree in Digital Humanities, UNIR\n→ Explored theoretical frameworks (open science), critical debates, and ethics in DH.\nLinguistic Applications in Digital Technology (2020–2021)\nMaster’s Degree in Digital Humanities, UNIR\n→ Focused on computational linguistics and digital text analysis.\nMaster’s Thesis Supervision (2020–2022)\nMaster’s Degree in Digital Humanities, UNIR\nMaster’s Thesis Supervision (2019–2020)\nMaster’s Degree in Rhetoric and Public Speaking, UNIR"
   },
   {
     "objectID": "teaching.html#workshops-training-selected",
@@ -53,7 +53,7 @@
     "href": "projects/early-modern-epics.html",
     "title": "Early Modern Epic Poems",
     "section": "",
-    "text": "Early Modern Epic Poems\nStatus: Planned (2026–2028)\nLead Institution: To be determined\nFunding: Not yet secured\nEarly Modern Epic Poems is a digital humanities project that aims to explore Spanish epic poetry from the sixteenth and seventeenth centuries using computational methods. Although epic was the premier literary genre of imperial Spain, it remains underexplored due to its marginal position in the modern canon. This project will use stylometry, topic modeling, and linguistic analysis to trace generic patterns, thematic structures, and stylistic features across a curated corpus of epic poems.\nThe project pursues four main goals: (1) classify poems based on similarity and genre subtypes, (2) identify dominant themes through probabilistic topic modeling, (3) analyze distinctive linguistic features of epic discourse, such as similes, rhetorical devices, and references to historical figures, and (4) map the geography represented in epic poems through mentioned places. The methods and workflows developed will be made openly available and are transferable to other early modern European corpora.\nBy combining literary theory with distant reading techniques, this project seeks to reevaluate the cultural significance and narrative strategies of Spanish epic poetry during the so-called Golden Age."
+    "text": "Early Modern Epic Poems\nStatus: Planned (2026–2028)\nEarly Modern Epic Poems is a digital humanities project that aims to explore Spanish epic poetry from the sixteenth and seventeenth centuries using computational methods. Although epic was the premier literary genre of imperial Spain, it remains underexplored due to its marginal position in the modern canon. This project will use stylometry, topic modeling, and linguistic analysis to trace generic patterns, thematic structures, and stylistic features across a curated corpus of epic poems.\nThe project pursues four main goals: (1) classify poems based on similarity and genre subtypes, (2) identify dominant themes through probabilistic topic modeling, (3) analyze distinctive linguistic features of epic discourse, such as similes, rhetorical devices, and references to historical figures, and (4) map the geography represented in epic poems through mentioned places. The methods and workflows developed will be made openly available and are transferable to other early modern European corpora.\nBy combining literary theory with distant reading techniques, this project seeks to reevaluate the cultural significance and narrative strategies of Spanish epic poetry during the so-called Golden Age."
   },
   {
     "objectID": "publications.html",
