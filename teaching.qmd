@@ -2,8 +2,7 @@
 title: "Teaching"
 ---
 
-I am currently a **Part-Time Lecturer at [Universidad Internacional de La Rioja (UNIR)](https://www.unir.net/)** (remote).  
-Since 2020, I have been teaching in the **Master’s Degree in Digital Humanities**, focusing on **Digital Scholarly Editions**, and supervising numerous Master’s theses.
+I am currently a **Part-Time Lecturer at [Universidad Internacional de La Rioja (UNIR)](https://www.unir.net/)** (remote). Since 2020, I have been teaching in the **Master’s Degree in Digital Humanities**, focusing on **Digital Scholarly Editions**, and supervising numerous Master’s theses.
 
 ---
 
@@ -13,7 +12,7 @@ Since 2020, I have been teaching in the **Master’s Degree in Digital Humanitie
 *Master’s Degree in Digital Humanities, UNIR*
 
 - Integrates theory and practice: conception, transcription, encoding, transformation, and publication.
-- Hands-on experience with **TEI/XML**, **XSLT**, and publication workflows.
+- Hands-on experience with **TEI/XML**, **XSLT**, and publication workflows (TEI Publisher).
 
 ### Master’s Thesis Supervision
 
@@ -25,7 +24,7 @@ Since 2020, I have been teaching in the **Master’s Degree in Digital Humanitie
 
 - **Theories of Digital Humanities** (2022–2023)  
   *Master’s Degree in Digital Humanities, UNIR*  
-  → Explored theoretical frameworks, critical debates, and ethics in DH.
+  → Explored theoretical frameworks (open science), critical debates, and ethics in DH.
 
 - **Linguistic Applications in Digital Technology** (2020–2021)  
   *Master’s Degree in Digital Humanities, UNIR*  
