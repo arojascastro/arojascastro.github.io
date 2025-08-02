@@ -13,6 +13,7 @@ format:
 
 **Status:** Ongoing (2023–2026)  
 **Lead Institutions:** University of Tübingen & University of Stuttgart
+**Funding:** DFG
 
 This interdisciplinary research project investigates recurring patterns across the dramatic works of Pedro Calderón de la Barca (1600–1681) using computational methods. Drawing on a corpus of 205 encoded plays (comedias nuevas and autos sacramentales), the project combines literary scholarship and computational linguistics to trace regularities at multiple structural levels.
 

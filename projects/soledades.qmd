@@ -15,7 +15,7 @@ format:
 **Status:** Completed  
 **Duration:** 2011–2017  
 **Lead Institutions:** Universitat Pompeu Fabra & University of Cologne  
-**Funding:** Self-funded (Doctoral project)
+**Funding:** Ministerio de Ciencia y Economía (España) (FPI Fellowship - Doctoral project)
 
 This project produced a digital critical edition of *Soledades* by Luis de Góngora, combining traditional philological methods with digital technologies. The edition was developed in two phases: the first involved the textual collation and critical establishment of the poem based on 21 manuscripts and prints; the second focused on encoding the edition in XML/TEI and publishing it using the open-source tool Edition Visualization Technology (EVT).
 
