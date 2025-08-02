@@ -5,6 +5,7 @@ image: images/calderon.png
 categories: ["Calderón", "Early Modern Drama", "theater"]
 project-type: "Research Associate"
 role: Digital Humanities Researcher 
+year: 2023–2026
 link: https://github.com/dracor-org/caldracor
 format:
   html:
