@@ -20,5 +20,7 @@ A long-term research project focused on:
 - Stylometric and topic modeling analysis
 - Integration of mapping and metadata visualization tools
 
-## Related link
-- https://github.com/arojascastro/fabulasmitologicas 
+## Related links
+- [GitHub Repository](https://github.com/arojascastro/fabulasmitologicas)
+- 2025. “Mapping Early Modern Hispanic Mythological Poems with Recogito.” In Digital Humanities in Medieval and Early Modern Spanish Texts, edited by Roberto J. González Zalacain and Gael Vaamonde, 101st–117th ed. Oxon & New York: Routledge.
+- 2017. “Luis de Góngora y La Fábula Mitológica Del Siglo de Oro: Clasificación de Textos y Análisis Léxico Con Métodos Informáticos.” Studia Aurea 11 (0): 111–42. https://doi.org/10.5565/rev/studiaaurea.260.  
