@@ -19,6 +19,7 @@ format:
 This project investigates the Spanish Golden Age’s vibrant tradition of mythological poetry, especially the *fábula mitológica*, a genre of short epic poems composed between 1550 and 1650. These narrative poems, often inspired by Ovid’s *Metamorphoses* and popularized by Luis de Góngora’s *Fábula de Polifemo y Galatea* (1613), fuse classical mythology with early modern poetics and reflect broader cultural debates on imitation, fiction, and stylistic experimentation.
 
 The project applies digital methods to a curated corpus of 25 *fábulas mitológicas* (over 150,000 words). It pursues three interrelated goals:  
+
 1. **Text classification** through stylometric analysis (e.g., Stylo in R) to identify stylistic clusters (e.g., “dark,” “clear,” “intermediate” poems);  
 2. **Lexical profiling** to assess the density and function of *cultismos* and classical references;  
 3. **Literary cartography** using Recogito to annotate and visualize the geographic imagination of early modern poets.
@@ -29,5 +30,5 @@ All data, scripts, and findings are made openly available in TEI/XML and CSV for
 
 ## Related links
 - [GitHub Repository](https://github.com/arojascastro/fabulasmitologicas)
-- 2025. “Mapping Early Modern Hispanic Mythological Poems with Recogito.” In Digital Humanities in Medieval and Early Modern Spanish Texts, edited by Roberto J. González Zalacain and Gael Vaamonde, 101st–117th ed. Oxon & New York: Routledge.
-- 2017. “Luis de Góngora y La Fábula Mitológica Del Siglo de Oro: Clasificación de Textos y Análisis Léxico Con Métodos Informáticos.” Studia Aurea 11 (0): 111–42. https://doi.org/10.5565/rev/studiaaurea.260.  
+-  2025. “Mapping Early Modern Hispanic Mythological Poems with Recogito.” In Digital Humanities in Medieval and Early Modern Spanish Texts, edited by Roberto J. González Zalacain and Gael Vaamonde, 101st–117th ed. Oxon & New York: Routledge.
+-  2017. “Luis de Góngora y La Fábula Mitológica Del Siglo de Oro: Clasificación de Textos y Análisis Léxico Con Métodos Informáticos.” Studia Aurea 11 (0): 111–42. https://doi.org/10.5565/rev/studiaaurea.260.  
