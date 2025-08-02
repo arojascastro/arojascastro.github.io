@@ -24,7 +24,7 @@ The edition highlights significant authorial variants—some unpublished before�
 This scholarly resource exemplifies a “paradigmatic digital edition,” where a single TEI file dynamically generates multiple textual views. It is openly accessible online and demonstrates how minimal computing and open infrastructures can support high-quality textual scholarship even in the absence of dedicated funding.
 
 
-## Related link
+## Related links
 - [Digital Edition](http://soledades.uni-koeln.de/#/critical?d=doc_1&e=critical) 
 - 2017. “La Edición Crítica Digital y La Codificación TEI. Preliminares Para Una Nueva Edición de Las Soledades de Luis de Góngora.” Revista de Humanidades Digitales 1: 4–19. https://doi.org/https://doi.org/10.5944/rhd.vol.1.2017.16379. 
 - 2018. “Las "Soledades" de Luis de Góngora En El Manuscrito 2056 de La Biblioteca de Catalunya: Estudio Bibliográfico y Nuevas Variantes de Autor.” Rilce. Revista de Filología Hispánica 34 (1): 69–99. https://doi.org/10.15581/008.34.1.69-99. 
