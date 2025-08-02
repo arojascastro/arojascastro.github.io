@@ -32,56 +32,56 @@
     "href": "projects/proyecto-humboldt.html",
     "title": "Proyecto Humboldt Digital",
     "section": "",
-    "text": "Status: Completed (2019–2023)\nLead Institutions: Oficina del Historiador de La Habana (OHCH) & Berlin-Brandenburg Academy of Sciences and Humanities (BBAW)\nProyecto Humboldt Digital (ProHD) was a four-year international cooperation between the OHCH in Cuba and the BBAW in Germany. Funded by the German Foreign Office, the Fritz Thyssen Foundation, and the Gerda Henkel Foundation, the project aimed to preserve and publish documents related to Alexander von Humboldt’s visits to Cuba (1800–1801, 1804).\nThrough a shared editorial workflow, the project identified, digitized, described, encoded, and published 28 historical documents in open-access digital editions using TEI XML and open-source tools like ediarum and TEI Publisher. All outputs were made available in Spanish, German, and English.\nProHD strengthened editorial and digital capacities at OHCH and contributed to international knowledge transfer and cultural preservation across national and linguistic boundaries.\n\n\n\nDossier Digital"
+    "text": "Status: Completed (2019–2023)\nLead Institutions: Oficina del Historiador de La Habana (OHCH) & Berlin-Brandenburg Academy of Sciences and Humanities (BBAW)\nProyecto Humboldt Digital (ProHD) was a four-year international cooperation between the OHCH in Cuba and the BBAW in Germany. Funded by the German Foreign Office, the Fritz Thyssen Foundation, and the Gerda Henkel Foundation, the project aimed to preserve and publish documents related to Alexander von Humboldt’s visits to Cuba (1800–1801, 1804).\nThrough a shared editorial workflow, the project identified, digitized, described, encoded, and published 28 historical documents in open-access digital editions using TEI XML and open-source tools like ediarum and TEI Publisher. All outputs were made available in Spanish, German, and English.\nProHD strengthened editorial and digital capacities at OHCH and contributed to international knowledge transfer and cultural preservation across national and linguistic boundaries."
   },
   {
     "objectID": "projects/proyecto-humboldt.html#related-link",
     "href": "projects/proyecto-humboldt.html#related-link",
     "title": "Proyecto Humboldt Digital",
-    "section": "",
-    "text": "Dossier Digital"
+    "section": "Related link",
+    "text": "Related link\n\nDossier Digital"
   },
   {
     "objectID": "projects/hallernet.html",
     "href": "projects/hallernet.html",
     "title": "HallerNet",
     "section": "",
-    "text": "At the Cologne Center for eHumanities (CCeH), I contributed to the modeling, processing, and curation of Albrecht von Haller’s letters and bibliographic records. The project supports a digital infrastructure for collaborative research and edition.\n\n\n\nHallerNet"
+    "text": "At the Cologne Center for eHumanities (CCeH), I contributed to the modeling, processing, and curation of Albrecht von Haller’s letters and bibliographic records. The project supports a digital infrastructure for collaborative research and edition."
   },
   {
     "objectID": "projects/hallernet.html#related-link",
     "href": "projects/hallernet.html#related-link",
     "title": "HallerNet",
-    "section": "",
-    "text": "HallerNet"
+    "section": "Related link",
+    "text": "Related link\n\nHallerNet"
   },
   {
     "objectID": "projects/golden-age-poems.html",
     "href": "projects/golden-age-poems.html",
     "title": "Golden Age Mythological Poems",
     "section": "",
-    "text": "Status: Ongoing (2026–2028)\nThis project investigates the Spanish Golden Age’s vibrant tradition of mythological poetry, especially the fábula mitológica, a genre of short epic poems composed between 1550 and 1650. These narrative poems, often inspired by Ovid’s Metamorphoses and popularized by Luis de Góngora’s Fábula de Polifemo y Galatea (1613), fuse classical mythology with early modern poetics and reflect broader cultural debates on imitation, fiction, and stylistic experimentation.\nThe project applies digital methods to a curated corpus of 25 fábulas mitológicas (over 150,000 words). It pursues three interrelated goals:\n\nText classification through stylometric analysis (e.g., Stylo in R) to identify stylistic clusters (e.g., “dark,” “clear,” “intermediate” poems);\n\nLexical profiling to assess the density and function of cultismos and classical references;\n\nLiterary cartography using Recogito to annotate and visualize the geographic imagination of early modern poets.\n\nInitial results show a mythological geography centered on the Mediterranean and classical antiquity, but also incorporating modern Iberian references. The project also refines authorial attributions and challenges traditional stylistic classifications in the Góngora tradition.\nAll data, scripts, and findings are made openly available in TEI/XML and CSV formats, supporting further research in early modern poetics and the digital humanities.\n\n\n\nGitHub Repository\n\n“Mapping Early Modern Hispanic Mythological Poems with Recogito.” In Digital Humanities in Medieval and Early Modern Spanish Texts, edited by Roberto J. González Zalacain and Gael Vaamonde, 101st–117th ed. Oxon & New York: Routledge.\n\n\n“Luis de Góngora y La Fábula Mitológica Del Siglo de Oro: Clasificación de Textos y Análisis Léxico Con Métodos Informáticos.” Studia Aurea 11 (0): 111–42. https://doi.org/10.5565/rev/studiaaurea.260."
+    "text": "Status: Ongoing (2026–2028)\nThis project investigates the Spanish Golden Age’s vibrant tradition of mythological poetry, especially the fábula mitológica, a genre of short epic poems composed between 1550 and 1650. These narrative poems, often inspired by Ovid’s Metamorphoses and popularized by Luis de Góngora’s Fábula de Polifemo y Galatea (1613), fuse classical mythology with early modern poetics and reflect broader cultural debates on imitation, fiction, and stylistic experimentation.\nThe project applies digital methods to a curated corpus of 25 fábulas mitológicas (over 150,000 words). It pursues three interrelated goals:\nInitial results show a mythological geography centered on the Mediterranean and classical antiquity, but also incorporating modern Iberian references. The project also refines authorial attributions and challenges traditional stylistic classifications in the Góngora tradition.\nAll data, scripts, and findings are made openly available in TEI/XML and CSV formats, supporting further research in early modern poetics and the digital humanities."
   },
   {
     "objectID": "projects/golden-age-poems.html#related-links",
     "href": "projects/golden-age-poems.html#related-links",
     "title": "Golden Age Mythological Poems",
-    "section": "",
-    "text": "GitHub Repository\n\n“Mapping Early Modern Hispanic Mythological Poems with Recogito.” In Digital Humanities in Medieval and Early Modern Spanish Texts, edited by Roberto J. González Zalacain and Gael Vaamonde, 101st–117th ed. Oxon & New York: Routledge.\n\n\n“Luis de Góngora y La Fábula Mitológica Del Siglo de Oro: Clasificación de Textos y Análisis Léxico Con Métodos Informáticos.” Studia Aurea 11 (0): 111–42. https://doi.org/10.5565/rev/studiaaurea.260."
+    "section": "Related links",
+    "text": "Related links\n\nGitHub Repository\n\n“Mapping Early Modern Hispanic Mythological Poems with Recogito.” In Digital Humanities in Medieval and Early Modern Spanish Texts, edited by Roberto J. González Zalacain and Gael Vaamonde, 101st–117th ed. Oxon & New York: Routledge.\n\n\n“Luis de Góngora y La Fábula Mitológica Del Siglo de Oro: Clasificación de Textos y Análisis Léxico Con Métodos Informáticos.” Studia Aurea 11 (0): 111–42. https://doi.org/10.5565/rev/studiaaurea.260."
   },
   {
     "objectID": "projects/early-modern-epics.html",
     "href": "projects/early-modern-epics.html",
     "title": "Early Modern Epic Poems",
     "section": "",
-    "text": "Status: Planned (2026–2028)\nEarly Modern Epic Poems is a digital humanities project that aims to explore Spanish epic poetry from the sixteenth and seventeenth centuries using computational methods. Although epic was the premier literary genre of imperial Spain, it remains underexplored due to its marginal position in the modern canon. This project will use stylometry, topic modeling, and linguistic analysis to trace generic patterns, thematic structures, and stylistic features across a curated corpus of epic poems.\nThe project pursues four main goals: (1) classify poems based on similarity and genre subtypes, (2) identify dominant themes through probabilistic topic modeling, (3) analyze distinctive linguistic features of epic discourse, such as similes, rhetorical devices, and references to historical figures, and (4) map the geography represented in epic poems through mentioned places. The methods and workflows developed will be made openly available and are transferable to other early modern European corpora.\nBy combining literary theory with distant reading techniques, this project seeks to reevaluate the cultural significance and narrative strategies of Spanish epic poetry during the so-called Golden Age.\n\n\n\nGitHub Repository"
+    "text": "Status: Planned (2026–2028)\nEarly Modern Epic Poems is a digital humanities project that aims to explore Spanish epic poetry from the sixteenth and seventeenth centuries using computational methods. Although epic was the premier literary genre of imperial Spain, it remains underexplored due to its marginal position in the modern canon. This project will use stylometry, topic modeling, and linguistic analysis to trace generic patterns, thematic structures, and stylistic features across a curated corpus of epic poems.\nThe project pursues four main goals: (1) classify poems based on similarity and genre subtypes, (2) identify dominant themes through probabilistic topic modeling, (3) analyze distinctive linguistic features of epic discourse, such as similes, rhetorical devices, and references to historical figures, and (4) map the geography represented in epic poems through mentioned places. The methods and workflows developed will be made openly available and are transferable to other early modern European corpora.\nBy combining literary theory with distant reading techniques, this project seeks to reevaluate the cultural significance and narrative strategies of Spanish epic poetry during the so-called Golden Age."
   },
   {
     "objectID": "projects/early-modern-epics.html#related-link",
     "href": "projects/early-modern-epics.html#related-link",
     "title": "Early Modern Epic Poems",
-    "section": "",
-    "text": "GitHub Repository"
+    "section": "Related link",
+    "text": "Related link\n\nGitHub Repository"
   },
   {
     "objectID": "publications.html",
@@ -137,41 +137,41 @@
     "href": "projects/soledades.html",
     "title": "Digital Critical Edition of Soledades",
     "section": "",
-    "text": "This project is a scholarly TEI-encoded critical edition of Luis de Góngora’s Soledades, developed during my doctoral research. It involved:\n\nManual collation of 20 witnesses\nTEI/XML encoding of a critical text\nAnnotation, normalization, and variant handling\nDigital publication using Edition Visualization Technology (EVT)\n\n\n\n\nDigital Edition"
+    "text": "This project is a scholarly TEI-encoded critical edition of Luis de Góngora’s Soledades, developed during my doctoral research. It involved:"
   },
   {
     "objectID": "projects/soledades.html#related-link",
     "href": "projects/soledades.html#related-link",
     "title": "Digital Critical Edition of Soledades",
-    "section": "",
-    "text": "Digital Edition"
+    "section": "Related link",
+    "text": "Related link\n\nDigital Edition"
   },
   {
     "objectID": "projects/tracing-calderon.html",
     "href": "projects/tracing-calderon.html",
-    "title": "Tracing Regularities in Calderón",
+    "title": "Tracing Regularities in Calderón de La Barca",
     "section": "",
-    "text": "Status: Ongoing (2023–2026)\nLead Institutions: University of Tübingen & University of Stuttgart\nThis interdisciplinary research project investigates recurring patterns across the dramatic works of Pedro Calderón de la Barca (1600–1681) using computational methods. Drawing on a corpus of 205 encoded plays (comedias nuevas and autos sacramentales), the project combines literary scholarship and computational linguistics to trace regularities at multiple structural levels.\nWe pursue three main objectives: (1) lexical-semantic classification of genres and character types, (2) network analysis of character constellations and interactions, and (3) analysis of dramatic structure and temporal dynamics. Our approach integrates qualitative and quantitative methods and aims to contribute both to Calderonian scholarship and to scalable models for drama analysis in the Digital Humanities.\nThe project is a collaboration between the Institute of Romance Studies at the University of Tübingen and the Institute for Natural Language Processing at the University of Stuttgart, supported by leading Calderón editors and the DraCor infrastructure.\n\n\n\nGitHub Repository"
+    "text": "Status: Ongoing (2023–2026)\nLead Institutions: University of Tübingen & University of Stuttgart\nThis interdisciplinary research project investigates recurring patterns across the dramatic works of Pedro Calderón de la Barca (1600–1681) using computational methods. Drawing on a corpus of 205 encoded plays (comedias nuevas and autos sacramentales), the project combines literary scholarship and computational linguistics to trace regularities at multiple structural levels.\nWe pursue three main objectives: (1) lexical-semantic classification of genres and character types, (2) network analysis of character constellations and interactions, and (3) analysis of dramatic structure and temporal dynamics. Our approach integrates qualitative and quantitative methods and aims to contribute both to Calderonian scholarship and to scalable models for drama analysis in the Digital Humanities.\nThe project is a collaboration between the Institute of Romance Studies at the University of Tübingen and the Institute for Natural Language Processing at the University of Stuttgart, supported by leading Calderón editors and the DraCor infrastructure."
   },
   {
     "objectID": "projects/tracing-calderon.html#related-link",
     "href": "projects/tracing-calderon.html#related-link",
-    "title": "Tracing Regularities in Calderón",
-    "section": "",
-    "text": "GitHub Repository"
+    "title": "Tracing Regularities in Calderón de La Barca",
+    "section": "Related link",
+    "text": "Related link\n\nGitHub Repository"
   },
   {
     "objectID": "projects/dracor.html",
     "href": "projects/dracor.html",
-    "title": "DraCor (Drama Corpora Project)",
+    "title": "DraCorOS: Fostering Open Science in Digital Humanities",
     "section": "",
-    "text": "Status: Ongoing (2024–2026)\nLead Institutions: Freie Universität Berlin & University of Potsdam\nFunding: EOSC (European Open Science Cloud)\nDraCorOS is an interdisciplinary project aimed at enhancing the DraCor ecosystem (https://dracor.org), a TEI-based platform for the computational analysis of over 4,000 plays from the ancient to the modern period. The project focuses on aligning DraCor with the European Open Science Cloud (EOSC) by expanding its Linked Open Data components, improving corpus validation and alignment, and developing training materials and reproducible workflows for researchers.\nIn addition to publishing Jupyter-based teaching resources in Python and supporting the international DraCor user community, the project actively collects feedback through surveys, interviews, and focus groups. DraCorOS also organizes Open Science workshops and community events to foster dialogue, collaboration, and sustainable, community-driven infrastructures in the Digital Humanities.\n\n\n\nDraCor"
+    "text": "Status: Ongoing (2024–2026)\nLead Institutions: Freie Universität Berlin & University of Potsdam\nFunding: EOSC (European Open Science Cloud)\nDraCorOS is an interdisciplinary project aimed at enhancing the DraCor ecosystem (https://dracor.org), a TEI-based platform for the computational analysis of over 4,000 plays from the ancient to the modern period. The project focuses on aligning DraCor with the European Open Science Cloud (EOSC) by expanding its Linked Open Data components, improving corpus validation and alignment, and developing training materials and reproducible workflows for researchers.\nIn addition to publishing Jupyter-based teaching resources in Python and supporting the international DraCor user community, the project actively collects feedback through surveys, interviews, and focus groups. DraCorOS also organizes Open Science workshops and community events to foster dialogue, collaboration, and sustainable, community-driven infrastructures in the Digital Humanities."
   },
   {
     "objectID": "projects/dracor.html#related-links",
     "href": "projects/dracor.html#related-links",
-    "title": "DraCor (Drama Corpora Project)",
-    "section": "",
-    "text": "DraCor"
+    "title": "DraCorOS: Fostering Open Science in Digital Humanities",
+    "section": "Related links:",
+    "text": "Related links:\n\nDraCor"
   }
 ]
