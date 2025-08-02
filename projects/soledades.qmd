@@ -1,6 +1,6 @@
 ---
-title: "Digital Critical Edition of *Soledades*"
-description: "TEI-based critical edition of Luis de Góngora’s *Soledades* (PhD project)."
+title: "*Soledades* by Luis de Góngora: A Digital Critical Edition"
+description: "Editing the *Soledades*: From Manuscript Collation to Digital Interface"
 image: images/soledades-page.png
 categories: ["Digital Editions", "Golden Age", "Critical Edition"]
 project-type: "PhD Project"
@@ -12,12 +12,20 @@ format:
     toc: true
 ---
 
-This project is a scholarly TEI-encoded critical edition of Luis de Góngora’s *Soledades*, developed during my doctoral research. It involved:
+**Status:** Completed  
+**Duration:** 2011–2017  
+**Lead Institutions:** Universitat Pompeu Fabra & University of Cologne  
+**Funding:** Self-funded (Doctoral project)
 
-- Manual collation of 20 witnesses
-- TEI/XML encoding of a critical text
-- Annotation, normalization, and variant handling
-- Digital publication using Edition Visualization Technology (EVT)
+This project produced a digital critical edition of *Soledades* by Luis de Góngora, combining traditional philological methods with digital technologies. The edition was developed in two phases: the first involved the textual collation and critical establishment of the poem based on 21 manuscripts and prints; the second focused on encoding the edition in XML/TEI and publishing it using the open-source tool Edition Visualization Technology (EVT).
+
+The edition highlights significant authorial variants—some unpublished before—identified through the study of the manuscript 2056 (Biblioteca de Catalunya). It allows users to interactively explore the critical text, compare variant readings, and evaluate editorial decisions.
+
+This scholarly resource exemplifies a “paradigmatic digital edition,” where a single TEI file dynamically generates multiple textual views. It is openly accessible online and demonstrates how minimal computing and open infrastructures can support high-quality textual scholarship even in the absence of dedicated funding.
+
 
 ## Related link
 - [Digital Edition](http://soledades.uni-koeln.de/#/critical?d=doc_1&e=critical) 
+- 2017. “La Edición Crítica Digital y La Codificación TEI. Preliminares Para Una Nueva Edición de Las Soledades de Luis de Góngora.” Revista de Humanidades Digitales 1: 4–19. https://doi.org/https://doi.org/10.5944/rhd.vol.1.2017.16379. 
+- 2018. “Las "Soledades" de Luis de Góngora En El Manuscrito 2056 de La Biblioteca de Catalunya: Estudio Bibliográfico y Nuevas Variantes de Autor.” Rilce. Revista de Filología Hispánica 34 (1): 69–99. https://doi.org/10.15581/008.34.1.69-99. 
+- 2022. “La Publicación de Ediciones Digitales Académicas y El Caso de Las "Soledades" de Luis de Góngora.” Historias Fingidas Special Volume (1): 195–217. https://doi.org/10.13136/2284-2667/1149. 
