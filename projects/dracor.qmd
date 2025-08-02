@@ -11,10 +11,13 @@ format:
     toc: true
 ---
 
-# DraCor (Drama Corpora Project)
+# DraCorOS: Fostering Open Science in Digital Humanities
 
-I have contributed to DraCor through API-driven workflows and network analysis methods. My focus includes:
+**Status:** Ongoing (2024–2026)  
+**Lead Institutions:** Freie Universität Berlin & University of Potsdam  
+**Funding:** EOSC (European Open Science Cloud)
 
-- Character-level network metrics
-- Visualization of dramatic co-occurrence
-- Integration with teaching and research pipelines
+**DraCorOS** is an interdisciplinary project aimed at enhancing the *DraCor* ecosystem (https://dracor.org), a TEI-based platform for the computational analysis of over 4,000 plays from the ancient to the modern period. The project focuses on aligning DraCor with the European Open Science Cloud (EOSC) by expanding its Linked Open Data components, improving corpus validation and alignment, and developing training materials and reproducible workflows for researchers.
+
+In addition to publishing Jupyter-based teaching resources in Python and supporting the international DraCor user community, the project actively collects feedback through surveys, interviews, and focus groups. DraCorOS also organizes Open Science workshops and community events to foster dialogue, collaboration, and sustainable, community-driven infrastructures in the Digital Humanities.
+
