@@ -2,7 +2,7 @@
 title: "DraCor (Drama Corpora Project)"
 description: "Network analysis and API contributions to the DraCor infrastructure."
 image: images/dracor.png
-categories: ["Corpora", "Network Analysis"]
+categories: ["Corpora", "Network Analysis", "Open Science", "User Studies"]
 project-type: "Contributor"
 role: API Developer / Analyst
 link: https://dracor.org/
