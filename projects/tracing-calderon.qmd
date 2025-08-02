@@ -22,7 +22,9 @@ We pursue three main objectives:
 
 1. lexical-semantic classification of genres and character types, 
 2. network analysis of character constellations and interactions, and 
-3. analysis of dramatic structure and temporal dynamics. Our approach integrates qualitative and quantitative methods and aims to contribute both to Calderonian scholarship and to scalable models for drama analysis in the Digital Humanities.
+3. analysis of dramatic structure and temporal dynamics. 
+
+Our approach integrates qualitative and quantitative methods and aims to contribute both to Calderonian scholarship and to scalable models for drama analysis in the Digital Humanities.
 
 The project is a collaboration between the Institute of Romance Studies at the University of Tübingen and the Institute for Natural Language Processing at the University of Stuttgart, supported by leading Calderón editors and the DraCor infrastructure.
 
