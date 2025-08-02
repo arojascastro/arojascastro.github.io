@@ -1,8 +1,8 @@
 ---
 title: "HallerNet"
-description: "Digital infrastructure and editorial support for the correspondence of Albrecht von Haller."
+description: "Transforming Biographical, Bibliographical, and Textual Data into a TEI-Based Infrastructure  "
 image: images/hallernet.png
-categories: ["Digital Humanities", "Infrastructure"]
+categories: ["Albrecht von Haller", "Digital Scholarly Editions", "TEI", "FRBR"]
 project-type: "Research Contributor"
 role: Research Associate
 link: https://hallernet.org/
@@ -11,7 +11,17 @@ format:
     toc: true
 ---
 
-At the Cologne Center for eHumanities (CCeH), I contributed to the modeling, processing, and curation of Albrecht von Haller’s letters and bibliographic records. The project supports a digital infrastructure for collaborative research and edition.
+**Status:** Completed (2016–2019)  
+**Lead Institutions:** University of Bern & University of Cologne  
+**Funding:** Albrecht von Haller-Stiftung, Burgergemeinde Bern, Swiss National Science Foundation, and others
+
+**HallerNet** was a collaborative research project dedicated to transforming the legacy FAUST database (1991–2015) into a sustainable, open, and standards-based digital infrastructure. Focused on the life and work of Albrecht von Haller (1708–1777), the project converted tens of thousands of biographical, bibliographical, and correspondence records into TEI-conformant XML, laying the foundation for digital editing and semantic enrichment.
+
+Implemented as a cooperation between the University of Bern and the Cologne Center for eHumanities, the project created an extensible environment for publishing scholarly editions, linking texts to structured data on people, works, places, and institutions. These linked entities support further applications such as network visualizations, spatial analyses, and dynamic scholarly interfaces.
+
+HallerNet demonstrates the potential of combining philological precision with TEI modeling, FRBR-inspired bibliographic structuring, and modular front-end development in the digital humanities.
+
 
 ## Related link
 - [HallerNet](https://hallernet.org/)
+- Rojas Castro, A. (2019, septiembre 19). Modeling FRBR entities and their relationships with TEI. Zenodo. https://doi.org/10.5281/zenodo.3446218
