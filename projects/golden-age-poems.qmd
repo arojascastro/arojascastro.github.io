@@ -1,8 +1,8 @@
 ---
 title: "Golden Age Mythological Poems"
-description: "Digital corpus and stylometric study of Spanish Golden Age mythological poetry."
+description: "Mapping and Classifying Early Modern Mythological Narratives Using Digital Text Analysis."
 image: images/mythology-sample.png
-categories: ["Golden Age", "Stylometry"]
+categories: ["Golden Age", "Stylometry", "Mapping"]
 project-type: "Principal Investigator"
 role: Project Lead
 year: 2016–ongoing
@@ -14,11 +14,18 @@ format:
 
 # Golden Age Mythological Poems
 
-A long-term research project focused on:
+**Status:** Ongoing (2026–2028)  
 
-- Curating a digital corpus of mythological poems
-- Stylometric and topic modeling analysis
-- Integration of mapping and metadata visualization tools
+This project investigates the Spanish Golden Age’s vibrant tradition of mythological poetry, especially the *fábula mitológica*, a genre of short epic poems composed between 1550 and 1650. These narrative poems, often inspired by Ovid’s *Metamorphoses* and popularized by Luis de Góngora’s *Fábula de Polifemo y Galatea* (1613), fuse classical mythology with early modern poetics and reflect broader cultural debates on imitation, fiction, and stylistic experimentation.
+
+The project applies digital methods to a curated corpus of 25 *fábulas mitológicas* (over 150,000 words). It pursues three interrelated goals:  
+1. **Text classification** through stylometric analysis (e.g., Stylo in R) to identify stylistic clusters (e.g., “dark,” “clear,” “intermediate” poems);  
+2. **Lexical profiling** to assess the density and function of *cultismos* and classical references;  
+3. **Literary cartography** using Recogito to annotate and visualize the geographic imagination of early modern poets.
+
+Initial results show a mythological geography centered on the Mediterranean and classical antiquity, but also incorporating modern Iberian references. The project also refines authorial attributions and challenges traditional stylistic classifications in the Góngora tradition.
+
+All data, scripts, and findings are made openly available in TEI/XML and CSV formats, supporting further research in early modern poetics and the digital humanities.
 
 ## Related links
 - [GitHub Repository](https://github.com/arojascastro/fabulasmitologicas)
