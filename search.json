@@ -32,28 +32,56 @@
     "href": "projects/proyecto-humboldt.html",
     "title": "Proyecto Humboldt Digital",
     "section": "",
-    "text": "Proyecto Humboldt Digital (ProHD)\nStatus: Completed (2019–2023)\nLead Institutions: Oficina del Historiador de La Habana (OHCH) & Berlin-Brandenburg Academy of Sciences and Humanities (BBAW)\nProyecto Humboldt Digital (ProHD) was a four-year international cooperation between the OHCH in Cuba and the BBAW in Germany. Funded by the German Foreign Office, the Fritz Thyssen Foundation, and the Gerda Henkel Foundation, the project aimed to preserve and publish documents related to Alexander von Humboldt’s visits to Cuba (1800–1801, 1804).\nThrough a shared editorial workflow, the project identified, digitized, described, encoded, and published 28 historical documents in open-access digital editions using TEI XML and open-source tools like ediarum and TEI Publisher. All outputs were made available in Spanish, German, and English.\nProHD strengthened editorial and digital capacities at OHCH and contributed to international knowledge transfer and cultural preservation across national and linguistic boundaries."
+    "text": "Status: Completed (2019–2023)\nLead Institutions: Oficina del Historiador de La Habana (OHCH) & Berlin-Brandenburg Academy of Sciences and Humanities (BBAW)\nProyecto Humboldt Digital (ProHD) was a four-year international cooperation between the OHCH in Cuba and the BBAW in Germany. Funded by the German Foreign Office, the Fritz Thyssen Foundation, and the Gerda Henkel Foundation, the project aimed to preserve and publish documents related to Alexander von Humboldt’s visits to Cuba (1800–1801, 1804).\nThrough a shared editorial workflow, the project identified, digitized, described, encoded, and published 28 historical documents in open-access digital editions using TEI XML and open-source tools like ediarum and TEI Publisher. All outputs were made available in Spanish, German, and English.\nProHD strengthened editorial and digital capacities at OHCH and contributed to international knowledge transfer and cultural preservation across national and linguistic boundaries.\n\n\n\nhttps://dossierdigital.ohc.cu/exist/apps/ProHD/start.html"
+  },
+  {
+    "objectID": "projects/proyecto-humboldt.html#related-link",
+    "href": "projects/proyecto-humboldt.html#related-link",
+    "title": "Proyecto Humboldt Digital",
+    "section": "",
+    "text": "https://dossierdigital.ohc.cu/exist/apps/ProHD/start.html"
   },
   {
     "objectID": "projects/hallernet.html",
     "href": "projects/hallernet.html",
     "title": "HallerNet",
     "section": "",
-    "text": "HallerNet\nAt the Cologne Center for eHumanities (CCeH), I contributed to the modeling, processing, and curation of Albrecht von Haller’s letters and bibliographic records. The project supports a digital infrastructure for collaborative research and edition."
+    "text": "At the Cologne Center for eHumanities (CCeH), I contributed to the modeling, processing, and curation of Albrecht von Haller’s letters and bibliographic records. The project supports a digital infrastructure for collaborative research and edition.\n\n\n\nhttps://hallernet.org/"
+  },
+  {
+    "objectID": "projects/hallernet.html#related-link",
+    "href": "projects/hallernet.html#related-link",
+    "title": "HallerNet",
+    "section": "",
+    "text": "https://hallernet.org/"
   },
   {
     "objectID": "projects/golden-age-poems.html",
     "href": "projects/golden-age-poems.html",
     "title": "Golden Age Mythological Poems",
     "section": "",
-    "text": "Golden Age Mythological Poems\nA long-term research project focused on:\n\nCurating a digital corpus of mythological poems\nStylometric and topic modeling analysis\nIntegration of mapping and metadata visualization tools"
+    "text": "A long-term research project focused on:\n\nCurating a digital corpus of mythological poems\nStylometric and topic modeling analysis\nIntegration of mapping and metadata visualization tools\n\n\n\n\nhttps://github.com/arojascastro/fabulasmitologicas"
+  },
+  {
+    "objectID": "projects/golden-age-poems.html#related-link",
+    "href": "projects/golden-age-poems.html#related-link",
+    "title": "Golden Age Mythological Poems",
+    "section": "",
+    "text": "https://github.com/arojascastro/fabulasmitologicas"
   },
   {
     "objectID": "projects/early-modern-epics.html",
     "href": "projects/early-modern-epics.html",
     "title": "Early Modern Epic Poems",
     "section": "",
-    "text": "Early Modern Epic Poems\nStatus: Planned (2026–2028)\nEarly Modern Epic Poems is a digital humanities project that aims to explore Spanish epic poetry from the sixteenth and seventeenth centuries using computational methods. Although epic was the premier literary genre of imperial Spain, it remains underexplored due to its marginal position in the modern canon. This project will use stylometry, topic modeling, and linguistic analysis to trace generic patterns, thematic structures, and stylistic features across a curated corpus of epic poems.\nThe project pursues four main goals: (1) classify poems based on similarity and genre subtypes, (2) identify dominant themes through probabilistic topic modeling, (3) analyze distinctive linguistic features of epic discourse, such as similes, rhetorical devices, and references to historical figures, and (4) map the geography represented in epic poems through mentioned places. The methods and workflows developed will be made openly available and are transferable to other early modern European corpora.\nBy combining literary theory with distant reading techniques, this project seeks to reevaluate the cultural significance and narrative strategies of Spanish epic poetry during the so-called Golden Age."
+    "text": "Status: Planned (2026–2028)\nEarly Modern Epic Poems is a digital humanities project that aims to explore Spanish epic poetry from the sixteenth and seventeenth centuries using computational methods. Although epic was the premier literary genre of imperial Spain, it remains underexplored due to its marginal position in the modern canon. This project will use stylometry, topic modeling, and linguistic analysis to trace generic patterns, thematic structures, and stylistic features across a curated corpus of epic poems.\nThe project pursues four main goals: (1) classify poems based on similarity and genre subtypes, (2) identify dominant themes through probabilistic topic modeling, (3) analyze distinctive linguistic features of epic discourse, such as similes, rhetorical devices, and references to historical figures, and (4) map the geography represented in epic poems through mentioned places. The methods and workflows developed will be made openly available and are transferable to other early modern European corpora.\nBy combining literary theory with distant reading techniques, this project seeks to reevaluate the cultural significance and narrative strategies of Spanish epic poetry during the so-called Golden Age.\n\n\n\nhttps://github.com/arojascastro/early-modern-epic-poems"
+  },
+  {
+    "objectID": "projects/early-modern-epics.html#related-link",
+    "href": "projects/early-modern-epics.html#related-link",
+    "title": "Early Modern Epic Poems",
+    "section": "",
+    "text": "https://github.com/arojascastro/early-modern-epic-poems"
   },
   {
     "objectID": "publications.html",
@@ -109,7 +137,14 @@
     "href": "projects/soledades.html",
     "title": "Digital Critical Edition of Soledades",
     "section": "",
-    "text": "Digital Critical Edition of Soledades\nThis project is a scholarly TEI-encoded critical edition of Luis de Góngora’s Soledades, developed during my doctoral research. It involved:\n\nManual collation of 20 witnesses\nTEI/XML encoding of a critical text\nAnnotation, normalization, and variant handling\nDigital publication using Edition Visualization Technology (EVT)\n\n\n\n\nSample page of the edition"
+    "text": "This project is a scholarly TEI-encoded critical edition of Luis de Góngora’s Soledades, developed during my doctoral research. It involved:\n\nManual collation of 20 witnesses\nTEI/XML encoding of a critical text\nAnnotation, normalization, and variant handling\nDigital publication using Edition Visualization Technology (EVT)\n\n\n\n\nhttp://soledades.uni-koeln.de/#/critical?d=doc_1&e=critical"
+  },
+  {
+    "objectID": "projects/soledades.html#related-link",
+    "href": "projects/soledades.html#related-link",
+    "title": "Digital Critical Edition of Soledades",
+    "section": "",
+    "text": "http://soledades.uni-koeln.de/#/critical?d=doc_1&e=critical"
   },
   {
     "objectID": "projects/tracing-calderon.html",
@@ -123,6 +158,13 @@
     "href": "projects/dracor.html",
     "title": "DraCor (Drama Corpora Project)",
     "section": "",
-    "text": "DraCorOS: Fostering Open Science in Digital Humanities\nStatus: Ongoing (2024–2026)\nLead Institutions: Freie Universität Berlin & University of Potsdam\nFunding: EOSC (European Open Science Cloud)\nDraCorOS is an interdisciplinary project aimed at enhancing the DraCor ecosystem (https://dracor.org), a TEI-based platform for the computational analysis of over 4,000 plays from the ancient to the modern period. The project focuses on aligning DraCor with the European Open Science Cloud (EOSC) by expanding its Linked Open Data components, improving corpus validation and alignment, and developing training materials and reproducible workflows for researchers.\nIn addition to publishing Jupyter-based teaching resources in Python and supporting the international DraCor user community, the project actively collects feedback through surveys, interviews, and focus groups. DraCorOS also organizes Open Science workshops and community events to foster dialogue, collaboration, and sustainable, community-driven infrastructures in the Digital Humanities."
+    "text": "Status: Ongoing (2024–2026)\nLead Institutions: Freie Universität Berlin & University of Potsdam\nFunding: EOSC (European Open Science Cloud)\nDraCorOS is an interdisciplinary project aimed at enhancing the DraCor ecosystem (https://dracor.org), a TEI-based platform for the computational analysis of over 4,000 plays from the ancient to the modern period. The project focuses on aligning DraCor with the European Open Science Cloud (EOSC) by expanding its Linked Open Data components, improving corpus validation and alignment, and developing training materials and reproducible workflows for researchers.\nIn addition to publishing Jupyter-based teaching resources in Python and supporting the international DraCor user community, the project actively collects feedback through surveys, interviews, and focus groups. DraCorOS also organizes Open Science workshops and community events to foster dialogue, collaboration, and sustainable, community-driven infrastructures in the Digital Humanities.\n\n\n\nhttps://dracor.org/"
+  },
+  {
+    "objectID": "projects/dracor.html#related-links",
+    "href": "projects/dracor.html#related-links",
+    "title": "DraCor (Drama Corpora Project)",
+    "section": "",
+    "text": "https://dracor.org/"
   }
 ]
