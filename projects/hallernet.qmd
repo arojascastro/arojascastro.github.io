@@ -5,7 +5,7 @@ image: images/hallernet.png
 categories: ["Digital Humanities", "Infrastructure"]
 project-type: "Research Contributor"
 role: Research Associate
-link: https://orcid.org/0000-0002-8916-4997
+link: https://hallernet.org/
 format:
   html:
     toc: true
@@ -14,3 +14,6 @@ format:
 # HallerNet
 
 At the Cologne Center for eHumanities (CCeH), I contributed to the modeling, processing, and curation of Albrecht von Haller’s letters and bibliographic records. The project supports a digital infrastructure for collaborative research and edition.
+
+## Related link
+- https://hallernet.org/

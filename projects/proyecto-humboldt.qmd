@@ -6,7 +6,7 @@ categories: ["Digital Editions", "Infrastructure"]
 project-type: "Research Assistant"
 role: Digital Humanities Researcher
 year: 2019–2024
-link: https://www.bbaw.de/en/
+link: https://dossierdigital.ohc.cu/exist/apps/ProHD/start.html
 format:
   html:
     toc: true
@@ -22,3 +22,6 @@ format:
 Through a shared editorial workflow, the project identified, digitized, described, encoded, and published 28 historical documents in open-access digital editions using TEI XML and open-source tools like ediarum and TEI Publisher. All outputs were made available in Spanish, German, and English.
 
 ProHD strengthened editorial and digital capacities at OHCH and contributed to international knowledge transfer and cultural preservation across national and linguistic boundaries.
+
+## Related link
+- https://dossierdigital.ohc.cu/exist/apps/ProHD/start.html 

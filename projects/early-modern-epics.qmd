@@ -21,3 +21,5 @@ The project pursues four main goals: (1) classify poems based on similarity and 
 
 By combining literary theory with distant reading techniques, this project seeks to reevaluate the cultural significance and narrative strategies of Spanish epic poetry during the so-called Golden Age.
 
+## Related link:
+- https://github.com/arojascastro/early-modern-epic-poems 

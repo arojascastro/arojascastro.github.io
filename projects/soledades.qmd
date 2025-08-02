@@ -2,11 +2,11 @@
 title: "Digital Critical Edition of *Soledades*"
 description: "TEI-based critical edition of Luis de Góngora’s *Soledades* (PhD project)."
 image: images/soledades-page.png
-categories: ["Digital Editions", "Golden Age"]
+categories: ["Digital Editions", "Golden Age", "Critical Edition"]
 project-type: "PhD Project"
 year: 2011–2015
 role: Principal Investigator
-link: https://orcid.org/0000-0002-8916-4997
+link: http://soledades.uni-koeln.de/#/critical?d=doc_1&e=critical
 format:
   html:
     toc: true
@@ -21,4 +21,5 @@ This project is a scholarly TEI-encoded critical edition of Luis de Góngora’s
 - Annotation, normalization, and variant handling
 - Digital publication using Edition Visualization Technology (EVT)
 
-![Sample page of the edition](images/soledades-page.png){width=500px style="display:block; margin-left:auto; margin-right:auto;"}
+## Related link
+- http://soledades.uni-koeln.de/#/critical?d=doc_1&e=critical 
