@@ -1,5 +1,5 @@
 ---
-title: "DraCor (Drama Corpora Project)"
+title: "DraCorOS: Fostering Open Science in Digital Humanities"
 description: "Open Workflows, Shared Standards, and Sustainable Infrastructure for Drama Corpora."
 image: images/dracor.png
 categories: ["Corpora", "Network Analysis", "Open Science", "User Studies"]
@@ -10,8 +10,6 @@ format:
   html:
     toc: true
 ---
-
-# DraCorOS: Fostering Open Science in Digital Humanities
 
 **Status:** Ongoing (2024–2026)  
 **Lead Institutions:** Freie Universität Berlin & University of Potsdam  

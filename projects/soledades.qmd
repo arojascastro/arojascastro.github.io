@@ -12,8 +12,6 @@ format:
     toc: true
 ---
 
-# Digital Critical Edition of *Soledades*
-
 This project is a scholarly TEI-encoded critical edition of Luis de Góngora’s *Soledades*, developed during my doctoral research. It involved:
 
 - Manual collation of 20 witnesses

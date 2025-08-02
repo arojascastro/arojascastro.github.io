@@ -1,5 +1,5 @@
 ---
-title: "Tracing Regularities in Calderón"
+title: "Tracing Regularities in Calderón de La Barca"
 description: "Computational analysis of character patterns in Golden Age Spanish drama."
 image: images/calderon.png
 categories: ["Calderón", "Early Modern Drama", "theater"]
@@ -10,8 +10,6 @@ format:
   html:
     toc: true
 ---
-
-# Tracing Regularities in Pedro Calderón de la Barca’s Dramatic Œuvre
 
 **Status:** Ongoing (2023–2026)  
 **Lead Institutions:** University of Tübingen & University of Stuttgart

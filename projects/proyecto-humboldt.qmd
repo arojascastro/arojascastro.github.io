@@ -12,8 +12,6 @@ format:
     toc: true
 ---
 
-# Proyecto Humboldt Digital (ProHD)
-
 **Status:** Completed (2019–2023)  
 **Lead Institutions:** Oficina del Historiador de La Habana (OHCH) & Berlin-Brandenburg Academy of Sciences and Humanities (BBAW)
 
