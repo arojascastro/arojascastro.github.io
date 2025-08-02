@@ -34,6 +34,7 @@ format:
     toc: true
     smooth-scroll: true
     code-copy: true
+    include-in-header: _includes/google-verify.html
   
 execute:
   freeze: auto
