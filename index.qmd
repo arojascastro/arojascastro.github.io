@@ -11,7 +11,7 @@ page-layout: article
 # Dr. Antonio Rojas Castro
 
 I am a Digital Humanities Research Associate at the **Freie Universität Berlin** and the **University of Tübingen**. I specialize in digital editions and computational literary studies. 
-My current research focuses on applying network analysis to Golden Age theater in Spain and mythological and epic poems.
+My current research focuses on network analysis applied to theater and mythological and epic poems in Early Modern Spain.
 
 You can found more information about my work at:
 
