@@ -12,7 +12,7 @@ format:
     toc: true
 ---
 
-**Status:** Ongoing (2026–2028)  
+**Status:** Ongoing (2016–Present)  
 **Funding:** Self-funded
 
 This project investigates the Spanish Golden Age’s vibrant tradition of mythological poetry, especially the *fábula mitológica*, a genre of short epic poems composed between 1550 and 1650. These narrative poems, often inspired by Ovid’s *Metamorphoses* and popularized by Luis de Góngora’s *Fábula de Polifemo y Galatea* (1613), fuse classical mythology with early modern poetics and reflect broader cultural debates on imitation, fiction, and stylistic experimentation.
