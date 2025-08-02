@@ -9,7 +9,7 @@ I hold a **PhD in Humanities** from the Universitat Pompeu Fabra (Barcelona, Spa
 
 From 2016 to 2019, I worked at the **Cologne Center for eHumanities (CCeH)** at the University of Cologne (Germany), focusing on the modeling, processing, and curation of letters and bibliographic references related to Albrecht von Haller—now published online as part of *HallerNet*.
 
-Since 2019 to 2025, I worked as a Digital Humanities researcher at the **Berlin-Brandenburg Academy of Sciences and Humanities** for the *Proyecto Humboldt Digital*. In this role, I developed the *Dossier Digital: Alexander von Humboldt and Cuba*.
+Since 2019 to 2025, I worked as a Digital Humanities researcher at the **Berlin-Brandenburg Academy of Sciences and Humanities** for the Proyecto Humboldt Digital. In this role, I developed the *Dossier Digital: Alexander von Humboldt and Cuba*.
 
 I am currently working as Research Associate at the **Universität Tübingen**, where my research focuses on Calderón de la Barca's theater. Additonally, I am part of the team behind DraCor at the **Freie Universität Berlin** that aims to connect the platform with open science infrastructures and improve its impact. 
 
