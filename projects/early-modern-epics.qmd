@@ -1,6 +1,6 @@
 ---
 title: "Early Modern Epic Poems"
-description: "Computational and editorial analysis of Iberian epic poetry (2025–ongoing)."
+description: "Computational and editorial analysis of Iberian epic poetry."
 image: images/epic-network.png
 categories: ["Golden Age", "Epic", "NLP"]
 project-type: "Principal Investigator"
