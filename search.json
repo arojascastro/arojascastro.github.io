@@ -46,14 +46,14 @@
     "href": "projects/hallernet.html",
     "title": "HallerNet",
     "section": "",
-    "text": "At the Cologne Center for eHumanities (CCeH), I contributed to the modeling, processing, and curation of Albrecht von Haller’s letters and bibliographic records. The project supports a digital infrastructure for collaborative research and edition."
+    "text": "Status: Completed (2016–2019)\nLead Institutions: University of Bern & University of Cologne\nFunding: Albrecht von Haller-Stiftung, Burgergemeinde Bern, Swiss National Science Foundation, and others\nHallerNet was a collaborative research project dedicated to transforming the legacy FAUST database (1991–2015) into a sustainable, open, and standards-based digital infrastructure. Focused on the life and work of Albrecht von Haller (1708–1777), the project converted tens of thousands of biographical, bibliographical, and correspondence records into TEI-conformant XML, laying the foundation for digital editing and semantic enrichment.\nImplemented as a cooperation between the University of Bern and the Cologne Center for eHumanities, the project created an extensible environment for publishing scholarly editions, linking texts to structured data on people, works, places, and institutions. These linked entities support further applications such as network visualizations, spatial analyses, and dynamic scholarly interfaces.\nHallerNet demonstrates the potential of combining philological precision with TEI modeling, FRBR-inspired bibliographic structuring, and modular front-end development in the digital humanities."
   },
   {
     "objectID": "projects/hallernet.html#related-link",
     "href": "projects/hallernet.html#related-link",
     "title": "HallerNet",
     "section": "Related link",
-    "text": "Related link\n\nHallerNet"
+    "text": "Related link\n\nHallerNet\nRojas Castro, A. (2019, septiembre 19). Modeling FRBR entities and their relationships with TEI. Zenodo. https://doi.org/10.5281/zenodo.3446218"
   },
   {
     "objectID": "projects/golden-age-poems.html",
