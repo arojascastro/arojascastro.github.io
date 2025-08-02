@@ -5,15 +5,15 @@ title: "About"
 
 Hello!
 
-I hold a **PhD in Humanities** from the Universitat Pompeu Fabra (Barcelona, Spain), where I wrote a dissertation on digital editing. During my PhD (2011–2015), I manually collated twenty witnesses of Luis de Góngora's *Soledades* and encoded a critical text, which I published online using Edition Visualization Technology (EVT).
+I hold a **PhD in Humanities** from the Universitat Pompeu Fabra (Barcelona, Spain), where I wrote a dissertation on digital editing. During my PhD (2011–2015), I manually collated twenty witnesses of Luis de Góngora's *Soledades* and encoded a critical text, which I [published online](http://soledades.uni-koeln.de/#/critical?d=doc_1&e=critical) using Edition Visualization Technology (EVT).
 
-From 2016 to 2019, I worked at the **Cologne Center for eHumanities (CCeH)** at the University of Cologne (Germany), focusing on the modeling, processing, and curation of letters and bibliographic references related to Albrecht von Haller—now published online as part of *HallerNet*.
+From 2016 to 2019, I worked at the **Cologne Center for eHumanities (CCeH)** at the University of Cologne (Germany), focusing on the modeling, processing, and curation of letters and bibliographic references related to Albrecht von Haller—now published online as part of [*HallerNet*](https://hallernet.org/).
 
-Since 2019 to 2025, I worked as a Digital Humanities researcher at the **Berlin-Brandenburg Academy of Sciences and Humanities** for the Proyecto Humboldt Digital. In this role, I developed the *Dossier Digital: Alexander von Humboldt and Cuba*.
+Since 2019 to 2025, I worked as a Digital Humanities researcher at the **Berlin-Brandenburg Academy of Sciences and Humanities** for the Proyecto Humboldt Digital. In this role, I developed the [*Dossier Digital: Alexander von Humboldt and Cuba*](https://dossierdigital.ohc.cu/exist/apps/ProHD/start.html).
 
-I am currently working as Research Associate at the **Universität Tübingen**, where my research focuses on Calderón de la Barca's theater. Additonally, I am part of the team behind DraCor at the **Freie Universität Berlin** that aims to connect the platform with open science infrastructures and improve its impact. 
+I am currently working as Research Associate at the **Universität Tübingen**, where my research focuses on Calderón de la Barca's theater. Additonally, I am part of the team behind [DraCor](https://dracor.org/) at the **Freie Universität Berlin** that aims to connect the platform with open science infrastructures and improve its impact. 
 
-I also serve as a Part-Time Lecturer at the **Universidad Internacional de La Rioja (UNIR)**, where I teach a course on digital scholarly editing and supervise MA dissertations in the Digital Humanities program.
+I also serve as a Part-Time Lecturer at the **Universidad Internacional de La Rioja (UNIR)**, where I teach a course on [digital scholarly editing](https://static.unir.net/guias_espana/guias_nuevas/hudi03_edicion_digital_textos.htm) and supervise MA dissertations in the Digital Humanities program.
 
 Beyond research and teaching, I am committed to building a diverse and open academic community. I have volunteered in several organizations, including:
 
