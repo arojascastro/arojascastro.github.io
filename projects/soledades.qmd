@@ -22,4 +22,4 @@ This project is a scholarly TEI-encoded critical edition of Luis de Góngora’s
 - Digital publication using Edition Visualization Technology (EVT)
 
 ## Related link
-- http://soledades.uni-koeln.de/#/critical?d=doc_1&e=critical 
+- [Digital Edition](http://soledades.uni-koeln.de/#/critical?d=doc_1&e=critical) 

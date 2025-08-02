@@ -16,4 +16,4 @@ format:
 At the Cologne Center for eHumanities (CCeH), I contributed to the modeling, processing, and curation of Albrecht von Haller’s letters and bibliographic records. The project supports a digital infrastructure for collaborative research and edition.
 
 ## Related link
-- https://hallernet.org/
+- [HallerNet](https://hallernet.org/)
