@@ -6,29 +6,33 @@ Here is a selection of my main digital research projects:
 
 ## My Projects (PI)
 
-- [Early Modern Epic Poems](early-modern-epics.qmd)  
-  Natural language processing and editorial study of Iberian epic poetry.
+### [Early Modern Epic Poems](early-modern-epics.qmd)  
+**Planned (2026–2028)**  
+A digital humanities project analyzing over 40 early modern Spanish epic poems using stylometry, topic modeling, and linguistic profiling to explore genre, narrative strategies, and intertextual patterns. Funding not yet secured.
 
-- [Golden Age Mythological Poems](golden-age-poems.qmd)  
-  Long-running analysis and edition of Spanish mythological poetry using stylometry and mapping.
+### [Golden Age Mythological Poems](golden-age-poems.qmd)  
+**Ongoing (2016–Present)**  
+This project builds a TEI-based corpus of 25 *fábulas mitológicas* and applies stylometric and lexical analysis to explore Góngora’s influence, genre development, and poetic vocabulary. Includes literary cartography and open publication plans.
 
-- [Digital Critical Edition of *Soledades*](soledades.qmd)  
-  TEI-encoded critical edition of Luis de Góngora’s *Soledades* (PhD project, 2011–2015).
-
+### ["Soledades" by Luis de Góngora: A Digital Critical Edition](soledades.qmd)  
+**Completed (2011–2017)**  
+A doctoral digital edition of Góngora’s *Soledades* developed at UPF and published with EVT at the University of Cologne. Combines textual criticism with interactive TEI encoding and web publication of variants and manuscript witnesses.
 
 ## Collaborative Projects
 
-- [DraCor (Drama Corpora Project)](dracor.qmd)  
-  API-based workflows and character-level metrics for early modern drama corpora.
+### [DraCorOS: Fostering Open Science in Digital Humanities](dracor.qmd)  
+**Ongoing (2024–2026)**  
+A joint project between FU Berlin and University of Potsdam to connect the DraCor platform with the European Open Science Cloud. It focuses on LOD expansion, training materials, community feedback, and sustainable Open Science workflows.
 
-- [Tracing Regularities in Pedro Calderón de la Barca's Dramatic OEuvre with a Computational Approach](tracing-calderon.qmd)  
-  Computational approaches to character roles and structures in Calderón’s plays.
+### [Tracing Regularities in Calderón’s Dramatic Œuvre](tracing-calderon.qmd)  
+**Ongoing (2023–2026)**  
+An interdisciplinary project combining literary analysis and computational methods to study lexical, structural, and character-level patterns across Calderón’s comedias and autos sacramentales using a TEI-encoded corpus of 194 plays.
 
-- [Proyecto Humboldt Digital](proyecto-humboldt.qmd)  
-  Digital editions and data curation at the Berlin-Brandenburg Academy of Sciences and Humanities.
+### [Proyecto Humboldt Digital (ProHD)](proyecto-humboldt.qmd)  
+**Completed (2019–2023)**  
+A transnational initiative between the OHCH (Havana) and BBAW (Berlin) to digitize, encode, and publish documents related to Humboldt’s visits to Cuba, promoting open access and digital editorial capacity through TEI and open infrastructures.
 
-- [HallerNet](hallernet.qmd)  
-  Collaborative infrastructure for Albrecht von Haller’s letters and bibliography.
-
-
+### [HallerNet](hallernet.qmd)  
+**Completed (2016–2019)**  
+A collaborative project (University of Bern & Cologne) that transformed the FAUST legacy database into a TEI-based infrastructure for Albrecht von Haller’s works, correspondence, and bibliography, enabling semantically enriched editions and networked data.
 
