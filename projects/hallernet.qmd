@@ -15,6 +15,3 @@ At the Cologne Center for eHumanities (CCeH), I contributed to the modeling, pro
 
 ## Related link
 - [HallerNet](https://hallernet.org/)
-- 2023. “Los Principios FAIR y El Proyecto Humboldt Digital. Una Confrontación.” In Humanidades Digitales y Patrimonio Cultural. Proyectos y Tendencias, edited by Anna Peirats and José Antonio Calvo, 161–83. Valencia: Tirant Lo Blanch. 
-- Krafkt, Tobias, Antonio Rojas Castro, and Grisel Terrón Quintero, eds. 2024. Archivos Abiertos: El Patrimonio Documental Cubano y La Transformación Digital. De Gruyter. https://doi.org/10.1515/9783111187846. 
-- Rojas Castro, Antonio, Grisel Terrón Quintero, Alaina Solernou Ferrer, and Tobias Kraft. 2023. “Cómo Crear Ediciones Digitales Académicas Entre La Habana y Berlín. El Caso de Proyecto Humboldt Digital (ProHD).” Journal of the Text Encoding Initiative, no. 16 (May). https://journals.openedition.org/jtei/4560. 
