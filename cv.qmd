@@ -5,29 +5,29 @@ title: "Curriculum Vitae"
 # Education
 
 - **2011-2015**: PhD in Humanities 
-  Universitat Pompeu Fabra, Barcelona, Spain  
+Universitat Pompeu Fabra, Barcelona, Spain  
 
 - **2009-2011**: MA in Comparative Literature  
-  Universitat Pompeu Fabra, Barcelona, Spain
+Universitat Pompeu Fabra, Barcelona, Spain
 
 - **2004-2009**: BA in Humanities
-  Universitat Pompeu Fabra, Barcelona, Spain
+Universitat Pompeu Fabra, Barcelona, Spain
 
 ---
 
 # Employment
 
 - **2025-Present**: Digital Humanities Research Associate 
-  Freie Universität Berlin
+Freie Universität Berlin
 
 - **2024-Present**: Digital Humanities Research Associate  
-  Universität Tübingen
+Universität Tübingen
 
 - **2019-2023**: Digital Humanities Research Associate
-  Berlin-Brandenburg Academy of Sciences and Humanities
+Berlin-Brandenburg Academy of Sciences and Humanities
 
 - **2016-2019**: Research Associate  
-  Cologne Center for eHumanities, Universität zu Köln
+Cologne Center for eHumanities, Universität zu Köln
 
 ---
 
