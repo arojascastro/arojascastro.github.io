@@ -35,11 +35,11 @@
     "text": "Status: Completed (2019–2023)\nLead Institutions: Oficina del Historiador de La Habana (OHCH) & Berlin-Brandenburg Academy of Sciences and Humanities (BBAW)\nProyecto Humboldt Digital (ProHD) was a four-year international cooperation between the OHCH in Cuba and the BBAW in Germany. Funded by the German Foreign Office, the Fritz Thyssen Foundation, and the Gerda Henkel Foundation, the project aimed to preserve and publish documents related to Alexander von Humboldt’s visits to Cuba (1800–1801, 1804).\nThrough a shared editorial workflow, the project identified, digitized, described, encoded, and published 28 historical documents in open-access digital editions using TEI XML and open-source tools like ediarum and TEI Publisher. All outputs were made available in Spanish, German, and English.\nProHD strengthened editorial and digital capacities at OHCH and contributed to international knowledge transfer and cultural preservation across national and linguistic boundaries."
   },
   {
-    "objectID": "projects/proyecto-humboldt.html#related-link",
-    "href": "projects/proyecto-humboldt.html#related-link",
+    "objectID": "projects/proyecto-humboldt.html#related-links",
+    "href": "projects/proyecto-humboldt.html#related-links",
     "title": "Proyecto Humboldt Digital",
-    "section": "Related link",
-    "text": "Related link\n\nDossier Digital"
+    "section": "Related links",
+    "text": "Related links\n\nDossier Digital\n\n“Los Principios FAIR y El Proyecto Humboldt Digital. Una Confrontación.” In Humanidades Digitales y Patrimonio Cultural. Proyectos y Tendencias, edited by Anna Peirats and José Antonio Calvo, 161–83. Valencia: Tirant Lo Blanch.\n\nKrafkt, Tobias, Antonio Rojas Castro, and Grisel Terrón Quintero, eds. 2024. Archivos Abiertos: El Patrimonio Documental Cubano y La Transformación Digital. De Gruyter. https://doi.org/10.1515/9783111187846.\nRojas Castro, Antonio, Grisel Terrón Quintero, Alaina Solernou Ferrer, and Tobias Kraft. 2023. “Cómo Crear Ediciones Digitales Académicas Entre La Habana y Berlín. El Caso de Proyecto Humboldt Digital (ProHD).” Journal of the Text Encoding Initiative, no. 16 (May). https://journals.openedition.org/jtei/4560."
   },
   {
     "objectID": "projects/hallernet.html",
@@ -140,11 +140,11 @@
     "text": "Status: Completed\nDuration: 2011–2017\nLead Institutions: Universitat Pompeu Fabra & University of Cologne\nFunding: Self-funded (Doctoral project)\nThis project produced a digital critical edition of Soledades by Luis de Góngora, combining traditional philological methods with digital technologies. The edition was developed in two phases: the first involved the textual collation and critical establishment of the poem based on 21 manuscripts and prints; the second focused on encoding the edition in XML/TEI and publishing it using the open-source tool Edition Visualization Technology (EVT).\nThe edition highlights significant authorial variants—some unpublished before—identified through the study of the manuscript 2056 (Biblioteca de Catalunya). It allows users to interactively explore the critical text, compare variant readings, and evaluate editorial decisions.\nThis scholarly resource exemplifies a “paradigmatic digital edition,” where a single TEI file dynamically generates multiple textual views. It is openly accessible online and demonstrates how minimal computing and open infrastructures can support high-quality textual scholarship even in the absence of dedicated funding."
   },
   {
-    "objectID": "projects/soledades.html#related-link",
-    "href": "projects/soledades.html#related-link",
+    "objectID": "projects/soledades.html#related-links",
+    "href": "projects/soledades.html#related-links",
     "title": "Soledades by Luis de Góngora: A Digital Critical Edition",
-    "section": "Related link",
-    "text": "Related link\n\nDigital Edition\n\n“La Edición Crítica Digital y La Codificación TEI. Preliminares Para Una Nueva Edición de Las Soledades de Luis de Góngora.” Revista de Humanidades Digitales 1: 4–19. https://doi.org/https://doi.org/10.5944/rhd.vol.1.2017.16379.\n\n\n“Las”Soledades” de Luis de Góngora En El Manuscrito 2056 de La Biblioteca de Catalunya: Estudio Bibliográfico y Nuevas Variantes de Autor.” Rilce. Revista de Filología Hispánica 34 (1): 69–99. https://doi.org/10.15581/008.34.1.69-99.\n\n\n“La Publicación de Ediciones Digitales Académicas y El Caso de Las”Soledades” de Luis de Góngora.” Historias Fingidas Special Volume (1): 195–217. https://doi.org/10.13136/2284-2667/1149."
+    "section": "Related links",
+    "text": "Related links\n\nDigital Edition\n\n“La Edición Crítica Digital y La Codificación TEI. Preliminares Para Una Nueva Edición de Las Soledades de Luis de Góngora.” Revista de Humanidades Digitales 1: 4–19. https://doi.org/https://doi.org/10.5944/rhd.vol.1.2017.16379.\n\n\n“Las”Soledades” de Luis de Góngora En El Manuscrito 2056 de La Biblioteca de Catalunya: Estudio Bibliográfico y Nuevas Variantes de Autor.” Rilce. Revista de Filología Hispánica 34 (1): 69–99. https://doi.org/10.15581/008.34.1.69-99.\n\n\n“La Publicación de Ediciones Digitales Académicas y El Caso de Las”Soledades” de Luis de Góngora.” Historias Fingidas Special Volume (1): 195–217. https://doi.org/10.13136/2284-2667/1149."
   },
   {
     "objectID": "projects/tracing-calderon.html",
@@ -154,11 +154,11 @@
     "text": "Status: Ongoing (2023–2026)\nLead Institutions: University of Tübingen & University of Stuttgart\nThis interdisciplinary research project investigates recurring patterns across the dramatic works of Pedro Calderón de la Barca (1600–1681) using computational methods. Drawing on a corpus of 205 encoded plays (comedias nuevas and autos sacramentales), the project combines literary scholarship and computational linguistics to trace regularities at multiple structural levels.\nWe pursue three main objectives: (1) lexical-semantic classification of genres and character types, (2) network analysis of character constellations and interactions, and (3) analysis of dramatic structure and temporal dynamics. Our approach integrates qualitative and quantitative methods and aims to contribute both to Calderonian scholarship and to scalable models for drama analysis in the Digital Humanities.\nThe project is a collaboration between the Institute of Romance Studies at the University of Tübingen and the Institute for Natural Language Processing at the University of Stuttgart, supported by leading Calderón editors and the DraCor infrastructure."
   },
   {
-    "objectID": "projects/tracing-calderon.html#related-link",
-    "href": "projects/tracing-calderon.html#related-link",
+    "objectID": "projects/tracing-calderon.html#related-links",
+    "href": "projects/tracing-calderon.html#related-links",
     "title": "Tracing Regularities in Calderón de La Barca",
-    "section": "Related link",
-    "text": "Related link\n\nGitHub Repository"
+    "section": "Related links",
+    "text": "Related links\n\nGitHub Repository\nKeith, Allison, Antonio Rojas Castro, and Sebastian Padó. 2024. “Computational Analysis of Gender Depiction in the Comedias of Calderón de La Barca.” arXiv. https://doi.org/10.48550/arXiv.2411.03895."
   },
   {
     "objectID": "projects/dracor.html",
