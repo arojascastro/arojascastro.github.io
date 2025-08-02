@@ -5,7 +5,7 @@ image: images/calderon.png
 categories: ["Calderón", "Early Modern Drama", "theater"]
 project-type: "Research Associate"
 role: Digital Humanities Researcher 
-link: https://arojascastro.github.io/projects/tracing-calderon.html
+link: https://github.com/dracor-org/caldracor
 format:
   html:
     toc: true
