@@ -26,7 +26,7 @@ A joint project between FU Berlin and University of Potsdam to connect the DraCo
 
 ### [Tracing Regularities in Calderón’s Dramatic Œuvre](tracing-calderon.qmd)  
 **Ongoing (2023–2026)**  
-An interdisciplinary project combining literary analysis and computational methods to study lexical, structural, and character-level patterns across Calderón’s comedias and autos sacramentales using a TEI-encoded corpus of 194 plays.
+An interdisciplinary project combining literary analysis and computational methods to study lexical, structural, and character-level patterns across Calderón’s comedias and autos sacramentales using a TEI-encoded corpus of 205 plays.
 
 ### [Proyecto Humboldt Digital (ProHD)](proyecto-humboldt.qmd)  
 **Completed (2019–2023)**  
