@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Antonio Rojas Castro"
+  description: "Personal academic website"
   site-url: https://arojascastro.github.io
   navbar:
     left:
