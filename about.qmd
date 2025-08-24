@@ -5,23 +5,21 @@ title: "About"
 
 Hello!
 
-I hold a **PhD in Humanities** from the Universitat Pompeu Fabra (Barcelona, Spain), where I wrote a dissertation on digital editing. During my PhD (2011–2015), I manually collated twenty witnesses of Luis de Góngora's *Soledades* and encoded a critical text, which I [published online](http://soledades.uni-koeln.de/#/critical?d=doc_1&e=critical) using Edition Visualization Technology (EVT).
+I am a Digital Humanities researcher with a **PhD in Humanities** from Universitat Pompeu Fabra (Barcelona), where I specialized in digital scholarly editing. My dissertation (2011–2015) focused on Luis de Góngora’s *Soledades*, for which I manually collated twenty witnesses and published a critical edition using [Edition Visualization Technology (EVT)](http://soledades.uni-koeln.de/#/critical?d=doc_1&e=critical).
 
-From 2016 to 2019, I worked at the **Cologne Center for eHumanities (CCeH)** at the University of Cologne (Germany), focusing on the modeling, processing, and curation of letters and bibliographic references related to Albrecht von Haller—now published online as part of [*HallerNet*](https://hallernet.org/).
+Since then, I’ve contributed to a range of interdisciplinary projects across Europe. At the **Cologne Center for eHumanities** (2016–2019), I helped design and implement the bibliographic data model for [*HallerNet*](https://hallernet.org/), a digital platform dedicated to the Swiss Enlightenment. From 2019 to 2025, I worked at the **Berlin-Brandenburg Academy of Sciences and Humanities**, developing the multilingual [*Dossier Digital: Alexander von Humboldt and Cuba*](https://dossierdigital.ohc.cu/exist/apps/ProHD/start.html) as part of the *Proyecto Humboldt Digital*.
 
-Since 2019 to 2025, I worked as a Digital Humanities researcher at the **Berlin-Brandenburg Academy of Sciences and Humanities** for the Proyecto Humboldt Digital. In this role, I developed the [*Dossier Digital: Alexander von Humboldt and Cuba*](https://dossierdigital.ohc.cu/exist/apps/ProHD/start.html).
+Currently, I am a **Research Associate** at the **University of Tübingen**, where I explore recurring patterns in Calderón de la Barca’s drama through computational methods. I also collaborate with the **Freie Universität Berlin** on the [DraCor](https://dracor.org/) project, contributing to its technical development, training materials, and open science integration.
 
-I am currently working as Research Associate at the **Universität Tübingen**, where my research focuses on Calderón de la Barca's theater. Additonally, I am part of the team behind [DraCor](https://dracor.org/) at the **Freie Universität Berlin** that aims to connect the platform with open science infrastructures and improve its impact. 
+In parallel, I taught from **2020 to 2025** as a **Part-Time Lecturer** in the Digital Humanities master’s program at the **Universidad Internacional de La Rioja (UNIR)**. I offered a course on [digital scholarly editing](https://static.unir.net/guias_espana/guias_nuevas/hudi03_edicion_digital_textos.htm) and supervised several MA theses.
 
-I also serve as a Part-Time Lecturer at the **Universidad Internacional de La Rioja (UNIR)**, where I teach a course on [digital scholarly editing](https://static.unir.net/guias_espana/guias_nuevas/hudi03_edicion_digital_textos.htm) and supervise MA dissertations in the Digital Humanities program.
+I’m passionate about community-driven scholarship and open knowledge. Over the past decade, I’ve volunteered with initiatives such as:
 
-Beyond research and teaching, I am committed to building a diverse and open academic community. I have volunteered in several organizations, including:
+- [text+](https://text-plus.org/) (2025–Present)  
+- [Asociación de Humanidades Digitales Hispánicas (HDH)](https://humanidadesdigitaleshispanicas.es/inicio/) (2021–2023)  
+- [The Programming Historian](https://programminghistorian.org/) (2016–2020)  
+- [European Association for Digital Humanities (EADH)](https://eadh.org/) (2015–2018)  
 
-* [text+](https://text-plus.org/) (2025-Present)
-* the [Asociación de Humanidades Digitales Hispánicas](https://humanidadesdigitaleshispanicas.es/inicio/) (2021–2023)
-* *[The Programming Historian](https://programminghistorian.org/)* (2016–2020), and
-* [European Association for Digital Humanities](https://eadh.org/) (2015–2018).
-
-In my free time I like doing sport, drawing, reading books, and discovering new places.
+Outside of work, I enjoy sports, drawing, reading, and discovering new places.
 
 
