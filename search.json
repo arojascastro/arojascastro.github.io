@@ -1,10 +1,59 @@
 [
   {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Education\n\n2011-2015: PhD in Humanities\nUniversitat Pompeu Fabra, Barcelona, Spain\n2009-2011: MA in Comparative Literature\nUniversitat Pompeu Fabra, Barcelona, Spain\n2004-2009: BA in Humanities\nUniversitat Pompeu Fabra, Barcelona, Spain\n\n\n\n\nEmployment\n\n2025-Present: Digital Humanities Research Associate\nFreie Universität Berlin\n2024-Present: Digital Humanities Research Associate\nUniversität Tübingen\n2019-2023: Digital Humanities Research Associate\nBerlin-Brandenburg Academy of Sciences and Humanities\n2016-2019: Research Associate\nCologne Center for eHumanities, Universität zu Köln\n\n\n\n\nTeaching\n\n2020-2025: Part-Time Lecturer, Universidad Internacional de La Rioja (UNIR)\n\nDigital Scholarly Editing (MA in Digital Humanities)\n\nMaster’s Thesis Supervision\n\nTheories of Digital Humanities, Linguistic Applications\n\nGuest lectures and workshops at:\nNYU Abu Dhabi, Université Paris Sorbonne, Università di Verona\n\n\n\n\nSkills\n\nLanguages: Spanish (native), English (fluent), German (advanced), French (reading)\nTechnical: TEI/XML, XSLT, Git, Python, Pandoc, Quarto, Jupyter, Markdown, LaTeX\nTools: EVT, Oxygen, VS Code, GitHub, Gephi, Voyant, Zotero\n\n\n\n\nPublications\nSee full list →\n\n\n\nService\n\n2025-Present: Board, Text+ Scientific Coordination Committee: Editions\n2021–2023: Board, Asociación de Humanidades Digitales Hispánicas\n2019-2020: Coordinator, Recogito Working Group (Pelagios Network)\n2016–2020: Board, Programming Historian\n2015–2018: Communication Fellow, European Association for Digital Humanities\n\n\n\n\nReferee & Review\n\nReviewed submissions for:\n\nDigital Scholarship in the Humanities\n\nRevista de Humanidades Digitales\n\nProgramming Historian\n\n\n\n\n\nAdditional\n\nInterested in data science, infrastructure, open research, and multilingual DH\nORCID: 0000-0002-8916-4997\n\n\n\n\nDownload\n\nDownload CV (PDF)"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Home",
     "section": "",
-    "text": "Dr. Antonio Rojas Castro\nI am a Digital Humanities Research Associate at the Freie Universität Berlin and the University of Tübingen. I specialize in digital editions and computational literary studies. My current research focuses on network analysis applied to theater and mythological poems in Early Modern Spain.\nYou can found more information about my work at:\n\nORCID: https://orcid.org/0000-0002-8916-4997\n\nGitHub: https://github.com/arojascastro\n\nZotero: https://www.zotero.org/antoniorojascastro"
+    "text": "Dr. Antonio Rojas Castro\nI am a Digital Humanities Research Associate at the Freie Universität Berlin and the University of Tübingen. I specialize in digital editions and computational literary studies. My current research focuses on network analysis applied to theater and mythological poems in Early Modern Spain.\nYou can found more information about my work at:\n\nORCID\n\nGitHub\n\nZotero"
+  },
+  {
+    "objectID": "projects/proyecto-humboldt.html",
+    "href": "projects/proyecto-humboldt.html",
+    "title": "Proyecto Humboldt Digital",
+    "section": "",
+    "text": "Status: Completed (2019–2023)\nLead Institutions: Oficina del Historiador de La Habana (OHCH) & Berlin-Brandenburg Academy of Sciences and Humanities (BBAW)\nFunding: Fritz Thyssen Stiftung, Gerda Henkel Stiftung, Kulturerhaltprogramms des Auswärtigen Amts.\nProyecto Humboldt Digital (ProHD) was a four-year international cooperation between the OHCH in Cuba and the BBAW in Germany. Funded by the German Foreign Office, the Fritz Thyssen Foundation, and the Gerda Henkel Foundation, the project aimed to preserve and publish documents related to Alexander von Humboldt’s visits to Cuba (1800–1801, 1804).\nThrough a shared editorial workflow, the project identified, digitized, described, encoded, and published 28 historical documents in open-access digital editions using TEI XML and open-source tools like ediarum and TEI Publisher. All outputs were made available in Spanish, German, and English.\nProHD strengthened editorial and digital capacities at OHCH and contributed to international knowledge transfer and cultural preservation across national and linguistic boundaries."
+  },
+  {
+    "objectID": "projects/proyecto-humboldt.html#related-links",
+    "href": "projects/proyecto-humboldt.html#related-links",
+    "title": "Proyecto Humboldt Digital",
+    "section": "Related links",
+    "text": "Related links\n\nDossier Digital\n\n“Los Principios FAIR y El Proyecto Humboldt Digital. Una Confrontación.” In Humanidades Digitales y Patrimonio Cultural. Proyectos y Tendencias, edited by Anna Peirats and José Antonio Calvo, 161–83. Valencia: Tirant Lo Blanch.\n\nKrafkt, Tobias, Antonio Rojas Castro, and Grisel Terrón Quintero, eds. 2024. Archivos Abiertos: El Patrimonio Documental Cubano y La Transformación Digital. De Gruyter. https://doi.org/10.1515/9783111187846.\nRojas Castro, Antonio, Grisel Terrón Quintero, Alaina Solernou Ferrer, and Tobias Kraft. 2023. “Cómo Crear Ediciones Digitales Académicas Entre La Habana y Berlín. El Caso de Proyecto Humboldt Digital (ProHD).” Journal of the Text Encoding Initiative, no. 16 (May). https://journals.openedition.org/jtei/4560."
+  },
+  {
+    "objectID": "projects/tracing-calderon.html",
+    "href": "projects/tracing-calderon.html",
+    "title": "Tracing Regularities in Calderón de La Barca",
+    "section": "",
+    "text": "Status: Ongoing (2023–2026)\nLead Institutions: University of Tübingen & University of Stuttgart\nFunding: DFG\nThis interdisciplinary research project investigates recurring patterns across the dramatic works of Pedro Calderón de la Barca (1600–1681) using computational methods. Drawing on a corpus of 205 encoded plays (comedias nuevas and autos sacramentales), the project combines literary scholarship and computational linguistics to trace regularities at multiple structural levels.\nWe pursue three main objectives:\nOur approach integrates qualitative and quantitative methods and aims to contribute both to Calderonian scholarship and to scalable models for drama analysis in the Digital Humanities.\nThe project is a collaboration between the Institute of Romance Studies at the University of Tübingen and the Institute for Natural Language Processing at the University of Stuttgart, supported by leading Calderón editors and the DraCor infrastructure."
+  },
+  {
+    "objectID": "projects/tracing-calderon.html#related-links",
+    "href": "projects/tracing-calderon.html#related-links",
+    "title": "Tracing Regularities in Calderón de La Barca",
+    "section": "Related links",
+    "text": "Related links\n\nGitHub Repository\nKeith, Allison, Antonio Rojas Castro, and Sebastian Padó. 2024. “Computational Analysis of Gender Depiction in the Comedias of Calderón de La Barca.” arXiv. https://doi.org/10.48550/arXiv.2411.03895."
+  },
+  {
+    "objectID": "projects/golden-age-poems.html",
+    "href": "projects/golden-age-poems.html",
+    "title": "Golden Age Mythological Poems",
+    "section": "",
+    "text": "Status: Ongoing (2016–Present)\nFunding: Self-funded\nThis project investigates the Spanish Golden Age’s vibrant tradition of mythological poetry, especially the fábula mitológica, a genre of short epic poems composed between 1550 and 1650. These narrative poems, often inspired by Ovid’s Metamorphoses and popularized by Luis de Góngora’s Fábula de Polifemo y Galatea (1613), fuse classical mythology with early modern poetics and reflect broader cultural debates on imitation, fiction, and stylistic experimentation.\nThe project applies digital methods to a curated corpus of 25 fábulas mitológicas (over 150,000 words). It pursues three interrelated goals:\nInitial results show a mythological geography centered on the Mediterranean and classical antiquity, but also incorporating modern Iberian references. The project also refines authorial attributions and challenges traditional stylistic classifications in the Góngora tradition.\nAll data, scripts, and findings are made openly available in TEI/XML and CSV formats, supporting further research in early modern poetics and the digital humanities."
+  },
+  {
+    "objectID": "projects/golden-age-poems.html#related-links",
+    "href": "projects/golden-age-poems.html#related-links",
+    "title": "Golden Age Mythological Poems",
+    "section": "Related links",
+    "text": "Related links\n\nGitHub Repository\n\n“Mapping Early Modern Hispanic Mythological Poems with Recogito.” In Digital Humanities in Medieval and Early Modern Spanish Texts, edited by Roberto J. González Zalacain and Gael Vaamonde, 101st–117th ed. Oxon & New York: Routledge.\n\n\n“Luis de Góngora y La Fábula Mitológica Del Siglo de Oro: Clasificación de Textos y Análisis Léxico Con Métodos Informáticos.” Studia Aurea 11 (0): 111–42. https://doi.org/10.5565/rev/studiaaurea.260."
   },
   {
     "objectID": "projects/hallernet.html",
@@ -19,6 +68,27 @@
     "title": "HallerNet",
     "section": "Related link",
     "text": "Related link\n\nHallerNet\nRojas Castro, A. (2019, septiembre 19). Modeling FRBR entities and their relationships with TEI. Zenodo. https://doi.org/10.5281/zenodo.3446218"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "References\n\nAlvite-Díez, María-Luisa, and Antonio Rojas-Castro. 2022. “Ediciones Digitales Académicas: Concepto, Estándares de Calidad y Software de Publicación.” El Profesional de La Información 31 (2): e310216. https://doi.org/10.3145/epi.2022.mar.16.\n\n\nIsasi, Jennifer, and Antonio Rojas Castro. 2021. “¿Sin Equivalencia? Una Reflexión Sobre La Traducción Al Español de Recursos Educativos Abiertos.” Hispania 104 (4): 613–24. https://doi.org/10.1353/hpn.2021.0130.\n\n\nKeith, Allison, Antonio Rojas Castro, and Sebastian Padó. 2024. “Computational Analysis of Gender Depiction in the Comedias of Calderón de La Barca.” arXiv. https://doi.org/10.48550/arXiv.2411.03895.\n\n\nKrafkt, Tobias, Antonio Rojas Castro, and Grisel Terrón Quintero, eds. 2024. Archivos Abiertos: El Patrimonio Documental Cubano y La Transformación Digital. De Gruyter. https://doi.org/10.1515/9783111187846.\n\n\nRojas Castro, Antonio. 2013a. “Las Humanidades Digitales: Principios, Valores y Prácticas.” Janus 2 (September): 74–99. http://www.janusdigital.es/articulo.htm?id=24.\n\n\n———. 2013b. “El Mapa y El Territorio. Una Aproximación Histórico-Bibliográfica a La Emergencia de Las Humanidades Digitales En España.” Caracteres 2 (2): 10–53. http://revistacaracteres.net/revista/vol2n2noviembre2013/el-mapa-y-el-territorio/.\n\n\n———. 2015. “De Los Datos Al Metamedio.” Ínsula 822 (June): 15–17.\n\n\n———. 2017a. “La Edición Crítica Digital y La Codificación TEI. Preliminares Para Una Nueva Edición de Las Soledades de Luis de Góngora.” Revista de Humanidades Digitales 1: 4–19. https://doi.org/10.5944/rhd.vol.1.2017.16379.\n\n\n———. 2017b. “Luis de Góngora y La Fábula Mitológica Del Siglo de Oro: Clasificación de Textos y Análisis Léxico Con Métodos Informáticos.” Studia Aurea 11 (0): 111–42. https://doi.org/10.5565/rev/studiaaurea.260.\n\n\n———. 2018a. “La Edición Académica Digital. De Las Teorías Del Texto a La Visualización de La Información.” In Humanidades Digitales: Edición, Literatura y Arte, 47–80. México D.F.: Bonilla Artigas. https://hcommons.org/deposits/item/hc:21883/.\n\n\n———. 2018b. “Las \"Soledades\" de Luis de Góngora En El Manuscrito 2056 de La Biblioteca de Catalunya: Estudio Bibliográfico y Nuevas Variantes de Autor.” Rilce. Revista de Filología Hispánica 34 (1): 69–99. https://doi.org/10.15581/008.34.1.69-99.\n\n\n———. 2021. “Contra La Retórica FAIR.” Romanistik-Blog. https://blog.fid-romanistik.de/2021/04/28/contra-la-retorica-fair/.\n\n\n———. 2022a. “Roopika Risam, «New Digital Worlds. Postcolonial Digital Humanities in Theory, Praxis, and Pedagogy».” Anuario Lope de Vega Texto Literatura Cultura 28 (January): 588–92. https://doi.org/10.5565/rev/anuariolopedevega.433.\n\n\n———. 2022b. “La Publicación de Ediciones Digitales Académicas y El Caso de Las \"Soledades\" de Luis de Góngora.” Historias Fingidas Special Volume (1): 195–217. https://doi.org/10.13136/2284-2667/1149.\n\n\n———. 2023a. “Los Principios FAIR y El Proyecto Humboldt Digital. Una Confrontación.” In Humanidades Digitales y Patrimonio Cultural. Proyectos y Tendencias, edited by Anna Peirats and José Antonio Calvo, 161–83. Valencia: Tirant Lo Blanch.\n\n\n———. 2023b. “Multilingual Interfaces for All? Localisation Strategies in Proyecto Humboldt Digital.” In Multilingual Digital Humanities, 1st ed., 183–96. London: Routledge. https://doi.org/10.4324/9781003393696-16.\n\n\n———. 2024. “Big Data y Humanidades Digitales.” In Arte-Factos Para Los Estudios Literarios, edited by Nattie Golubov, 120–41. México D.F.: Universidad Autónoma de México.\n\n\n———. 2025. “Mapping Early Modern Hispanic Mythological Poems with Recogito.” In Digital Humanities in Medieval and Early Modern Spanish Texts, edited by Roberto J. González Zalacain and Gael Vaamonde, 101st–117th ed. Oxon & New York: Routledge.\n\n\nRojas Castro, Antonio, Tobias Kraft, and Grisel Terrón. 2023. “Política de Digitalización de Proyecto Humboldt Digital (ProHD).” https://zenodo.org/record/7564856.\n\n\nRojas Castro, Antonio, Cèlia Nadal Pasqual, and Amanda Pedraza. 2017. “El Diseño de CABIGO (Catálogo Bibliográfico Sobre Góngora).” In Serenísima Palabra. Actas Del X Congreso de La Asociación Internacional Siglo de Oro (Venecia, 14-18 de Julio de 2014). 5th Series. Venezia: Università Ca’ Foscari Venezia, Italia. https://doi.org/10.14277/6969-163-8/RIB-5-23.\n\n\nRojas Castro, Antonio, and Grisel Quintero Terrón. 2024. “Nuevos Retos En Torno a La Edición Digital En La Oficina Del Historiador: Hacia Una Transcripción Automatizada de Documentos Históricos.” In Archivos Abiertos: El Patrimonio Documental Cubano y La Transformación Digital, edited by Tobias Kraft, Antonio Rojas Castro, and Grisel Terrón Quintero, 101–20. De Gruyter. https://doi.org/10.1515/9783111187846-004.\n\n\nRojas Castro, Antonio, Grisel Terrón Quintero, Alaina Solernou Ferrer, and Tobias Kraft. 2023. “Cómo Crear Ediciones Digitales Académicas Entre La Habana y Berlín. El Caso de Proyecto Humboldt Digital (ProHD).” Journal of the Text Encoding Initiative, no. 16 (May). https://journals.openedition.org/jtei/4560."
+  },
+  {
+    "objectID": "projects/early-modern-epics.html",
+    "href": "projects/early-modern-epics.html",
+    "title": "Early Modern Epic Poems",
+    "section": "",
+    "text": "Status: Planned (2026–2028)\nEarly Modern Epic Poems is a digital humanities project that aims to explore Spanish epic poetry from the sixteenth and seventeenth centuries using computational methods. Although epic was the premier literary genre of imperial Spain, it remains underexplored due to its marginal position in the modern canon. This project will use stylometry, topic modeling, and linguistic analysis to trace generic patterns, thematic structures, and stylistic features across a curated corpus of epic poems.\nThe project pursues four main goals: (1) classify poems based on similarity and genre subtypes, (2) identify dominant themes through probabilistic topic modeling, (3) analyze distinctive linguistic features of epic discourse, such as similes, rhetorical devices, and references to historical figures, and (4) map the geography represented in epic poems through mentioned places. The methods and workflows developed will be made openly available and are transferable to other early modern European corpora.\nBy combining literary theory with distant reading techniques, this project seeks to reevaluate the cultural significance and narrative strategies of Spanish epic poetry during the so-called Golden Age."
+  },
+  {
+    "objectID": "projects/early-modern-epics.html#related-link",
+    "href": "projects/early-modern-epics.html#related-link",
+    "title": "Early Modern Epic Poems",
+    "section": "Related link",
+    "text": "Related link\n\nGitHub Repository"
   },
   {
     "objectID": "projects/index.html",
@@ -56,18 +126,25 @@
     "text": "Related links:\n\nDraCor"
   },
   {
-    "objectID": "projects/early-modern-epics.html",
-    "href": "projects/early-modern-epics.html",
-    "title": "Early Modern Epic Poems",
+    "objectID": "projects/soledades.html",
+    "href": "projects/soledades.html",
+    "title": "Soledades by Luis de Góngora: A Digital Critical Edition",
     "section": "",
-    "text": "Status: Planned (2026–2028)\nEarly Modern Epic Poems is a digital humanities project that aims to explore Spanish epic poetry from the sixteenth and seventeenth centuries using computational methods. Although epic was the premier literary genre of imperial Spain, it remains underexplored due to its marginal position in the modern canon. This project will use stylometry, topic modeling, and linguistic analysis to trace generic patterns, thematic structures, and stylistic features across a curated corpus of epic poems.\nThe project pursues four main goals: (1) classify poems based on similarity and genre subtypes, (2) identify dominant themes through probabilistic topic modeling, (3) analyze distinctive linguistic features of epic discourse, such as similes, rhetorical devices, and references to historical figures, and (4) map the geography represented in epic poems through mentioned places. The methods and workflows developed will be made openly available and are transferable to other early modern European corpora.\nBy combining literary theory with distant reading techniques, this project seeks to reevaluate the cultural significance and narrative strategies of Spanish epic poetry during the so-called Golden Age."
+    "text": "Status: Completed\nDuration: 2011–2017\nLead Institutions: Universitat Pompeu Fabra & University of Cologne\nFunding: Ministerio de Ciencia y Economía (España) (FPI Fellowship - Doctoral project)\nThis project produced a digital critical edition of Soledades by Luis de Góngora, combining traditional philological methods with digital technologies. The edition was developed in two phases: the first involved the textual collation and critical establishment of the poem based on 21 manuscripts and prints; the second focused on encoding the edition in XML/TEI and publishing it using the open-source tool Edition Visualization Technology (EVT).\nThe edition highlights significant authorial variants—some unpublished before—identified through the study of the manuscript 2056 (Biblioteca de Catalunya). It allows users to interactively explore the critical text, compare variant readings, and evaluate editorial decisions.\nThis scholarly resource exemplifies a “paradigmatic digital edition,” where a single TEI file dynamically generates multiple textual views. It is openly accessible online and demonstrates how minimal computing and open infrastructures can support high-quality textual scholarship even in the absence of dedicated funding."
   },
   {
-    "objectID": "projects/early-modern-epics.html#related-link",
-    "href": "projects/early-modern-epics.html#related-link",
-    "title": "Early Modern Epic Poems",
-    "section": "Related link",
-    "text": "Related link\n\nGitHub Repository"
+    "objectID": "projects/soledades.html#related-links",
+    "href": "projects/soledades.html#related-links",
+    "title": "Soledades by Luis de Góngora: A Digital Critical Edition",
+    "section": "Related links",
+    "text": "Related links\n\nDigital Edition\n\n“La Edición Crítica Digital y La Codificación TEI. Preliminares Para Una Nueva Edición de Las Soledades de Luis de Góngora.” Revista de Humanidades Digitales 1: 4–19. https://doi.org/https://doi.org/10.5944/rhd.vol.1.2017.16379.\n\n\n“Las”Soledades” de Luis de Góngora En El Manuscrito 2056 de La Biblioteca de Catalunya: Estudio Bibliográfico y Nuevas Variantes de Autor.” Rilce. Revista de Filología Hispánica 34 (1): 69–99. https://doi.org/10.15581/008.34.1.69-99.\n\n\n“La Publicación de Ediciones Digitales Académicas y El Caso de Las”Soledades” de Luis de Góngora.” Historias Fingidas Special Volume (1): 195–217. https://doi.org/10.13136/2284-2667/1149."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Hello!\nI am a Digital Humanities researcher with a PhD in Humanities from Universitat Pompeu Fabra (Barcelona), where I specialized in digital scholarly editing. My dissertation (2011–2015) focused on Luis de Góngora’s Soledades, for which I manually collated twenty witnesses and published a critical edition using Edition Visualization Technology (EVT).\nSince then, I’ve contributed to a range of interdisciplinary projects across Europe. At the Cologne Center for eHumanities (2016–2019), I helped design and implement the bibliographic data model for HallerNet, a digital platform dedicated to the Swiss Enlightenment. From 2019 to 2025, I worked at the Berlin-Brandenburg Academy of Sciences and Humanities, developing the multilingual Dossier Digital: Alexander von Humboldt and Cuba as part of the Proyecto Humboldt Digital.\nCurrently, I am a Research Associate at the University of Tübingen, where I explore recurring patterns in Calderón de la Barca’s drama through computational methods. I also collaborate with the Freie Universität Berlin on the DraCor project, contributing to its technical development, training materials, and open science integration.\nIn parallel, I taught from 2020 to 2025 as a Part-Time Lecturer in the Digital Humanities master’s program at the Universidad Internacional de La Rioja (UNIR). I offered a course on digital scholarly editing and supervised several MA theses.\nI’m passionate about community-driven scholarship and open knowledge. Over the past decade, I’ve volunteered with initiatives such as:\n\ntext+ (2025–Present)\n\nAsociación de Humanidades Digitales Hispánicas (HDH) (2021–2023)\n\nThe Programming Historian (2016–2020)\n\nEuropean Association for Digital Humanities (EADH) (2015–2018)\n\nOutside of work, I enjoy sports, drawing, reading, and discovering new places."
   },
   {
     "objectID": "teaching.html",
@@ -96,82 +173,5 @@
     "title": "Teaching",
     "section": "Workshops & Training (selected)",
     "text": "Workshops & Training (selected)\n\n2–6 May 2022 – On the trail of Alexander Von Humboldt: digital tools for preservation, research and dissemination of cultural heritage\nUniversità di Verona (6‑hour workshop)\nJan 2019 – Atélier TEI\nUniversité Paris Sorbonne (1‑week workshop)\nNov 2017 – Edición digital y análisis cuantitativo de textos poéticos del Siglo de Oro\nUniversità di Verona (1‑week workshop)\nApr 2017 – Introduction to the Text Encoding Initiative and Web Publication\nNYU Abu Dhabi (1‑day workshop)\n2015 – Introduction to Literary Studies (TA)\nDegree in Humanities, Universitat Pompeu Fabra\n2014 – Scholarly Writing (TA)\nDegree in Humanities, Universitat Pompeu Fabra\n\n\nIf you’re a student looking for supervision or want to attend a future workshop, feel free to contact me."
-  },
-  {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
-    "section": "",
-    "text": "References\n\nAlvite-Díez, María-Luisa, and Antonio Rojas-Castro. 2022. “Ediciones Digitales Académicas: Concepto, Estándares de Calidad y Software de Publicación.” El Profesional de La Información 31 (2): e310216. https://doi.org/10.3145/epi.2022.mar.16.\n\n\nIsasi, Jennifer, and Antonio Rojas Castro. 2021. “¿Sin Equivalencia? Una Reflexión Sobre La Traducción Al Español de Recursos Educativos Abiertos.” Hispania 104 (4): 613–24. https://doi.org/10.1353/hpn.2021.0130.\n\n\nKeith, Allison, Antonio Rojas Castro, and Sebastian Padó. 2024. “Computational Analysis of Gender Depiction in the Comedias of Calderón de La Barca.” arXiv. https://doi.org/10.48550/arXiv.2411.03895.\n\n\nKrafkt, Tobias, Antonio Rojas Castro, and Grisel Terrón Quintero, eds. 2024. Archivos Abiertos: El Patrimonio Documental Cubano y La Transformación Digital. De Gruyter. https://doi.org/10.1515/9783111187846.\n\n\nRojas Castro, Antonio. 2013a. “Las Humanidades Digitales: Principios, Valores y Prácticas.” Janus 2 (September): 74–99. http://www.janusdigital.es/articulo.htm?id=24.\n\n\n———. 2013b. “El Mapa y El Territorio. Una Aproximación Histórico-Bibliográfica a La Emergencia de Las Humanidades Digitales En España.” Caracteres 2 (2): 10–53. http://revistacaracteres.net/revista/vol2n2noviembre2013/el-mapa-y-el-territorio/.\n\n\n———. 2015. “De Los Datos Al Metamedio.” Ínsula 822 (June): 15–17.\n\n\n———. 2017a. “La Edición Crítica Digital y La Codificación TEI. Preliminares Para Una Nueva Edición de Las Soledades de Luis de Góngora.” Revista de Humanidades Digitales 1: 4–19. https://doi.org/10.5944/rhd.vol.1.2017.16379.\n\n\n———. 2017b. “Luis de Góngora y La Fábula Mitológica Del Siglo de Oro: Clasificación de Textos y Análisis Léxico Con Métodos Informáticos.” Studia Aurea 11 (0): 111–42. https://doi.org/10.5565/rev/studiaaurea.260.\n\n\n———. 2018a. “La Edición Académica Digital. De Las Teorías Del Texto a La Visualización de La Información.” In Humanidades Digitales: Edición, Literatura y Arte, 47–80. México D.F.: Bonilla Artigas. https://hcommons.org/deposits/item/hc:21883/.\n\n\n———. 2018b. “Las \"Soledades\" de Luis de Góngora En El Manuscrito 2056 de La Biblioteca de Catalunya: Estudio Bibliográfico y Nuevas Variantes de Autor.” Rilce. Revista de Filología Hispánica 34 (1): 69–99. https://doi.org/10.15581/008.34.1.69-99.\n\n\n———. 2021. “Contra La Retórica FAIR.” Romanistik-Blog. https://blog.fid-romanistik.de/2021/04/28/contra-la-retorica-fair/.\n\n\n———. 2022a. “Roopika Risam, «New Digital Worlds. Postcolonial Digital Humanities in Theory, Praxis, and Pedagogy».” Anuario Lope de Vega Texto Literatura Cultura 28 (January): 588–92. https://doi.org/10.5565/rev/anuariolopedevega.433.\n\n\n———. 2022b. “La Publicación de Ediciones Digitales Académicas y El Caso de Las \"Soledades\" de Luis de Góngora.” Historias Fingidas Special Volume (1): 195–217. https://doi.org/10.13136/2284-2667/1149.\n\n\n———. 2023a. “Los Principios FAIR y El Proyecto Humboldt Digital. Una Confrontación.” In Humanidades Digitales y Patrimonio Cultural. Proyectos y Tendencias, edited by Anna Peirats and José Antonio Calvo, 161–83. Valencia: Tirant Lo Blanch.\n\n\n———. 2023b. “Multilingual Interfaces for All? Localisation Strategies in Proyecto Humboldt Digital.” In Multilingual Digital Humanities, 1st ed., 183–96. London: Routledge. https://doi.org/10.4324/9781003393696-16.\n\n\n———. 2024. “Big Data y Humanidades Digitales.” In Arte-Factos Para Los Estudios Literarios, edited by Nattie Golubov, 120–41. México D.F.: Universidad Autónoma de México.\n\n\n———. 2025. “Mapping Early Modern Hispanic Mythological Poems with Recogito.” In Digital Humanities in Medieval and Early Modern Spanish Texts, edited by Roberto J. González Zalacain and Gael Vaamonde, 101st–117th ed. Oxon & New York: Routledge.\n\n\nRojas Castro, Antonio, Tobias Kraft, and Grisel Terrón. 2023. “Política de Digitalización de Proyecto Humboldt Digital (ProHD).” https://zenodo.org/record/7564856.\n\n\nRojas Castro, Antonio, Cèlia Nadal Pasqual, and Amanda Pedraza. 2017. “El Diseño de CABIGO (Catálogo Bibliográfico Sobre Góngora).” In Serenísima Palabra. Actas Del X Congreso de La Asociación Internacional Siglo de Oro (Venecia, 14-18 de Julio de 2014). 5th Series. Venezia: Università Ca’ Foscari Venezia, Italia. https://doi.org/10.14277/6969-163-8/RIB-5-23.\n\n\nRojas Castro, Antonio, and Grisel Quintero Terrón. 2024. “Nuevos Retos En Torno a La Edición Digital En La Oficina Del Historiador: Hacia Una Transcripción Automatizada de Documentos Históricos.” In Archivos Abiertos: El Patrimonio Documental Cubano y La Transformación Digital, edited by Tobias Kraft, Antonio Rojas Castro, and Grisel Terrón Quintero, 101–20. De Gruyter. https://doi.org/10.1515/9783111187846-004.\n\n\nRojas Castro, Antonio, Grisel Terrón Quintero, Alaina Solernou Ferrer, and Tobias Kraft. 2023. “Cómo Crear Ediciones Digitales Académicas Entre La Habana y Berlín. El Caso de Proyecto Humboldt Digital (ProHD).” Journal of the Text Encoding Initiative, no. 16 (May). https://journals.openedition.org/jtei/4560."
-  },
-  {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "Curriculum Vitae",
-    "section": "",
-    "text": "Education\n\n2011-2015: PhD in Humanities\nUniversitat Pompeu Fabra, Barcelona, Spain\n2009-2011: MA in Comparative Literature\nUniversitat Pompeu Fabra, Barcelona, Spain\n2004-2009: BA in Humanities\nUniversitat Pompeu Fabra, Barcelona, Spain\n\n\n\n\nEmployment\n\n2025-Present: Digital Humanities Research Associate\nFreie Universität Berlin\n2024-Present: Digital Humanities Research Associate\nUniversität Tübingen\n2019-2023: Digital Humanities Research Associate\nBerlin-Brandenburg Academy of Sciences and Humanities\n2016-2019: Research Associate\nCologne Center for eHumanities, Universität zu Köln\n\n\n\n\nTeaching\n\n2020-2025: Part-Time Lecturer, Universidad Internacional de La Rioja (UNIR)\n\nDigital Scholarly Editing (MA in Digital Humanities)\n\nMaster’s Thesis Supervision\n\nTheories of Digital Humanities, Linguistic Applications\n\nGuest lectures and workshops at:\nNYU Abu Dhabi, Université Paris Sorbonne, Università di Verona\n\n\n\n\nSkills\n\nLanguages: Spanish (native), English (fluent), German (advanced), French (reading)\nTechnical: TEI/XML, XSLT, Git, Python, Pandoc, Quarto, Jupyter, Markdown, LaTeX\nTools: EVT, Oxygen, VS Code, GitHub, Gephi, Voyant, Zotero\n\n\n\n\nPublications\nSee full list →\n\n\n\nService\n\n2025-Present: Board, Text+ Scientific Coordination Committee: Editions\n2021–2023: Board, Asociación de Humanidades Digitales Hispánicas\n2019-2020: Coordinator, Recogito Working Group (Pelagios Network)\n2016–2020: Board, Programming Historian\n2015–2018: Communication Fellow, European Association for Digital Humanities\n\n\n\n\nReferee & Review\n\nReviewed submissions for:\n\nDigital Scholarship in the Humanities\n\nRevista de Humanidades Digitales\n\nProgramming Historian\n\n\n\n\n\nAdditional\n\nInterested in data science, infrastructure, open research, and multilingual DH\nORCID: 0000-0002-8916-4997\n\n\n\n\nDownload\n\nDownload CV (PDF)"
-  },
-  {
-    "objectID": "projects/proyecto-humboldt.html",
-    "href": "projects/proyecto-humboldt.html",
-    "title": "Proyecto Humboldt Digital",
-    "section": "",
-    "text": "Status: Completed (2019–2023)\nLead Institutions: Oficina del Historiador de La Habana (OHCH) & Berlin-Brandenburg Academy of Sciences and Humanities (BBAW)\nFunding: Fritz Thyssen Stiftung, Gerda Henkel Stiftung, Kulturerhaltprogramms des Auswärtigen Amts.\nProyecto Humboldt Digital (ProHD) was a four-year international cooperation between the OHCH in Cuba and the BBAW in Germany. Funded by the German Foreign Office, the Fritz Thyssen Foundation, and the Gerda Henkel Foundation, the project aimed to preserve and publish documents related to Alexander von Humboldt’s visits to Cuba (1800–1801, 1804).\nThrough a shared editorial workflow, the project identified, digitized, described, encoded, and published 28 historical documents in open-access digital editions using TEI XML and open-source tools like ediarum and TEI Publisher. All outputs were made available in Spanish, German, and English.\nProHD strengthened editorial and digital capacities at OHCH and contributed to international knowledge transfer and cultural preservation across national and linguistic boundaries."
-  },
-  {
-    "objectID": "projects/proyecto-humboldt.html#related-links",
-    "href": "projects/proyecto-humboldt.html#related-links",
-    "title": "Proyecto Humboldt Digital",
-    "section": "Related links",
-    "text": "Related links\n\nDossier Digital\n\n“Los Principios FAIR y El Proyecto Humboldt Digital. Una Confrontación.” In Humanidades Digitales y Patrimonio Cultural. Proyectos y Tendencias, edited by Anna Peirats and José Antonio Calvo, 161–83. Valencia: Tirant Lo Blanch.\n\nKrafkt, Tobias, Antonio Rojas Castro, and Grisel Terrón Quintero, eds. 2024. Archivos Abiertos: El Patrimonio Documental Cubano y La Transformación Digital. De Gruyter. https://doi.org/10.1515/9783111187846.\nRojas Castro, Antonio, Grisel Terrón Quintero, Alaina Solernou Ferrer, and Tobias Kraft. 2023. “Cómo Crear Ediciones Digitales Académicas Entre La Habana y Berlín. El Caso de Proyecto Humboldt Digital (ProHD).” Journal of the Text Encoding Initiative, no. 16 (May). https://journals.openedition.org/jtei/4560."
-  },
-  {
-    "objectID": "projects/golden-age-poems.html",
-    "href": "projects/golden-age-poems.html",
-    "title": "Golden Age Mythological Poems",
-    "section": "",
-    "text": "Status: Ongoing (2016–Present)\nFunding: Self-funded\nThis project investigates the Spanish Golden Age’s vibrant tradition of mythological poetry, especially the fábula mitológica, a genre of short epic poems composed between 1550 and 1650. These narrative poems, often inspired by Ovid’s Metamorphoses and popularized by Luis de Góngora’s Fábula de Polifemo y Galatea (1613), fuse classical mythology with early modern poetics and reflect broader cultural debates on imitation, fiction, and stylistic experimentation.\nThe project applies digital methods to a curated corpus of 25 fábulas mitológicas (over 150,000 words). It pursues three interrelated goals:\nInitial results show a mythological geography centered on the Mediterranean and classical antiquity, but also incorporating modern Iberian references. The project also refines authorial attributions and challenges traditional stylistic classifications in the Góngora tradition.\nAll data, scripts, and findings are made openly available in TEI/XML and CSV formats, supporting further research in early modern poetics and the digital humanities."
-  },
-  {
-    "objectID": "projects/golden-age-poems.html#related-links",
-    "href": "projects/golden-age-poems.html#related-links",
-    "title": "Golden Age Mythological Poems",
-    "section": "Related links",
-    "text": "Related links\n\nGitHub Repository\n\n“Mapping Early Modern Hispanic Mythological Poems with Recogito.” In Digital Humanities in Medieval and Early Modern Spanish Texts, edited by Roberto J. González Zalacain and Gael Vaamonde, 101st–117th ed. Oxon & New York: Routledge.\n\n\n“Luis de Góngora y La Fábula Mitológica Del Siglo de Oro: Clasificación de Textos y Análisis Léxico Con Métodos Informáticos.” Studia Aurea 11 (0): 111–42. https://doi.org/10.5565/rev/studiaaurea.260."
-  },
-  {
-    "objectID": "projects/soledades.html",
-    "href": "projects/soledades.html",
-    "title": "Soledades by Luis de Góngora: A Digital Critical Edition",
-    "section": "",
-    "text": "Status: Completed\nDuration: 2011–2017\nLead Institutions: Universitat Pompeu Fabra & University of Cologne\nFunding: Ministerio de Ciencia y Economía (España) (FPI Fellowship - Doctoral project)\nThis project produced a digital critical edition of Soledades by Luis de Góngora, combining traditional philological methods with digital technologies. The edition was developed in two phases: the first involved the textual collation and critical establishment of the poem based on 21 manuscripts and prints; the second focused on encoding the edition in XML/TEI and publishing it using the open-source tool Edition Visualization Technology (EVT).\nThe edition highlights significant authorial variants—some unpublished before—identified through the study of the manuscript 2056 (Biblioteca de Catalunya). It allows users to interactively explore the critical text, compare variant readings, and evaluate editorial decisions.\nThis scholarly resource exemplifies a “paradigmatic digital edition,” where a single TEI file dynamically generates multiple textual views. It is openly accessible online and demonstrates how minimal computing and open infrastructures can support high-quality textual scholarship even in the absence of dedicated funding."
-  },
-  {
-    "objectID": "projects/soledades.html#related-links",
-    "href": "projects/soledades.html#related-links",
-    "title": "Soledades by Luis de Góngora: A Digital Critical Edition",
-    "section": "Related links",
-    "text": "Related links\n\nDigital Edition\n\n“La Edición Crítica Digital y La Codificación TEI. Preliminares Para Una Nueva Edición de Las Soledades de Luis de Góngora.” Revista de Humanidades Digitales 1: 4–19. https://doi.org/https://doi.org/10.5944/rhd.vol.1.2017.16379.\n\n\n“Las”Soledades” de Luis de Góngora En El Manuscrito 2056 de La Biblioteca de Catalunya: Estudio Bibliográfico y Nuevas Variantes de Autor.” Rilce. Revista de Filología Hispánica 34 (1): 69–99. https://doi.org/10.15581/008.34.1.69-99.\n\n\n“La Publicación de Ediciones Digitales Académicas y El Caso de Las”Soledades” de Luis de Góngora.” Historias Fingidas Special Volume (1): 195–217. https://doi.org/10.13136/2284-2667/1149."
-  },
-  {
-    "objectID": "projects/tracing-calderon.html",
-    "href": "projects/tracing-calderon.html",
-    "title": "Tracing Regularities in Calderón de La Barca",
-    "section": "",
-    "text": "Status: Ongoing (2023–2026)\nLead Institutions: University of Tübingen & University of Stuttgart\nFunding: DFG\nThis interdisciplinary research project investigates recurring patterns across the dramatic works of Pedro Calderón de la Barca (1600–1681) using computational methods. Drawing on a corpus of 205 encoded plays (comedias nuevas and autos sacramentales), the project combines literary scholarship and computational linguistics to trace regularities at multiple structural levels.\nWe pursue three main objectives:\nOur approach integrates qualitative and quantitative methods and aims to contribute both to Calderonian scholarship and to scalable models for drama analysis in the Digital Humanities.\nThe project is a collaboration between the Institute of Romance Studies at the University of Tübingen and the Institute for Natural Language Processing at the University of Stuttgart, supported by leading Calderón editors and the DraCor infrastructure."
-  },
-  {
-    "objectID": "projects/tracing-calderon.html#related-links",
-    "href": "projects/tracing-calderon.html#related-links",
-    "title": "Tracing Regularities in Calderón de La Barca",
-    "section": "Related links",
-    "text": "Related links\n\nGitHub Repository\nKeith, Allison, Antonio Rojas Castro, and Sebastian Padó. 2024. “Computational Analysis of Gender Depiction in the Comedias of Calderón de La Barca.” arXiv. https://doi.org/10.48550/arXiv.2411.03895."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "Hello!\nI am a Digital Humanities researcher with a PhD in Humanities from Universitat Pompeu Fabra (Barcelona), where I specialized in digital scholarly editing. My dissertation (2011–2015) focused on Luis de Góngora’s Soledades, for which I manually collated twenty witnesses and published a critical edition using Edition Visualization Technology (EVT).\nSince then, I’ve contributed to a range of interdisciplinary projects across Europe. At the Cologne Center for eHumanities (2016–2019), I helped design and implement the bibliographic data model for HallerNet, a digital platform dedicated to the Swiss Enlightenment. From 2019 to 2025, I worked at the Berlin-Brandenburg Academy of Sciences and Humanities, developing the multilingual Dossier Digital: Alexander von Humboldt and Cuba as part of the Proyecto Humboldt Digital.\nCurrently, I am a Research Associate at the University of Tübingen, where I explore recurring patterns in Calderón de la Barca’s drama through computational methods. I also collaborate with the Freie Universität Berlin on the DraCor project, contributing to its technical development, training materials, and open science integration.\nIn parallel, I taught from 2020 to 2025 as a Part-Time Lecturer in the Digital Humanities master’s program at the Universidad Internacional de La Rioja (UNIR). I offered a course on digital scholarly editing and supervised several MA theses.\nI’m passionate about community-driven scholarship and open knowledge. Over the past decade, I’ve volunteered with initiatives such as:\n\ntext+ (2025–Present)\n\nAsociación de Humanidades Digitales Hispánicas (HDH) (2021–2023)\n\nThe Programming Historian (2016–2020)\n\nEuropean Association for Digital Humanities (EADH) (2015–2018)\n\nOutside of work, I enjoy sports, drawing, reading, and discovering new places."
   }
 ]
