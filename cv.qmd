@@ -45,8 +45,8 @@ Cologne Center for eHumanities, Universität zu Köln
 
 # Skills
 
-- **Languages:** Spanish (native), English (fluent), German (advanced), French (reading)
-- **Technical:** TEI/XML, XSLT, Git, Python, Pandoc, Quarto, Jupyter, Markdown, LaTeX
+- **Languages:** Spanish & Catalan (native), English (fluent), German (intermediate), French (reading)
+- **Technical:** TEI/XML, XSLT, Git, Python, Jupyter, Pandoc, Quarto, Markdown, LaTeX
 - **Tools:** EVT, Oxygen, VS Code, GitHub, Gephi, Voyant, Zotero
 
 ---
