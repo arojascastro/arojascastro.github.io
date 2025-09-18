@@ -21,3 +21,4 @@ In addition to publishing Jupyter-based teaching resources in Python and support
 
 ## Related links:
 - [DraCor](https://dracor.org/)
+- [OSCARS Project](https://oscars-project.eu/projects/dracoros-fostering-open-science-digital-humanities-connecting-dracor-ecosystem-eosc)
