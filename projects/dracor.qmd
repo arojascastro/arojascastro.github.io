@@ -11,7 +11,7 @@ format:
     toc: true
 ---
 
-**Status:** Ongoing (2024–2026)  
+**Status:** Ongoing (2025–2027)  
 **Lead Institutions:** Freie Universität Berlin & University of Potsdam  
 **Funding:** EOSC (European Open Science Cloud)
 
