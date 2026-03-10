@@ -10,8 +10,11 @@ page-layout: article
 
 # Dr. Antonio Rojas Castro
 
-I am a Digital Humanities Research Associate at the **Freie Universität Berlin** and the **University of Tübingen**. I specialize in digital editions and computational literary studies. 
-My current research focuses on network analysis applied to theater and mythological poems in Early Modern Spain.
+I am a digital humanities researcher working at the intersection of humanities scholarship, research data management and digital infrastructures. My work focuses on the creation, organisation and analysis of structured textual data, particularly in the context of historical and literary corpora.
+
+I have extensive experience in the development of digital editions, corpus-based research and reproducible workflows using technologies such as XML/TEI, XSLT, Python and Jupyter. I have worked in several international research projects based in Germany, contributing to the design of digital infrastructures, the documentation of workflows and the development of open research resources.
+
+Beyond my research, I am interested in how digital methods can support cultural heritage institutions, libraries and research infrastructures in making complex textual collections more accessible and reusable.
 
 You can found more information about my work at:
 
