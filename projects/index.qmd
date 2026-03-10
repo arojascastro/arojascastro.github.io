@@ -5,7 +5,7 @@ title: "Projects"
 Here is a selection of my main digital research projects:
 
 ## [DraCorOS: Fostering Open Science in Digital Humanities](dracor.qmd)  
-**Ongoing (2024–2026)**  
+**Ongoing (2024–2027)**  
 A joint project between FU Berlin and University of Potsdam to connect the DraCor platform with the European Open Science Cloud. It focuses on LOD expansion, training materials, community feedback, and sustainable Open Science workflows.
 
 ## [Tracing Regularities in Calderón’s Dramatic Œuvre](tracing-calderon.qmd)  
