@@ -63,18 +63,46 @@
     "text": "Here is a selection of my main digital research projects:"
   },
   {
-    "objectID": "projects/index.html#my-projects-pi",
-    "href": "projects/index.html#my-projects-pi",
+    "objectID": "projects/index.html#dracoros-fostering-open-science-in-digital-humanities",
+    "href": "projects/index.html#dracoros-fostering-open-science-in-digital-humanities",
     "title": "Projects",
-    "section": "My Projects (PI)",
-    "text": "My Projects (PI)\n\n\n\n\nGolden Age Mythological Poems\nOngoing (2016–Present)\nThis project builds a TEI-based corpus of 25 fábulas mitológicas and applies stylometric and lexical analysis to explore Góngora’s influence, genre development, and poetic vocabulary. Includes literary cartography and open publication plans.\n\n\n“Soledades” by Luis de Góngora: A Digital Critical Edition\nCompleted (2011–2017)\nA doctoral digital edition of Góngora’s Soledades developed at UPF and published with EVT at the University of Cologne. Combines textual criticism with interactive TEI encoding and web publication of variants and manuscript witnesses."
+    "section": "DraCorOS: Fostering Open Science in Digital Humanities",
+    "text": "DraCorOS: Fostering Open Science in Digital Humanities\nOngoing (2024–2026)\nA joint project between FU Berlin and University of Potsdam to connect the DraCor platform with the European Open Science Cloud. It focuses on LOD expansion, training materials, community feedback, and sustainable Open Science workflows."
   },
   {
-    "objectID": "projects/index.html#collaborative-projects",
-    "href": "projects/index.html#collaborative-projects",
+    "objectID": "projects/index.html#tracing-regularities-in-calderóns-dramatic-œuvre",
+    "href": "projects/index.html#tracing-regularities-in-calderóns-dramatic-œuvre",
     "title": "Projects",
-    "section": "Collaborative Projects",
-    "text": "Collaborative Projects\n\nDraCorOS: Fostering Open Science in Digital Humanities\nOngoing (2024–2026)\nA joint project between FU Berlin and University of Potsdam to connect the DraCor platform with the European Open Science Cloud. It focuses on LOD expansion, training materials, community feedback, and sustainable Open Science workflows.\n\n\nTracing Regularities in Calderón’s Dramatic Œuvre\nOngoing (2023–2026)\nAn interdisciplinary project combining literary analysis and computational methods to study lexical, structural, and character-level patterns across Calderón’s comedias and autos sacramentales using a TEI-encoded corpus of 205 plays.\n\n\nProyecto Humboldt Digital (ProHD)\nCompleted (2019–2023)\nA transnational initiative between the OHCH (Havana) and BBAW (Berlin) to digitize, encode, and publish documents related to Humboldt’s visits to Cuba, promoting open access and digital editorial capacity through TEI and open infrastructures.\n\n\nHallerNet\nCompleted (2016–2019)\nA collaborative project (University of Bern & Cologne) that transformed the FAUST legacy database into a TEI-based infrastructure for Albrecht von Haller’s works, correspondence, and bibliography, enabling semantically enriched editions and networked data."
+    "section": "Tracing Regularities in Calderón’s Dramatic Œuvre",
+    "text": "Tracing Regularities in Calderón’s Dramatic Œuvre\nCompleted (2023–2026)\nAn interdisciplinary project combining literary analysis and computational methods to study lexical, structural, and character-level patterns across Calderón’s comedias and autos sacramentales using a TEI-encoded corpus of 205 plays."
+  },
+  {
+    "objectID": "projects/index.html#proyecto-humboldt-digital-prohd",
+    "href": "projects/index.html#proyecto-humboldt-digital-prohd",
+    "title": "Projects",
+    "section": "Proyecto Humboldt Digital (ProHD)",
+    "text": "Proyecto Humboldt Digital (ProHD)\nCompleted (2019–2023)\nA transnational initiative between the OHCH (Havana) and BBAW (Berlin) to digitize, encode, and publish documents related to Humboldt’s visits to Cuba, promoting open access and digital editorial capacity through TEI and open infrastructures."
+  },
+  {
+    "objectID": "projects/index.html#hallernet",
+    "href": "projects/index.html#hallernet",
+    "title": "Projects",
+    "section": "HallerNet",
+    "text": "HallerNet\nCompleted (2016–2019)\nA collaborative project (University of Bern & Cologne) that transformed the FAUST legacy database into a TEI-based infrastructure for Albrecht von Haller’s works, correspondence, and bibliography, enabling semantically enriched editions and networked data."
+  },
+  {
+    "objectID": "projects/index.html#golden-age-mythological-poems",
+    "href": "projects/index.html#golden-age-mythological-poems",
+    "title": "Projects",
+    "section": "Golden Age Mythological Poems",
+    "text": "Golden Age Mythological Poems\nCompleted (2016–2019)\nThis project builds a TEI-based corpus of 25 fábulas mitológicas and applies stylometric and lexical analysis to explore Góngora’s influence, genre development, and poetic vocabulary. Includes literary cartography and open publication plans."
+  },
+  {
+    "objectID": "projects/index.html#soledades-by-luis-de-góngora-a-digital-critical-edition",
+    "href": "projects/index.html#soledades-by-luis-de-góngora-a-digital-critical-edition",
+    "title": "Projects",
+    "section": "“Soledades” by Luis de Góngora: A Digital Critical Edition",
+    "text": "“Soledades” by Luis de Góngora: A Digital Critical Edition\nCompleted (2011–2017)\nA doctoral digital edition of Góngora’s Soledades developed at UPF and published with EVT at the University of Cologne. Combines textual criticism with interactive TEI encoding and web publication of variants and manuscript witnesses."
   },
   {
     "objectID": "index.html",
@@ -151,7 +179,7 @@
     "href": "projects/golden-age-poems.html",
     "title": "Golden Age Mythological Poems",
     "section": "",
-    "text": "Status: Ongoing (2016–Present)\nFunding: Self-funded\nThis project investigates the Spanish Golden Age’s vibrant tradition of mythological poetry, especially the fábula mitológica, a genre of short epic poems composed between 1550 and 1650. These narrative poems, often inspired by Ovid’s Metamorphoses and popularized by Luis de Góngora’s Fábula de Polifemo y Galatea (1613), fuse classical mythology with early modern poetics and reflect broader cultural debates on imitation, fiction, and stylistic experimentation.\nThe project applies digital methods to a curated corpus of 25 fábulas mitológicas (over 150,000 words). It pursues three interrelated goals:\nInitial results show a mythological geography centered on the Mediterranean and classical antiquity, but also incorporating modern Iberian references. The project also refines authorial attributions and challenges traditional stylistic classifications in the Góngora tradition.\nAll data, scripts, and findings are made openly available in TEI/XML and CSV formats, supporting further research in early modern poetics and the digital humanities."
+    "text": "Status: Completed (2016–2019)\nFunding: Self-funded\nThis project investigates the Spanish Golden Age’s vibrant tradition of mythological poetry, especially the fábula mitológica, a genre of short epic poems composed between 1550 and 1650. These narrative poems, often inspired by Ovid’s Metamorphoses and popularized by Luis de Góngora’s Fábula de Polifemo y Galatea (1613), fuse classical mythology with early modern poetics and reflect broader cultural debates on imitation, fiction, and stylistic experimentation.\nThe project applies digital methods to a curated corpus of 25 fábulas mitológicas (over 150,000 words). It pursues three interrelated goals:\nInitial results show a mythological geography centered on the Mediterranean and classical antiquity, but also incorporating modern Iberian references. The project also refines authorial attributions and challenges traditional stylistic classifications in the Góngora tradition.\nAll data, scripts, and findings are made openly available in TEI/XML and CSV formats, supporting further research in early modern poetics and the digital humanities."
   },
   {
     "objectID": "projects/golden-age-poems.html#related-links",
