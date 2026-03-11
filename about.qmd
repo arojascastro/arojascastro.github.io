@@ -11,9 +11,9 @@ Over the past decade, I have worked in several international research projects d
 
 I have held research positions at the **Cologne Center for eHumanities**, the **Berlin-Brandenburg Academy of Sciences and Humanities** and the **University of Tübingen**. In these roles, I contributed to projects such as [*HallerNet*](https://hallernet.org/), [Proyecto Humboldt Digital](https://dossierdigital.ohc.cu/exist/apps/ProHD/start.html) and [CalDraCor](https://dfg-spp-cls.github.io/projects_en/2020/01/24/TP-Tracing_Regularities_in_Calderon/), working on digital scholarly editions, corpus development, data modelling and computational analysis of large textual collections.
 
-I also collaborate with the **Freie Universität Berlin** on the [DraCor](https://dracor.org/) project, contributing to its technical development, training materials and open science integration.
+I also collaborate with the **Freie Universität Berlin** on the [DraCorOS](https://dracor.org/) project, contributing to its technical development, training materials and open science integration.
 
 In addition to my research work, I have taught digital humanities and digital scholarly editing at the **Universidad Internacional de La Rioja (UNIR)**, where I supervised several MA theses and helped train students in digital methods for humanities research.
 
-I am particularly interested in projects related to digital collections, research data management, open science and cultural heritage infrastructures.
+I am particularly interested in projects related to **digital collections**, **research data management**, **open science** and **cultural heritage infrastructures**.
 
