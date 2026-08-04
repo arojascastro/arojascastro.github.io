@@ -4,10 +4,13 @@ title: "Curriculum Vitae"
 # Download
 
 - [Download CV as PDF](cv/cv.pdf)
+---
 
 # Professional Profile
 
 Digital Humanities and research data specialist with more than ten years of experience in digital collections, metadata, scholarly editions and research infrastructures. Experienced in coordinating collaborative workflows, documenting research data and developing reusable Open Science resources.
+
+---
 
 # Employment
 
