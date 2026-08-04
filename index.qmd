@@ -8,8 +8,7 @@ page-layout: article
   <img src="images/antonio.jpg" alt="Antonio Rojas Castro" width="200">
 </div>
 
-# Dr. Antonio Rojas Castro
-**Digital Humanities · Research Data Management · Open Science · Digital Collections**
+# **Digital Humanities · Research Data Management · Open Science · Digital Collections**
 
 I am a Digital Humanities and research data specialist with more than ten years of experience in international research projects. I work at the intersection of humanities scholarship, structured data and digital research infrastructures, with a particular focus on historical and literary collections.
 
