@@ -7,7 +7,9 @@ Hello!
 
 I am a **digital humanities** and **research data specialist** working at the intersection of humanities scholarship, digital collections and research infrastructures. My work focuses on the organisation, analysis and documentation of structured textual data, particularly in the context of historical and literary corpora.
 
-Over the past decade, I have worked in several international research projects developing **digital infrastructures**, **data models** and **reproducible research workflows** using technologies such as **XML/TEI**, **Python** and **Jupyter**. My experience includes the creation and curation of digital text collections, metadata modelling and the documentation of research data for collaborative and open science environments.
+Over the past decade, I have worked in several international research projects developing **digital infrastructures**, **data models** and **reproducible research workflows** using technologies such as **XML/TEI**, **Python** and **Jupyter**. My experience includes the creation and curation of digital text collections, metadata modelling and the documentation of research data for collaborative and open science environments. 
+
+My work has included the curation and analysis of CalDraCor, a corpus of more than 200 Spanish plays, and contributions to 34 TEI-encoded digital editions in Proyecto Humboldt Digital.
 
 I have held research positions at the **Cologne Center for eHumanities**, the **Berlin-Brandenburg Academy of Sciences and Humanities** and the **University of Tübingen**. In these roles, I contributed to projects such as [*HallerNet*](https://hallernet.org/), [Proyecto Humboldt Digital](https://dossierdigital.ohc.cu/exist/apps/ProHD/start.html) and [CalDraCor](https://dfg-spp-cls.github.io/projects_en/2020/01/24/TP-Tracing_Regularities_in_Calderon/), working on digital scholarly editions, corpus development, data modelling and computational analysis of large textual collections.
 
@@ -15,5 +17,4 @@ I currently work at the Freie Universität Berlin on the [DraCorOS](https://drac
 
 In addition to my research work, I have taught digital humanities and digital scholarly editing at the **Universidad Internacional de La Rioja (UNIR)**, where I supervised several MA theses and helped train students in digital methods for humanities research.
 
-I am particularly interested in projects related to **digital collections**, **research data management**, **open science** and **cultural heritage infrastructures**.
-
+I bring together humanities research, structured data, documentation and user-oriented digital services. I am particularly interested in positions involving research data management, Open Science, digital collections, metadata, scholarly communication and sustainable research infrastructures.
