@@ -2,32 +2,19 @@
 title: "Curriculum Vitae"
 ---
 
-# Education
-
-- **2011-2015**: PhD in Humanities   
-Universitat Pompeu Fabra, Barcelona, Spain  
-
-- **2009-2011**: MA in Comparative Literature    
-Universitat Pompeu Fabra, Barcelona, Spain
-
-- **2004-2009**: BA in Humanities  
-Universitat Pompeu Fabra, Barcelona, Spain
-
----
-
 # Employment
 
-- **2025-2027**: Digital Humanities Research Associate   
-Freie Universität Berlin
+- **Apr. 2025–present**: Digital Humanities Research Associate  
+  Freie Universität Berlin
 
-- **2024-2026**: Digital Humanities Research Associate  
-Universität Tübingen
+- **Apr. 2023–Mar. 2026**: Digital Humanities Research Associate  
+  University of Tübingen
 
-- **2019-2023**: Digital Humanities Research Associate  
-Berlin-Brandenburg Academy of Sciences and Humanities
+- **Jun. 2019–Apr. 2024**: Digital Humanities Research Associate  
+  Berlin-Brandenburg Academy of Sciences and Humanities
 
-- **2016-2019**: Research Associate  
-Cologne Center for eHumanities, Universität zu Köln
+- **2016–2019**: Research Associate  
+  Cologne Center for eHumanities, University of Cologne
 
 ---
 
@@ -43,11 +30,26 @@ Cologne Center for eHumanities, Universität zu Köln
 
 ---
 
-# Skills
+# Core Competencies
 
-- **Languages:** Spanish & Catalan (native), English (fluent), German (intermediate), French (reading)
-- **Technical:** TEI/XML, XSLT, Git, Python, Jupyter, Pandoc, Quarto, Markdown, LaTeX
-- **Tools:** EVT, Oxygen, VS Code, GitHub, Gephi, Voyant, Zotero
+- **Research data and Open Science:** data management, FAIR principles, documentation, reproducible workflows, repository preparation
+- **Digital collections and metadata:** TEI/XML, metadata modelling, digital scholarly editions, authority data, IIIF
+- **Technical methods:** Python, Jupyter, XSLT, Git, APIs, data validation and transformation
+- **Communication and coordination:** technical documentation, training, workshops, collaborative project workflows
+- **Languages:** Spanish and Catalan (native), English (C1), German (B2), French (reading)
+
+---
+
+# Education
+
+- **2011-2015**: PhD in Humanities   
+Universitat Pompeu Fabra, Barcelona, Spain  
+
+- **2009-2011**: MA in Comparative Literature    
+Universitat Pompeu Fabra, Barcelona, Spain
+
+- **2004-2009**: BA in Humanities  
+Universitat Pompeu Fabra, Barcelona, Spain
 
 ---
 

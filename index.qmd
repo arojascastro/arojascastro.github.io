@@ -9,14 +9,15 @@ page-layout: article
 </div>
 
 # Dr. Antonio Rojas Castro
+**Digital Humanities · Research Data Management · Open Science · Digital Collections**
 
-I am a digital humanities researcher working at the intersection of humanities scholarship, research data management and digital infrastructures. My work focuses on the creation, organisation and analysis of structured textual data, particularly in the context of historical and literary corpora.
+I am a Digital Humanities and research data specialist with more than ten years of experience in international research projects. I work at the intersection of humanities scholarship, structured data and digital research infrastructures, with a particular focus on historical and literary collections.
 
-I have extensive experience in the development of digital editions, corpus-based research and reproducible workflows using technologies such as XML/TEI, XSLT, Python and Jupyter. I have worked in several international research projects based in Germany, contributing to the design of digital infrastructures, the documentation of workflows and the development of open research resources.
+My expertise includes digital scholarly editions, corpus development, metadata and data modelling, research data documentation, and reproducible workflows using XML/TEI, XSLT, Python, Jupyter and Git. I have contributed to collaborative digital resources and infrastructures at universities and research institutions in Germany.
 
-Beyond my research, I am interested in how digital methods can support cultural heritage institutions, libraries and research infrastructures in making complex textual collections more accessible and reusable.
+My work helps research projects, libraries and cultural heritage organisations make complex textual collections accessible, interoperable and reusable. I am particularly interested in roles involving research data management, Open Science, digital collections and the coordination of digital research services.
 
-You can found more information about my work at:
+Find out more about my work:
 
 - [ORCID](https://orcid.org/0000-0002-8916-4997)  
 - [Google Scholar](https://scholar.google.com/citations?user=vVidxOUAAAAJ&hl=en)
