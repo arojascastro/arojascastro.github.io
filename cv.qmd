@@ -92,5 +92,6 @@ my [ORCID profile](https://orcid.org/0000-0002-8916-4997).
   - _Programming Historian_
   - _Open Learning: The Journal of Open, Distance and e-Learning_
   - _Journal of Computational Literary Studies_
+
 ---
 
