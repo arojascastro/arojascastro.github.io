@@ -4,6 +4,7 @@ title: "Curriculum Vitae"
 # Download
 
 - [Download CV as PDF](cv/cv.pdf)
+
 ---
 
 # Professional Profile
