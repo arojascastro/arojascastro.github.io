@@ -91,6 +91,10 @@ my [ORCID profile](https://orcid.org/0000-0002-8916-4997).
 # Peer Review
 
 Reviewed submissions for:  
+
+- _Programming Historian_ 
+- _Open Learning: The Journal of Open, Distance and e-Learning_ 
+- _Journal of Computational Literary Studies_ 
 - _Digital Scholarship in the Humanities_  
 - _Revista de Humanidades Digitales_  
 
