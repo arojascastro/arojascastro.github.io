@@ -1,7 +1,35 @@
 ---
 title: "Publications"
-bibliography: bibliography/references.bib
-nocite: |
-  @*
+bibliography: references.bib
+citeproc: false
+filters:
+  - quarto
+  - section-bibliographies
 ---
 
+# Journal articles
+
+::: {style="display: none;"}
+[@keith_investigating_2026; @ehrlicher_caldracor_2025; @keith_computation_2026]
+:::
+
+::: {.sectionrefs}
+:::
+
+# Book chapters
+
+::: {style="display: none;"}
+[@rojas_castro_mapping_2025; @rojas_castro_nuevos_2024]
+:::
+
+::: {.sectionrefs}
+:::
+
+# Edited books
+
+::: {style="display: none;"}
+[@kraft_archivos_2024]
+:::
+
+::: {.sectionrefs}
+:::
