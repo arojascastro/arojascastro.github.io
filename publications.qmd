@@ -7,10 +7,12 @@ filters:
   - section-bibliographies
 ---
 
+<!-- Add new citation keys to the appropriate section below. -->
+
 # Journal articles
 
 ::: {style="display: none;"}
-[@keith_investigating_2026; @ehrlicher_caldracor_2025; @keith_computation_2026]
+[@keith_investigating_2026; @ehrlicher_caldracor_2025; @keith_computation_2026; @keith_towards_2025; @rojas_castro_designing_2025; @rojas_castro_soledades_2018; @isasi_sin_2021; @rojas_castro_edicion_2017; @rojas_castro_datos_2015; @alvite-diez_ediciones_2022; @rojas_castro_mapa_2013; @rojas_castro_humanidades_2013; @rojas_castro_como_2023; @rojas_castro_publicacion_2022; @rojas_castro_luis_2017; @rojas_castro_cuantos_2018]
 :::
 
 ::: {.sectionrefs}
@@ -19,7 +21,7 @@ filters:
 # Book chapters
 
 ::: {style="display: none;"}
-[@rojas_castro_mapping_2025; @rojas_castro_nuevos_2024]
+[@ehrlicher_personajes_2025; @rojas_castro_mapping_2025; @rojas_castro_edicion_2018; @rojas_castro_nuevos_2024; @rojas_castro_big_2024; @viola_multilingual_2023; @rojas_castro_principios_2023; @rojas_castro_diseno_2017]
 :::
 
 ::: {.sectionrefs}
@@ -29,6 +31,42 @@ filters:
 
 ::: {style="display: none;"}
 [@kraft_archivos_2024]
+:::
+
+::: {.sectionrefs}
+:::
+
+# Reviews
+
+::: {style="display: none;"}
+[@rojas_castro_roopika_2022]
+:::
+
+::: {.sectionrefs}
+:::
+
+# Research resources
+
+::: {style="display: none;"}
+[@rojas_castro_caldracor_2025; @rojas-castro_antonio_criterios_2023; @rojas-castro_antonio_criterios_2023-1; @rojas-castro_antonio_politica_2023]
+:::
+
+::: {.sectionrefs}
+:::
+
+# Preprints
+
+::: {style="display: none;"}
+[@keith_computational_2024]
+:::
+
+::: {.sectionrefs}
+:::
+
+# Other writing
+
+::: {style="display: none;"}
+[@rojas_castro_contra_2021]
 :::
 
 ::: {.sectionrefs}
